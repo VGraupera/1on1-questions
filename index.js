@@ -14,7 +14,6 @@ for (const item of obj) {
 
 let content = ['# 1 on 1 Questions\nUltimate list compiled from a variety to sources']
 
-console.log(categoryMap);
 for (const [key, items] of Object.entries(categoryMap)) {
   content.push(`\n\n## ${key}`)
 
