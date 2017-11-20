@@ -11,14 +11,10 @@ Ultimate list compiled from a variety to sources
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 * How can I better support you?
 * How can I make your days more fulfilling?
-* How can I support you better?
-* How can i support you more?
 * How could I do a better job communicating with you?
-* How do you like to receive critical feedback?
 * How do you prefer to receive feedback?
 * How might I make this project more challenging or interesting for you?
 * I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
-* I'm interested in feedback on how I can improve as a manager. In preparing for our next 1-on-1, would you be willing to think through what you like about how I do X (for example, run team meetings) and what I could do differently or better? (Ask prior to the 1-on-1.)
 * If you were me, what changes would you make?
 * I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
 * I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
@@ -27,9 +23,7 @@ Ultimate list compiled from a variety to sources
 * What are your thoughts on my changes?
 * What aspect of your job you would like more help or coaching?
 * What aspects of your work would you like more or less direction from me?
-* What can I be accountable to you for the next time we talk?
 * What can I be doing better to help you in your job?
-* What can I be doing better?
 * What can I do as a manager to make your work easier?
 * What can I do better or differently as your manager to support you?
 * What can I do for you that I'm not?
@@ -94,7 +88,6 @@ Ultimate list compiled from a variety to sources
 * What capabilities do you want to develop?
 * What development areas do you want to work on in the coming weeks?
 * What do you see as the next step in your career?
-* What do you want to achieve in the next 3 years?
 * What do you want to be doing in 5 years? 10 years? 3 years?
 * What do you want to do in your next job?
 * What else can I be doing to help you grow/advance in your career?
@@ -107,7 +100,6 @@ Ultimate list compiled from a variety to sources
 * What skills are required to reach your goals?
 * What skills do you have that you think are underutilized?
 * What skills would you like to develop right now?
-* What skills would you like to work on most right now?
 * What sort of progress have you made on the next steps we discussed last time?
 * What work are you doing here that you feel is most in line with your long term goals?
 * What would make this your perfect job?
@@ -140,7 +132,6 @@ Ultimate list compiled from a variety to sources
 * Tell me about your family/weekend/ activities?
 * Tell me about your week – what’s it been like?
 * What can I do to make your day better?
-* What do you do in your free time?
 * What do you like to do in your free time? What are your hobbies?
 * What have you been doing for fun lately?
 * What would you like to focus on at this meeting?
@@ -154,7 +145,6 @@ Ultimate list compiled from a variety to sources
 ## Job satisfaction
 * Are you happy here? What makes you say that?
 * Are you happy with your recent work? Why or why not?
-* Are you happy working here?
 * Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
 * Do you feel challenged at work? Are you learning new things?
 * Do you feel like you're growing in your role? What makes you say that?
@@ -252,7 +242,6 @@ Ultimate list compiled from a variety to sources
 * How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
 * How would you rate our communication as a team?
 * How would you say we're doing at working together as team? What makes you say that?
-* If we could improve in any way as a company, how would we do it?
 * If we could improve in any way, how would we do it?
 * If you were CEO, what’s the first thing you’d change?
 * Is any part of your project unclear or confusing?
@@ -267,7 +256,6 @@ Ultimate list compiled from a variety to sources
 * What are some possible ways to get the solution you need?
 * What are some ways we could improve at teamwork? What makes you say that?
 * What are we doing that you think we should stop doing, and why?
-* What are we not doing that we should be doing?
 * What are we not doing that we should be doing? What makes you say that?
 * What are your favorite parts about our culture?
 * What are your next steps to make progress on this problem?
@@ -282,7 +270,7 @@ Ultimate list compiled from a variety to sources
 * What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?
 * What do you think about _________?
 * What do you think are the key skills for your role? How would you rate yourself for each of them?
-* What do you think would help us work together better? Any suggestions for improvement in the way we work together? Are you happy working here? Are you happy with your recent work? Why or why not?What keeps you engaged with your daily work? What can I do to help make daily tasks more engaging?What kind of projects do you enjoy working on? What motivates you to work on a project?
+* What do you think would help us work together better?
 * What do you think you can do to fix that problem?
 * What excites you about our business?  The company?  What concerns you?
 * What is the #1 Problem at our company? Why?
@@ -292,11 +280,8 @@ Ultimate list compiled from a variety to sources
 * What sort of resources could you use right now to make things more manageable?
 * What would you like to learn more about this year?
 * What would you like to see change here? Why do you say that?
-* What would you like to see change?
 * What’s an inexpensive thing we could do to improve our office environment for the team?
 * What’s going well and not so well with the new situation/development? Why do you think this might be happening?
-* What’s not fun about working here?
-* What’s not fun about working here? What do you enjoy most about working here?
 * What’s one thing we should change about how our team works together?
 * What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
 * What’s something you feel is undervalued that you contribute to the team?
@@ -316,7 +301,6 @@ Ultimate list compiled from a variety to sources
 * Who is really kicking ass in the company? Who do you admire?
 * Who on the team do you have the most difficulty working with? Why?
 * Who would you like to work more often with? Why?
-* Who would you like to work more/less often with? Why?
 * Whom in the team do you want to learn from? Whom do you get valuable feedback from?
 * Why do you think [employee who recently quit] left? What did they tell you?
 
@@ -327,7 +311,6 @@ Ultimate list compiled from a variety to sources
 * How are you planning to balance work and personal life this year?
 * How can I help…? (be more productive/happier at work/enjoy work more/etc)
 * How do you feel about your work/life balance?
-* How has your work/life balance been lately?
 * How is your workload right now?
 * If you could change one thing about your job today, what would you change?
 * Is there anything that you need from me?

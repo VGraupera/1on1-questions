@@ -189,13 +189,6 @@
     "updated_at": "2017-11-18T14:26:14.013Z"
   },
   {
-    "id": 333,
-    "question": "I'm interested in feedback on how I can improve as a manager. In preparing for our next 1-on-1, would you be willing to think through what you like about how I do X (for example, run team meetings) and what I could do differently or better? (Ask prior to the 1-on-1.)",
-    "category": "About Manager",
-    "created_at": "2017-11-18T14:26:14.015Z",
-    "updated_at": "2017-11-18T14:26:14.015Z"
-  },
-  {
     "id": 334,
     "question": "I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?",
     "category": "About Manager",
@@ -252,13 +245,6 @@
     "updated_at": "2017-11-18T14:26:14.065Z"
   },
   {
-    "id": 342,
-    "question": "How can I support you better?",
-    "category": "About Manager",
-    "created_at": "2017-11-18T14:26:14.068Z",
-    "updated_at": "2017-11-18T14:26:14.068Z"
-  },
-  {
     "id": 343,
     "question": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
     "category": "About Manager",
@@ -301,13 +287,6 @@
     "updated_at": "2017-11-18T14:26:14.105Z"
   },
   {
-    "id": 349,
-    "question": "How do you like to receive critical feedback?",
-    "category": "About Manager",
-    "created_at": "2017-11-18T14:26:14.108Z",
-    "updated_at": "2017-11-18T14:26:14.108Z"
-  },
-  {
     "id": 350,
     "question": "What can I do to make your job easier?",
     "category": "About Manager",
@@ -315,32 +294,11 @@
     "updated_at": "2017-11-18T14:26:14.121Z"
   },
   {
-    "id": 351,
-    "question": "What can I be doing better?",
-    "category": "About Manager",
-    "created_at": "2017-11-18T14:26:14.125Z",
-    "updated_at": "2017-11-18T14:26:14.125Z"
-  },
-  {
     "id": 352,
     "question": "What can I do for you that I'm not?",
     "category": "About Manager",
     "created_at": "2017-11-18T14:26:14.128Z",
     "updated_at": "2017-11-18T14:26:14.128Z"
-  },
-  {
-    "id": 353,
-    "question": "How can i support you more?",
-    "category": "About Manager",
-    "created_at": "2017-11-18T14:26:14.130Z",
-    "updated_at": "2017-11-18T14:26:14.130Z"
-  },
-  {
-    "id": 354,
-    "question": "What can I be accountable to you for the next time we talk?",
-    "category": "About Manager",
-    "created_at": "2017-11-18T14:26:14.133Z",
-    "updated_at": "2017-11-18T14:26:14.133Z"
   },
   {
     "id": 355,
@@ -432,13 +390,6 @@
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.208Z",
     "updated_at": "2017-11-18T14:26:14.208Z"
-  },
-  {
-    "id": 368,
-    "question": "What skills would you like to work on most right now?",
-    "category": "Career development",
-    "created_at": "2017-11-18T14:26:14.219Z",
-    "updated_at": "2017-11-18T14:26:14.219Z"
   },
   {
     "id": 369,
@@ -621,13 +572,6 @@
     "category": "Career development",
     "created_at": "2017-11-18T14:26:14.365Z",
     "updated_at": "2017-11-18T14:26:14.365Z"
-  },
-  {
-    "id": 395,
-    "question": "What do you want to achieve in the next 3 years?",
-    "category": "Career development",
-    "created_at": "2017-11-18T14:26:14.377Z",
-    "updated_at": "2017-11-18T14:26:14.377Z"
   },
   {
     "id": 396,
@@ -896,13 +840,6 @@
     "updated_at": "2017-11-18T14:26:14.586Z"
   },
   {
-    "id": 434,
-    "question": "What do you do in your free time?",
-    "category": "Conversation starters",
-    "created_at": "2017-11-18T14:26:14.598Z",
-    "updated_at": "2017-11-18T14:26:14.598Z"
-  },
-  {
     "id": 435,
     "question": "How\u2019s it going?",
     "category": "Conversation starters",
@@ -978,13 +915,6 @@
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.657Z",
     "updated_at": "2017-11-18T14:26:14.657Z"
-  },
-  {
-    "id": 446,
-    "question": "Are you happy working here?",
-    "category": "Job satisfaction",
-    "created_at": "2017-11-18T14:26:14.659Z",
-    "updated_at": "2017-11-18T14:26:14.659Z"
   },
   {
     "id": 447,
@@ -1687,13 +1617,6 @@
     "updated_at": "2017-11-18T14:26:15.249Z"
   },
   {
-    "id": 547,
-    "question": "What\u2019s not fun about working here? What do you enjoy most about working here?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.252Z",
-    "updated_at": "2017-11-18T14:26:15.252Z"
-  },
-  {
     "id": 548,
     "question": "Who do you admire within the company and why?",
     "category": "Team and company",
@@ -1736,13 +1659,6 @@
     "updated_at": "2017-11-18T14:26:15.286Z"
   },
   {
-    "id": 554,
-    "question": "What are we not doing that we should be doing?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.297Z",
-    "updated_at": "2017-11-18T14:26:15.297Z"
-  },
-  {
     "id": 555,
     "question": "What would you like to learn more about this year?",
     "category": "Team and company",
@@ -1750,25 +1666,11 @@
     "updated_at": "2017-11-18T14:26:15.301Z"
   },
   {
-    "id": 556,
-    "question": "What would you like to see change?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.303Z",
-    "updated_at": "2017-11-18T14:26:15.303Z"
-  },
-  {
     "id": 557,
     "question": "Which areas would you would like more feedback on?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.306Z",
     "updated_at": "2017-11-18T14:26:15.306Z"
-  },
-  {
-    "id": 558,
-    "question": "If we could improve in any way as a company, how would we do it?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.317Z",
-    "updated_at": "2017-11-18T14:26:15.317Z"
   },
   {
     "id": 559,
@@ -1825,13 +1727,6 @@
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.359Z",
     "updated_at": "2017-11-18T14:26:15.359Z"
-  },
-  {
-    "id": 567,
-    "question": "Who would you like to work more\/less often with? Why?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.370Z",
-    "updated_at": "2017-11-18T14:26:15.370Z"
   },
   {
     "id": 568,
@@ -1961,7 +1856,7 @@
   },
   {
     "id": 586,
-    "question": "What do you think would help us work together better? Any suggestions for improvement in the way we work together? Are you happy working here? Are you happy with your recent work? Why or why not?What keeps you engaged with your daily work? What can I do to help make daily tasks more engaging?What kind of projects do you enjoy working on? What motivates you to work on a project?",
+    "question": "What do you think would help us work together better?",
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.481Z",
     "updated_at": "2017-11-18T14:26:15.481Z"
@@ -2000,13 +1895,6 @@
     "category": "Team and company",
     "created_at": "2017-11-18T14:26:15.504Z",
     "updated_at": "2017-11-18T14:26:15.504Z"
-  },
-  {
-    "id": 592,
-    "question": "What\u2019s not fun about working here?",
-    "category": "Team and company",
-    "created_at": "2017-11-18T14:26:15.515Z",
-    "updated_at": "2017-11-18T14:26:15.515Z"
   },
   {
     "id": 593,
@@ -2182,13 +2070,6 @@
     "category": "Work-life",
     "created_at": "2017-11-18T14:26:15.655Z",
     "updated_at": "2017-11-18T14:26:15.655Z"
-  },
-  {
-    "id": 618,
-    "question": "How has your work\/life balance been lately?",
-    "category": "Work-life",
-    "created_at": "2017-11-18T14:26:15.659Z",
-    "updated_at": "2017-11-18T14:26:15.659Z"
   },
   {
     "id": 619,
