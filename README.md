@@ -1,5 +1,5 @@
 # 1 on 1 Meeting Questions
-Mega list compiled from a variety to sources
+Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
 
 
 ## About Manager
