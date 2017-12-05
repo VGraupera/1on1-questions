@@ -1,5 +1,5 @@
 # 1 on 1 Questions
-Ultimate list compiled from a variety to sources
+Mega list compiled from a variety to sources
 
 
 ## About Manager
