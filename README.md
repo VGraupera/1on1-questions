@@ -348,6 +348,12 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?
 
 
+## FAQ
+
+Why is there also a JSON file?
+- it can be directly consumed by apps
+- README.md can be generated from json file so you only have to make changes in one place
+
 ## Contributing 
 1. Fork it
 2. Add your resource to `README.md` and `questions.json`
