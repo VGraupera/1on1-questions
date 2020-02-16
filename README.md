@@ -350,10 +350,5 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 ## Contributing 
 1. Fork it
-2. Run `npm install`
-3. Add your resource to `questions.json`
-4. Run `node index` to update `README.md` with your changes
-5. Create your feature branch (`git checkout -b my-new-feature`)
-6. Commit your changes (`git commit -am "Add some feature"`)
-7. Push to the branch (`git push origin my-new-feature`)
-8. Create new Pull Request
+2. Add your resource to `README.md` and `questions.json`
+3. Create new Pull Request
