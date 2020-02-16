@@ -1,3 +1,5 @@
+// Generate readme file from JSON data
+
 const fs = require('fs');
 const obj = require('./questions.json');
 
