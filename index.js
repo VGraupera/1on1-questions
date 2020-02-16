@@ -40,13 +40,8 @@ for (const [key, items] of Object.entries(categoryMap)) {
 // create contributing instructions
 content.push('\n\n## Contributing \n' +
 '1. Fork it\n' +
-'2. Run `npm install`\n' +
-'3. Add your resource to `questions.json`\n' +
-'4. Run `node index` to update `README.md` with your changes\n' +
-'5. Create your feature branch (`git checkout -b my-new-feature`)\n' +
-'6. Commit your changes (`git commit -am "Add some feature"`)\n' +
-'7. Push to the branch (`git push origin my-new-feature`)\n' +
-'8. Create new Pull Request\n');
+'2. Add your resource to `README.md` and `questions.json`\n' +
+'3. Create new Pull Request\n');
 
 // create README file
 fs.writeFile('./README.md', content.join('\n'), function (err) {
