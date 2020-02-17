@@ -39,7 +39,7 @@ const faq = `
 
 Why is there also a JSON file?
 - it can be directly consumed by apps
-- README.md can be generated from json file so you only have to make changes in one place`;
+- \`README.md\` can be generated from json file so you only have to make changes in one place`;
 const contributing = `
 ## Contributing
 1. Fork repo
