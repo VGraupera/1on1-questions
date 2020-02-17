@@ -1,52 +1,64 @@
-// Generate readme file from JSON data
+// Generate README.md file based on JSON data
 
 const fs = require('fs');
-const obj = require('./questions.json');
+const questions = require('./questions.json');
 
-const categoryMap = {};
-
-for (const item of obj) {
-  if (categoryMap[item.category]) {
-    categoryMap[item.category].push(item);
+function sortQuestions (a, b) {
+  // case insensitive sort
+  const qA = a.question.toUpperCase();
+  const qB = b.question.toUpperCase();
+  if (qA < qB) {
+    return -1;
   }
-  else {
-    categoryMap[item.category] = [item];
+  if (qA > qB) {
+    return 1;
   }
+  return 0;
+}
+function categoryMapReducer (accumulator, item) {
+  if (accumulator[item.category]) {
+    accumulator[item.category] = [ ...accumulator[item.category], item ];
+  } else {
+    accumulator[item.category] = [ item ];
+  }
+  return accumulator;
+};
+function sectionReducer (accumulator, [category, items]) {
+  return [
+    ...accumulator,
+    `\n\n## ${category}`,
+    ...items.sort(sortQuestions).map((item) => `* ${item.question}`)
+  ];
 }
 
-let content = ['# 1 on 1 Questions\nUltimate list compiled from a variety to sources']
+const title = `# 1 on 1 Meeting Questions
+Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/`;
+const faq = `
 
-for (const [key, items] of Object.entries(categoryMap)) {
-  content.push(`\n\n## ${key}`)
+## FAQ
 
-  const sorted = items.sort(function(a, b) {
-    var qA = a.question.toUpperCase(); // ignore upper and lowercase
-    var qB = b.question.toUpperCase(); // ignore upper and lowercase
-    if (qA < qB) {
-      return -1;
-    }
-    if (qA > qB) {
-      return 1;
-    }
+Why is there also a JSON file?
+- it can be directly consumed by apps
+- README.md can be generated from json file so you only have to make changes in one place`;
+const contributing = `
+## Contributing
+1. Fork it
+2. Add your resource to \`README.md\` and \`questions.json\`
+3. Create new Pull Request
+`;
 
-    return 0;
-  });
-
-  for (const item of sorted) {
-    content.push(
-      `* ${item.question}`
-    )
-  }
-}
-
-// create contributing instructions
-content.push('\n\n## Contributing \n' +
-'1. Fork it\n' +
-'2. Add your resource to `README.md` and `questions.json`\n' +
-'3. Create new Pull Request\n');
+const categoryMap = questions.reduce(categoryMapReducer, {});
+const questionBySection = Object.entries(categoryMap).reduce(sectionReducer, []);
+const content = [
+  title,
+  ...questionBySection,
+  faq,
+  contributing
+];
 
 // create README file
 fs.writeFile('./README.md', content.join('\n'), function (err) {
   if (err) throw err;
   console.log('Updated README.md');
 });
+
