@@ -356,6 +356,6 @@ Why is there also a JSON file?
 
 ## Contributing
 1. Fork repo
-2. Add your question to `questions.json` or `README.md` updates to `index.js`
-3. Run `npm start` to regenerate `README.md`
+2. Add your question to `questions.json` or provide README.md updates through `index.js`
+3. Run `npm start` to regenerate README.md
 4. Create new Pull Request

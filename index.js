@@ -23,7 +23,7 @@ function categoryMapReducer (accumulator, item) {
   }
   return accumulator;
 };
-function sectionReducer (accumulator, [category, items]) {
+function questionSectionReducer (accumulator, [category, items]) {
   return [
     ...accumulator,
     `\n\n## ${category}`,
@@ -39,20 +39,20 @@ const faq = `
 
 Why is there also a JSON file?
 - it can be directly consumed by apps
-- \`README.md\` can be generated from json file so you only have to make changes in one place`;
+- README.md can be generated from json file so you only have to make changes in one place`;
 const contributing = `
 ## Contributing
 1. Fork repo
-2. Add your question to \`questions.json\` or \`README.md\` updates to \`index.js\`
-3. Run \`npm start\` to regenerate \`README.md\`
+2. Add your question to \`questions.json\` or provide README.md updates through \`index.js\`
+3. Run \`npm start\` to regenerate README.md
 4. Create new Pull Request
 `;
 
 const categoryMap = questions.reduce(categoryMapReducer, {});
-const questionBySection = Object.entries(categoryMap).reduce(sectionReducer, []);
+const questionsBySection = Object.entries(categoryMap).reduce(questionSectionReducer, []);
 const content = [
   title,
-  ...questionBySection,
+  ...questionsBySection,
   faq,
   contributing
 ];
