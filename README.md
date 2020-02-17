@@ -354,7 +354,7 @@ Why is there also a JSON file?
 - it can be directly consumed by apps
 - README.md can be generated from json file so you only have to make changes in one place
 
-## Contributing 
+## Contributing
 1. Fork it
 2. Add your resource to `README.md` and `questions.json`
 3. Create new Pull Request
