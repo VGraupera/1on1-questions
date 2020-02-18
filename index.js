@@ -1,12 +1,12 @@
 // Generate README.md file based on JSON data
 
 const fs = require('fs');
-const questions = require('./questions.json');
+const questionsJson = require('./questions.json');
 
 function sortQuestions (a, b) {
   // case insensitive sort
-  const qA = a.question.toUpperCase();
-  const qB = b.question.toUpperCase();
+  const qA = a.question.en.toUpperCase();
+  const qB = b.question.en.toUpperCase();
   if (qA < qB) {
     return -1;
   }
@@ -23,12 +23,20 @@ function categoryMapReducer (accumulator, item) {
   }
   return accumulator;
 };
-function questionSectionReducer (accumulator, [category, items]) {
-  return [
-    ...accumulator,
-    `\n\n## ${category}`,
-    ...items.sort(sortQuestions).map((item) => `* ${item.question}`)
-  ];
+function generateQuestionSectionReducer(lang) {
+  return function questionSectionReducer (accumulator, [category, items]) {
+    return [
+      ...accumulator,
+      `\n\n## ${category}`,
+      ...items.sort(sortQuestions).map((item) => `* ${item.question[lang] || item.question.en}`)
+    ];
+  }
+}
+function getReadmeName(lang) {
+  if (lang === 'en') {
+    return 'README.md';
+  }
+  return `README_${lang}.md`;
 }
 
 const title = `# 1 on 1 Meeting Questions
@@ -48,18 +56,21 @@ const contributing = `
 4. Create new Pull Request
 `;
 
-const categoryMap = questions.reduce(categoryMapReducer, {});
-const questionsBySection = Object.entries(categoryMap).reduce(questionSectionReducer, []);
-const content = [
-  title,
-  ...questionsBySection,
-  faq,
-  contributing
-];
+const categoryMap = questionsJson.questions.reduce(categoryMapReducer, {});
+for (const lang of questionsJson.languages) {
+  const questionsBySection = Object.entries(categoryMap).reduce(generateQuestionSectionReducer(lang), []);
+  const content = [
+    title,
+    ...questionsBySection,
+    faq,
+    contributing
+  ];
 
-// create README file
-fs.writeFile('./README.md', content.join('\n'), function (err) {
-  if (err) throw err;
-  console.log('Updated README.md');
-});
+  // create README file
+  const readmeName = getReadmeName(lang);
+  fs.writeFile(`./${readmeName}`, content.join('\n'), function (err) {
+    if (err) throw err;
+    console.log(`Updated ${readmeName}`);
+  });
+}
 
