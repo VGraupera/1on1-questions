@@ -2,10 +2,12 @@
   "name": "1on1-questions",
   "version": "1.0.0",
   "description": "A list of 1 on 1 questions",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "npm run generate",
-    "generate": "node index.js"
+    "generate": "node index.js",
+    "test": "node test.js",
+    "prepublish": "npm test"
   },
   "author": "Vidal Graupera",
   "license": "MIT"
