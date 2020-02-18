@@ -2,8 +2,25 @@
   "languages": ["en", "jp"],
   "categories": {
     "About Manager": {
-      "en": "About Manager",
       "jp": "マネージャについて"
+    },
+    "Career development": {
+      "jp": "キャリア開発"
+    },
+    "Conversation starters": {
+      "jp": "会話のきっかけ"
+    },
+    "Job satisfaction": {
+      "jp": "働きがい"
+    },
+    "Other ": {
+      "jp": "その他"
+    },
+    "Team and company": {
+      "jp": "チームと会社"
+    },
+    "Work-life": {
+      "jp": "ワーク・ライフ"
     }
   },
   "questions": [
