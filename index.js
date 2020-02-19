@@ -23,9 +23,9 @@ function categoryMapReducer (accumulator, item) {
   }
   return accumulator;
 };
-function generateQuestionSectionReducer(lang, categories) {
+function generateQuestionSectionReducer(lang, i18nCategories) {
   return function questionSectionReducer (accumulator, [category, items]) {
-    const i18nCategory = categories[category] && categories[category][lang];
+    const i18nCategory = i18nCategories[category] && i18nCategories[category][lang];
     return [
       ...accumulator,
       `\n\n## ${i18nCategory || category}`,
@@ -59,7 +59,7 @@ const contributing = `
 
 const categoryMap = questionsJson.questions.reduce(categoryMapReducer, {});
 for (const lang of questionsJson.languages) {
-  const questionsBySection = Object.entries(categoryMap).reduce(generateQuestionSectionReducer(lang, questionsJson.categories), []);
+  const questionsBySection = Object.entries(categoryMap).reduce(generateQuestionSectionReducer(lang, questionsJson.i18nCategories), []);
   const content = [
     title,
     ...questionsBySection,
