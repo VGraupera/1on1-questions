@@ -1,26 +1,26 @@
 {
-  "languages": ["en", "jp"],
+  "languages": ["en", "ja_JP"],
   "categories": {
     "About Manager": {
-      "jp": "マネージャについて"
+      "ja_JP": "マネージャについて"
     },
     "Career development": {
-      "jp": "キャリア開発"
+      "ja_JP": "キャリア開発"
     },
     "Conversation starters": {
-      "jp": "会話のきっかけ"
+      "ja_JP": "会話のきっかけ"
     },
     "Job satisfaction": {
-      "jp": "働きがい"
+      "ja_JP": "働きがい"
     },
     "Other ": {
-      "jp": "その他"
+      "ja_JP": "その他"
     },
     "Team and company": {
-      "jp": "チームと会社"
+      "ja_JP": "チームと会社"
     },
     "Work-life": {
-      "jp": "ワーク・ライフ"
+      "ja_JP": "ワーク・ライフ"
     }
   },
   "questions": [
@@ -28,7 +28,7 @@
       "id": 306,
       "question": {
         "en": "If you were me, what changes would you make?",
-        "jp": "あなたが私だったら、どんなことを変えますか？"
+        "ja_JP": "あなたが私だったら、どんなことを変えますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.870Z",
@@ -38,7 +38,7 @@
       "id": 307,
       "question": {
         "en": "How do you prefer to receive feedback?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.874Z",
@@ -48,7 +48,7 @@
       "id": 308,
       "question": {
         "en": "Do you feel you\u2019re getting enough feedback? Why\/why not?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.878Z",
@@ -58,7 +58,7 @@
       "id": 309,
       "question": {
         "en": "What aspect of your job you would like more help or coaching?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.881Z",
@@ -68,7 +68,7 @@
       "id": 310,
       "question": {
         "en": "How can I better support you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.893Z",
@@ -78,7 +78,7 @@
       "id": 311,
       "question": {
         "en": "What could I do as a manager to make your work easier?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.896Z",
@@ -88,7 +88,7 @@
       "id": 312,
       "question": {
         "en": "What is something I could do better? What feedback do you have for me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.898Z",
@@ -98,7 +98,7 @@
       "id": 313,
       "question": {
         "en": "What aspects of your work would you like more or less direction from me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.909Z",
@@ -108,7 +108,7 @@
       "id": 314,
       "question": {
         "en": "What would you like to know about me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.912Z",
@@ -118,7 +118,7 @@
       "id": 315,
       "question": {
         "en": "What do you like about my management style? What do you dislike?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.915Z",
@@ -128,7 +128,7 @@
       "id": 316,
       "question": {
         "en": "What have your past managers done that you\u2019d like me to also do or not do?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.918Z",
@@ -138,7 +138,7 @@
       "id": 317,
       "question": {
         "en": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.930Z",
@@ -148,7 +148,7 @@
       "id": 318,
       "question": {
         "en": "Where do you think I can be most helpful?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.933Z",
@@ -158,7 +158,7 @@
       "id": 319,
       "question": {
         "en": "What are your thoughts on my changes?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.935Z",
@@ -168,7 +168,7 @@
       "id": 320,
       "question": {
         "en": "How can I make your days more fulfilling?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.938Z",
@@ -178,7 +178,7 @@
       "id": 321,
       "question": {
         "en": "What can I be doing better to help you in your job?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.950Z",
@@ -188,7 +188,7 @@
       "id": 322,
       "question": {
         "en": "Are there any obstacles I can remove for you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.953Z",
@@ -198,7 +198,7 @@
       "id": 323,
       "question": {
         "en": "What can I do to help you achieve you current goals and priorities?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.956Z",
@@ -208,7 +208,7 @@
       "id": 324,
       "question": {
         "en": "What can I do to make things more manageable?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.959Z",
@@ -218,7 +218,7 @@
       "id": 325,
       "question": {
         "en": "How might I make this project more challenging or interesting for you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.971Z",
@@ -228,7 +228,7 @@
       "id": 326,
       "question": {
         "en": "What do you think I should know about the project, but might not?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.976Z",
@@ -238,7 +238,7 @@
       "id": 327,
       "question": {
         "en": "What is the biggest challenge you are currently facing? How can I help with that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.979Z",
@@ -248,7 +248,7 @@
       "id": 328,
       "question": {
         "en": "At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.982Z",
@@ -258,7 +258,7 @@
       "id": 329,
       "question": {
         "en": "What additional resources can I provide for you between now and the next time we meet?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.995Z",
@@ -268,7 +268,7 @@
       "id": 330,
       "question": {
         "en": "I\u2019ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.998Z",
@@ -278,7 +278,7 @@
       "id": 331,
       "question": {
         "en": "What would you like to see change about these discussions? How could we make them more useful for you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.009Z",
@@ -288,7 +288,7 @@
       "id": 332,
       "question": {
         "en": "I\u2019m trying to make my 1-on-1s better and would appreciate your honest feedback on this one \u2014 what did you like about it, and what could be improved?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.013Z",
@@ -298,7 +298,7 @@
       "id": 334,
       "question": {
         "en": "I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.028Z",
@@ -308,7 +308,7 @@
       "id": 335,
       "question": {
         "en": "What can I do to help you enjoy your work more or remove roadblocks to progress?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.030Z",
@@ -318,7 +318,7 @@
       "id": 336,
       "question": {
         "en": "Which areas would you like more or less direction from me on your work?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.033Z",
@@ -328,7 +328,7 @@
       "id": 337,
       "question": {
         "en": "What are your impressions of our 1-on-1s? What could we do differently or better?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.045Z",
@@ -338,7 +338,7 @@
       "id": 338,
       "question": {
         "en": "Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.048Z",
@@ -348,7 +348,7 @@
       "id": 339,
       "question": {
         "en": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.051Z",
@@ -358,7 +358,7 @@
       "id": 340,
       "question": {
         "en": "What can I do as a manager to make your work easier?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.062Z",
@@ -368,7 +368,7 @@
       "id": 341,
       "question": {
         "en": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.065Z",
@@ -378,7 +378,7 @@
       "id": 343,
       "question": {
         "en": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.082Z",
@@ -388,7 +388,7 @@
       "id": 344,
       "question": {
         "en": "What can I do to help you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.084Z",
@@ -398,7 +398,7 @@
       "id": 345,
       "question": {
         "en": "What is the one thing that you need the most from me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.087Z",
@@ -408,7 +408,7 @@
       "id": 346,
       "question": {
         "en": "As your manager, what would you like me to stop, start, or continue doing?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.090Z",
@@ -418,7 +418,7 @@
       "id": 347,
       "question": {
         "en": "What can I do to help remove obstacles?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.102Z",
@@ -428,7 +428,7 @@
       "id": 348,
       "question": {
         "en": "Do you have any feedback for me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.105Z",
@@ -438,7 +438,7 @@
       "id": 350,
       "question": {
         "en": "What can I do to make your job easier?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.121Z",
@@ -448,7 +448,7 @@
       "id": 352,
       "question": {
         "en": "What can I do for you that I'm not?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.128Z",
@@ -458,7 +458,7 @@
       "id": 355,
       "question": {
         "en": "What can I do better or differently as your manager to support you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.146Z",
@@ -468,7 +468,7 @@
       "id": 356,
       "question": {
         "en": "How could I do a better job communicating with you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.149Z",
@@ -478,7 +478,7 @@
       "id": 357,
       "question": {
         "en": "What do you want to be doing in 5 years? 10 years? 3 years?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.152Z",
@@ -488,7 +488,7 @@
       "id": 358,
       "question": {
         "en": "What are your long term goals? Have you thought about them?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.155Z",
@@ -498,7 +498,7 @@
       "id": 359,
       "question": {
         "en": "What are your super powers? What powers would you like to develop?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.166Z",
@@ -508,7 +508,7 @@
       "id": 360,
       "question": {
         "en": "What do you want to do in your next job?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.171Z",
@@ -518,7 +518,7 @@
       "id": 361,
       "question": {
         "en": "What skills would you like to develop right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.175Z",
@@ -528,7 +528,7 @@
       "id": 362,
       "question": {
         "en": "What additional training or education would you like?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.186Z",
@@ -538,7 +538,7 @@
       "id": 363,
       "question": {
         "en": "Do you feel like you\u2019re making progress on your big goals here? Why or why not?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.189Z",
@@ -548,7 +548,7 @@
       "id": 364,
       "question": {
         "en": "What\u2019s one thing we could do today to help you with your long term goals?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.192Z",
@@ -558,7 +558,7 @@
       "id": 365,
       "question": {
         "en": "Do you feel we\u2019re helping you advance your career at a pace you would like?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.203Z",
@@ -568,7 +568,7 @@
       "id": 366,
       "question": {
         "en": "What are your big dreams in life? Are you making progress on them?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.205Z",
@@ -578,7 +578,7 @@
       "id": 367,
       "question": {
         "en": "Could you see yourself making progress on more of your goals here? What would need to change to do so?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.208Z",
@@ -588,7 +588,7 @@
       "id": 369,
       "question": {
         "en": "Are there any events or training you\u2019d like to attend to help you grow your skills?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.222Z",
@@ -598,7 +598,7 @@
       "id": 370,
       "question": {
         "en": "Who in the company would you like to learn from? What do you want to learn?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.225Z",
@@ -608,7 +608,7 @@
       "id": 371,
       "question": {
         "en": "What can you do to take action or make progress on what we talked about today?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.237Z",
@@ -618,7 +618,7 @@
       "id": 372,
       "question": {
         "en": "What can I do to take action or make progress on what we talked about today?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.239Z",
@@ -628,7 +628,7 @@
       "id": 373,
       "question": {
         "en": "Where do you see your career in the next (2\/5\/10) years?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.242Z",
@@ -638,7 +638,7 @@
       "id": 374,
       "question": {
         "en": "What work are you doing here that you feel is most in line with your long term goals?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.253Z",
@@ -648,7 +648,7 @@
       "id": 375,
       "question": {
         "en": "What skills are required to reach your goals?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.256Z",
@@ -658,7 +658,7 @@
       "id": 376,
       "question": {
         "en": "What are some of the work projects you\u2019re most proud of, and what do you think you might want to do next?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.259Z",
@@ -668,7 +668,7 @@
       "id": 377,
       "question": {
         "en": "What are two to three new skills you\u2019d like to learn on the job? What about those skills interests you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.272Z",
@@ -678,7 +678,7 @@
       "id": 378,
       "question": {
         "en": "What other roles here could you see yourself in down the line? Or what areas would you like to explore?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.275Z",
@@ -688,7 +688,7 @@
       "id": 379,
       "question": {
         "en": "If you were to create your ideal position, how would it differ from what you are currently doing?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.278Z",
@@ -698,7 +698,7 @@
       "id": 380,
       "question": {
         "en": "How is your current work helping or hurting your professional development?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.290Z",
@@ -708,7 +708,7 @@
       "id": 381,
       "question": {
         "en": "Which career or development goals do you feel like you\u2019re not able to focus on right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.293Z",
@@ -718,7 +718,7 @@
       "id": 382,
       "question": {
         "en": "What else can I be doing to help you grow\/advance in your career?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.296Z",
@@ -728,7 +728,7 @@
       "id": 383,
       "question": {
         "en": "Imagine it\u2019s two years from now, and things have gone well: What has been your role in that? What does your role look like?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.307Z",
@@ -738,7 +738,7 @@
       "id": 384,
       "question": {
         "en": "Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.310Z",
@@ -748,7 +748,7 @@
       "id": 385,
       "question": {
         "en": "Where do you see yourself in three years? Five years?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.313Z",
@@ -758,7 +758,7 @@
       "id": 386,
       "question": {
         "en": "What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.326Z",
@@ -768,7 +768,7 @@
       "id": 387,
       "question": {
         "en": "To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.328Z",
@@ -778,7 +778,7 @@
       "id": 388,
       "question": {
         "en": "What about this goal is important to you and what will be different when you achieve the goal?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.331Z",
@@ -788,7 +788,7 @@
       "id": 389,
       "question": {
         "en": "What sort of progress have you made on the next steps we discussed last time?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.343Z",
@@ -798,7 +798,7 @@
       "id": 390,
       "question": {
         "en": "What development areas do you want to work on in the coming weeks?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.345Z",
@@ -808,7 +808,7 @@
       "id": 391,
       "question": {
         "en": "What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.348Z",
@@ -818,7 +818,7 @@
       "id": 392,
       "question": {
         "en": "During this meeting you\u2019ve mentioned that you\u2019d like to pursue X. What steps can you take toward that before our next 1-on-1?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.359Z",
@@ -828,7 +828,7 @@
       "id": 393,
       "question": {
         "en": "Have you ever felt undervalued here?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.361Z",
@@ -838,7 +838,7 @@
       "id": 394,
       "question": {
         "en": "What are the projects you would be interested in working on next?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.365Z",
@@ -848,7 +848,7 @@
       "id": 396,
       "question": {
         "en": "How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.379Z",
@@ -858,7 +858,7 @@
       "id": 397,
       "question": {
         "en": "Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.392Z",
@@ -868,7 +868,7 @@
       "id": 398,
       "question": {
         "en": "Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.394Z",
@@ -878,7 +878,7 @@
       "id": 399,
       "question": {
         "en": "Do you have the tools you need to reach your goals?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.397Z",
@@ -888,7 +888,7 @@
       "id": 400,
       "question": {
         "en": "How do you think you did on your performance review this year? What do you think the results will be?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.408Z",
@@ -898,7 +898,7 @@
       "id": 401,
       "question": {
         "en": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.411Z",
@@ -908,7 +908,7 @@
       "id": 402,
       "question": {
         "en": "Is there a different way we can develop your skills   outside of traditional training?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.413Z",
@@ -918,7 +918,7 @@
       "id": 403,
       "question": {
         "en": "What would make this your perfect job?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.422Z",
@@ -928,7 +928,7 @@
       "id": 404,
       "question": {
         "en": "Are there any projects you\u2019d really like to work on if you were given the opportunity?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.425Z",
@@ -938,7 +938,7 @@
       "id": 405,
       "question": {
         "en": "What parts of your job would you like to deepen your skills in or get additional training in?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.436Z",
@@ -948,7 +948,7 @@
       "id": 406,
       "question": {
         "en": "Is there an aspect of your job you would like more help or coaching?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.439Z",
@@ -958,7 +958,7 @@
       "id": 407,
       "question": {
         "en": "What areas of your job do you find difficult that getting better skills at would help?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.451Z",
@@ -968,7 +968,7 @@
       "id": 408,
       "question": {
         "en": "What skills do you have that you think are underutilized?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.453Z",
@@ -978,7 +978,7 @@
       "id": 409,
       "question": {
         "en": "What capabilities do you want to develop?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.456Z",
@@ -988,7 +988,7 @@
       "id": 410,
       "question": {
         "en": "Tell me about something new you learned since we met last.",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.459Z",
@@ -998,7 +998,7 @@
       "id": 411,
       "question": {
         "en": "What opportunities have you had recently to learn something new?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.473Z",
@@ -1008,7 +1008,7 @@
       "id": 412,
       "question": {
         "en": "What would you like to learn about in the future?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.476Z",
@@ -1018,7 +1018,7 @@
       "id": 413,
       "question": {
         "en": "What kind of training or experience would be most helpful to you right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.479Z",
@@ -1028,7 +1028,7 @@
       "id": 414,
       "question": {
         "en": "What do you see as the next step in your career?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.491Z",
@@ -1038,7 +1038,7 @@
       "id": 415,
       "question": {
         "en": "What goals have you set for your career?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.494Z",
@@ -1048,7 +1048,7 @@
       "id": 416,
       "question": {
         "en": "How do you feel you are progressing in your career?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.497Z",
@@ -1058,7 +1058,7 @@
       "id": 417,
       "question": {
         "en": "What big questions do you have about your career opportunities in the future?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.499Z",
@@ -1068,7 +1068,7 @@
       "id": 418,
       "question": {
         "en": "What are your goals (for our group for you personally)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.510Z",
@@ -1078,7 +1078,7 @@
       "id": 419,
       "question": {
         "en": "Tell me a story...",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.513Z",
@@ -1088,7 +1088,7 @@
       "id": 420,
       "question": {
         "en": "How are you? How is life outside of work?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.516Z",
@@ -1098,7 +1098,7 @@
       "id": 421,
       "question": {
         "en": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.529Z",
@@ -1108,7 +1108,7 @@
       "id": 422,
       "question": {
         "en": "How are your parents\/grandparents? Where do they live? Do you visit them?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.531Z",
@@ -1118,7 +1118,7 @@
       "id": 423,
       "question": {
         "en": "If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.533Z",
@@ -1128,7 +1128,7 @@
       "id": 424,
       "question": {
         "en": "What do you like to do in your free time? What are your hobbies?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.545Z",
@@ -1138,7 +1138,7 @@
       "id": 425,
       "question": {
         "en": "Who do you really admire? Why? (People often admire those they want to become)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.547Z",
@@ -1148,7 +1148,7 @@
       "id": 426,
       "question": {
         "en": "Tell me about what you\u2019ve been working on.",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.550Z",
@@ -1158,7 +1158,7 @@
       "id": 427,
       "question": {
         "en": "Tell me about your week \u2013 what\u2019s it been like?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.561Z",
@@ -1168,7 +1168,7 @@
       "id": 428,
       "question": {
         "en": "Tell me about your family\/weekend\/ activities?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.564Z",
@@ -1178,7 +1178,7 @@
       "id": 429,
       "question": {
         "en": "Tell me about anything you stumbled over.",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.566Z",
@@ -1188,7 +1188,7 @@
       "id": 430,
       "question": {
         "en": "Would you update me on Project X?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.579Z",
@@ -1198,7 +1198,7 @@
       "id": 431,
       "question": {
         "en": "Are you on track to meet the deadline?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.581Z",
@@ -1208,7 +1208,7 @@
       "id": 432,
       "question": {
         "en": "How is your family?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.584Z",
@@ -1218,7 +1218,7 @@
       "id": 433,
       "question": {
         "en": "How was your weekend?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.586Z",
@@ -1228,7 +1228,7 @@
       "id": 435,
       "question": {
         "en": "How\u2019s it going?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.601Z",
@@ -1238,7 +1238,7 @@
       "id": 436,
       "question": {
         "en": "So, what\u2019s on your mind? (or Anything on your mind?)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.604Z",
@@ -1248,7 +1248,7 @@
       "id": 437,
       "question": {
         "en": "What would you like to start with?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.618Z",
@@ -1258,7 +1258,7 @@
       "id": 438,
       "question": {
         "en": "Hey, what\u2019s going on?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.621Z",
@@ -1268,7 +1268,7 @@
       "id": 439,
       "question": {
         "en": "Would you like to walk today, or go somewhere else outside the office?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.624Z",
@@ -1278,7 +1278,7 @@
       "id": 440,
       "question": {
         "en": "I\u2019ve noticed you\u2019re a little quieter than usual. Is there anything you\u2019d like to talk about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.626Z",
@@ -1288,7 +1288,7 @@
       "id": 441,
       "question": {
         "en": "What can I do to make your day better?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.637Z",
@@ -1298,7 +1298,7 @@
       "id": 442,
       "question": {
         "en": "What's something I don't know, but should?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.640Z",
@@ -1308,7 +1308,7 @@
       "id": 443,
       "question": {
         "en": "Tell me about last week.",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.643Z",
@@ -1318,7 +1318,7 @@
       "id": 444,
       "question": {
         "en": "What would you like to focus on at this meeting?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.654Z",
@@ -1328,7 +1328,7 @@
       "id": 445,
       "question": {
         "en": "What have you been doing for fun lately?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.657Z",
@@ -1338,7 +1338,7 @@
       "id": 447,
       "question": {
         "en": "How do you feel your work\/life balance is right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.661Z",
@@ -1348,7 +1348,7 @@
       "id": 448,
       "question": {
         "en": "What drives you? What motivates you to come to work each day?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.674Z",
@@ -1358,7 +1358,7 @@
       "id": 449,
       "question": {
         "en": "Do you feel challenged at work? Are you learning new things?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.677Z",
@@ -1368,7 +1368,7 @@
       "id": 450,
       "question": {
         "en": "What\u2019s a recent situation you wish you handled differently? What would you change?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.679Z",
@@ -1378,7 +1378,7 @@
       "id": 451,
       "question": {
         "en": "What\u2019s an area of your work you want to improve?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.691Z",
@@ -1388,7 +1388,7 @@
       "id": 452,
       "question": {
         "en": "How many hours a day do you feel you\u2019re productive? How could we help you be more productive?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.694Z",
@@ -1398,7 +1398,7 @@
       "id": 453,
       "question": {
         "en": "What could I do to make you enjoy your work more?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.696Z",
@@ -1408,7 +1408,7 @@
       "id": 454,
       "question": {
         "en": "Do you think our company is loyal to its employees? Why or why not?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.707Z",
@@ -1418,7 +1418,7 @@
       "id": 455,
       "question": {
         "en": "What would convince you to leave for a job somewhere else?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.710Z",
@@ -1428,7 +1428,7 @@
       "id": 456,
       "question": {
         "en": "Do you feel over-worked, under-worked, or just the right workload?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.712Z",
@@ -1438,7 +1438,7 @@
       "id": 457,
       "question": {
         "en": "What do you like most about working on our team?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.725Z",
@@ -1448,7 +1448,7 @@
       "id": 458,
       "question": {
         "en": "What do you feel is your greatest accomplishment here?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.727Z",
@@ -1458,7 +1458,7 @@
       "id": 459,
       "question": {
         "en": "When was the time you enjoyed working here the most?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.730Z",
@@ -1468,7 +1468,7 @@
       "id": 460,
       "question": {
         "en": "Are you happy with your recent work? Why or why not?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.742Z",
@@ -1478,7 +1478,7 @@
       "id": 461,
       "question": {
         "en": "What would make you leave this job for another?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.744Z",
@@ -1488,7 +1488,7 @@
       "id": 462,
       "question": {
         "en": "Tell me about what you\u2019ve learned on this project.",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.746Z",
@@ -1498,7 +1498,7 @@
       "id": 463,
       "question": {
         "en": "What do you like most about your job today?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.757Z",
@@ -1508,7 +1508,7 @@
       "id": 464,
       "question": {
         "en": "What do you like the least?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.760Z",
@@ -1518,7 +1518,7 @@
       "id": 465,
       "question": {
         "en": "What\u2019s one thing about your job that, if we fixed, would make you never want to leave?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.763Z",
@@ -1528,7 +1528,7 @@
       "id": 466,
       "question": {
         "en": "What are you most excited about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.765Z",
@@ -1538,7 +1538,7 @@
       "id": 467,
       "question": {
         "en": "What are you most worried about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.779Z",
@@ -1548,7 +1548,7 @@
       "id": 468,
       "question": {
         "en": "How do you think of your current workload and how are you coping with them?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.782Z",
@@ -1558,7 +1558,7 @@
       "id": 469,
       "question": {
         "en": "What do you need or want to accomplish and by when?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.784Z",
@@ -1568,7 +1568,7 @@
       "id": 470,
       "question": {
         "en": "What feedback\/praises have you been getting about your current priorities?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.799Z",
@@ -1578,7 +1578,7 @@
       "id": 471,
       "question": {
         "en": "How are you feeling about your role?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.802Z",
@@ -1588,7 +1588,7 @@
       "id": 472,
       "question": {
         "en": "Are you happy here? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.805Z",
@@ -1598,7 +1598,7 @@
       "id": 473,
       "question": {
         "en": "Do you feel like you're growing in your role? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.817Z",
@@ -1608,7 +1608,7 @@
       "id": 474,
       "question": {
         "en": "What interests you about the project(s) you\u2019re currently working on, and why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.820Z",
@@ -1618,7 +1618,7 @@
       "id": 475,
       "question": {
         "en": "What is your favorite\/least favorite thing about your work right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.823Z",
@@ -1628,7 +1628,7 @@
       "id": 476,
       "question": {
         "en": "How do you think that least favorite thing affects your overall performance?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.837Z",
@@ -1638,7 +1638,7 @@
       "id": 477,
       "question": {
         "en": "What\u2019s working well for you in your current position?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.840Z",
@@ -1648,7 +1648,7 @@
       "id": 478,
       "question": {
         "en": "In what ways does your current position allow you to use your skills and talents?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.847Z",
@@ -1658,7 +1658,7 @@
       "id": 479,
       "question": {
         "en": "Which areas make you feel like your hands are tied or you are unable to reach your full potential?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.859Z",
@@ -1668,7 +1668,7 @@
       "id": 480,
       "question": {
         "en": "What do you think you could be doing differently?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.862Z",
@@ -1678,7 +1678,7 @@
       "id": 481,
       "question": {
         "en": "If you could work on anything for the next month, what would it be? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.865Z",
@@ -1688,7 +1688,7 @@
       "id": 482,
       "question": {
         "en": "What\u2019s one thing that could make your work more satisfying, and why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.881Z",
@@ -1698,7 +1698,7 @@
       "id": 483,
       "question": {
         "en": "How are you feeling about the project?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.884Z",
@@ -1708,7 +1708,7 @@
       "id": 484,
       "question": {
         "en": "What aspect of this project has been particularly interesting for you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.898Z",
@@ -1718,7 +1718,7 @@
       "id": 485,
       "question": {
         "en": "What do you feel like you're learning from this project?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.901Z",
@@ -1728,7 +1728,7 @@
       "id": 486,
       "question": {
         "en": "What frustrates you about the project?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.904Z",
@@ -1738,7 +1738,7 @@
       "id": 487,
       "question": {
         "en": "Which areas would you like to spend more time on and why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.908Z",
@@ -1748,7 +1748,7 @@
       "id": 488,
       "question": {
         "en": "What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.920Z",
@@ -1758,7 +1758,7 @@
       "id": 489,
       "question": {
         "en": "What are your biggest concerns about your current project(s)?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.923Z",
@@ -1768,7 +1768,7 @@
       "id": 490,
       "question": {
         "en": "I\u2019ve noticed X about the project\u2026 Can you help me understand that better? Talk me through your process.",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.926Z",
@@ -1778,7 +1778,7 @@
       "id": 491,
       "question": {
         "en": "Which parts of your project are unclear or confusing?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.938Z",
@@ -1788,7 +1788,7 @@
       "id": 492,
       "question": {
         "en": "What was that experience like for you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.941Z",
@@ -1798,7 +1798,7 @@
       "id": 493,
       "question": {
         "en": "What did you like most\/least about that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.943Z",
@@ -1808,7 +1808,7 @@
       "id": 494,
       "question": {
         "en": "How did that affect you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.955Z",
@@ -1818,7 +1818,7 @@
       "id": 495,
       "question": {
         "en": "How did that make you feel?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.957Z",
@@ -1828,7 +1828,7 @@
       "id": 496,
       "question": {
         "en": "If you could change what happened, how would you alter it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.960Z",
@@ -1838,7 +1838,7 @@
       "id": 497,
       "question": {
         "en": "What do you think caused that to happen?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.962Z",
@@ -1848,7 +1848,7 @@
       "id": 498,
       "question": {
         "en": "What\u2019s your No. 1 problem right now? How are you feeling about it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.965Z",
@@ -1858,7 +1858,7 @@
       "id": 499,
       "question": {
         "en": "What would be the most helpful thing for you to take away from this conversation in order to make progress on it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.977Z",
@@ -1868,7 +1868,7 @@
       "id": 500,
       "question": {
         "en": "What have you tried so far to make progress on it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.980Z",
@@ -1878,7 +1878,7 @@
       "id": 501,
       "question": {
         "en": "In our last 1-on-1 you mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.991Z",
@@ -1888,7 +1888,7 @@
       "id": 502,
       "question": {
         "en": "In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.993Z",
@@ -1898,7 +1898,7 @@
       "id": 503,
       "question": {
         "en": "Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.996Z",
@@ -1908,7 +1908,7 @@
       "id": 504,
       "question": {
         "en": "What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.007Z",
@@ -1918,7 +1918,7 @@
       "id": 505,
       "question": {
         "en": "What do you enjoy the most in your current role?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.009Z",
@@ -1928,7 +1928,7 @@
       "id": 506,
       "question": {
         "en": "Happiness level, 1 to 10?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.012Z",
@@ -1938,7 +1938,7 @@
       "id": 507,
       "question": {
         "en": "What\u2019s the best part of your job?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.025Z",
@@ -1948,7 +1948,7 @@
       "id": 508,
       "question": {
         "en": "What\u2019s the worst part about your job?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.028Z",
@@ -1958,7 +1958,7 @@
       "id": 509,
       "question": {
         "en": "What\u2019s one thing we could change about work for you that would improve your personal life?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.031Z",
@@ -1968,7 +1968,7 @@
       "id": 510,
       "question": {
         "en": "What did you do for fun in the past that you haven\u2019t had as much time for lately?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.043Z",
@@ -1978,7 +1978,7 @@
       "id": 511,
       "question": {
         "en": "As a kid, what did you want to be when you grew up?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.046Z",
@@ -1988,7 +1988,7 @@
       "id": 512,
       "question": {
         "en": "If you had millions of dollars, what would you do every day?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.048Z",
@@ -1998,7 +1998,7 @@
       "id": 513,
       "question": {
         "en": "What questions do you have about the project?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.060Z",
@@ -2008,7 +2008,7 @@
       "id": 514,
       "question": {
         "en": "What ideas can you bring in from past successes?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.062Z",
@@ -2018,7 +2018,7 @@
       "id": 515,
       "question": {
         "en": "What haven\u2019t you tried yet?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.065Z",
@@ -2028,7 +2028,7 @@
       "id": 516,
       "question": {
         "en": "What would you be doing right now if we weren\u2019t having this meeting? How do you feel about being taken away from that task?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.067Z",
@@ -2038,7 +2038,7 @@
       "id": 517,
       "question": {
         "en": "How are things going for you outside of work?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.081Z",
@@ -2048,7 +2048,7 @@
       "id": 518,
       "question": {
         "en": "Is there anything blocking you from getting your work done?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.083Z",
@@ -2058,7 +2058,7 @@
       "id": 519,
       "question": {
         "en": "What area of the company would you like to learn more about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.086Z",
@@ -2068,7 +2068,7 @@
       "id": 520,
       "question": {
         "en": "Are there any roles in the company you\u2019d like to learn more about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.098Z",
@@ -2078,7 +2078,7 @@
       "id": 521,
       "question": {
         "en": "What do you think are the key skills for your role? How would you rate yourself for each of them?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.101Z",
@@ -2088,7 +2088,7 @@
       "id": 522,
       "question": {
         "en": "Is there a situation you\u2019d like my help with?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.104Z",
@@ -2098,7 +2098,7 @@
       "id": 523,
       "question": {
         "en": "What is the company not doing today that we should do to better compete in the market?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.107Z",
@@ -2108,7 +2108,7 @@
       "id": 524,
       "question": {
         "en": "What\u2019s one thing we\u2019d be *crazy* not to do in the next quarter to improve our product?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.119Z",
@@ -2118,7 +2118,7 @@
       "id": 525,
       "question": {
         "en": "If you were CEO, what\u2019s the first thing you\u2019d change?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.122Z",
@@ -2128,7 +2128,7 @@
       "id": 526,
       "question": {
         "en": "Are there any aspects of our culture you wish you could change?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.134Z",
@@ -2138,7 +2138,7 @@
       "id": 527,
       "question": {
         "en": "What are your favorite parts about our culture?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.136Z",
@@ -2148,7 +2148,7 @@
       "id": 528,
       "question": {
         "en": "Which company values do you like the most? Which the least? Why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.139Z",
@@ -2158,7 +2158,7 @@
       "id": 529,
       "question": {
         "en": "What is the #1 Problem at our company? Why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.150Z",
@@ -2168,7 +2168,7 @@
       "id": 530,
       "question": {
         "en": "How could we be more creative or innovative as a company?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.153Z",
@@ -2178,7 +2178,7 @@
       "id": 531,
       "question": {
         "en": "How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.155Z",
@@ -2188,7 +2188,7 @@
       "id": 532,
       "question": {
         "en": "How could we change our team meetings to be more effective?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.158Z",
@@ -2198,7 +2198,7 @@
       "id": 533,
       "question": {
         "en": "Why do you think [employee who recently quit] left? What did they tell you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.169Z",
@@ -2208,7 +2208,7 @@
       "id": 534,
       "question": {
         "en": "Do you feel like you\u2019re on the same page with the team? How often do you think you need meetings to ensure you stay that way?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.174Z",
@@ -2218,7 +2218,7 @@
       "id": 535,
       "question": {
         "en": "Are there any meetings or discussions you feel you should be a part of that you\u2019re not? Are you included in any you don\u2019t want to be a part of?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.177Z",
@@ -2228,7 +2228,7 @@
       "id": 536,
       "question": {
         "en": "Who would you like to work more often with? Why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.189Z",
@@ -2238,7 +2238,7 @@
       "id": 537,
       "question": {
         "en": "Is everyone pulling their weight on the team?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.192Z",
@@ -2248,7 +2248,7 @@
       "id": 538,
       "question": {
         "en": "Who is kicking ass on the team? What have they done?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.194Z",
@@ -2258,7 +2258,7 @@
       "id": 539,
       "question": {
         "en": "Who on the team do you have the most difficulty working with? Why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.206Z",
@@ -2268,7 +2268,7 @@
       "id": 540,
       "question": {
         "en": "Do you help other members on the team? Do others help you when you need it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.209Z",
@@ -2278,7 +2278,7 @@
       "id": 541,
       "question": {
         "en": "Are you uncomfortable giving any of your peers constructive criticism? If so, why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.212Z",
@@ -2288,7 +2288,7 @@
       "id": 542,
       "question": {
         "en": "What\u2019s an inexpensive thing we could do to improve our office environment for the team?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.224Z",
@@ -2298,7 +2298,7 @@
       "id": 543,
       "question": {
         "en": "Is your job what you expected when you accepted it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.227Z",
@@ -2308,7 +2308,7 @@
       "id": 544,
       "question": {
         "en": "Who are you friends with at work? (Shown to be a key to enjoying your job)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.231Z",
@@ -2318,7 +2318,7 @@
       "id": 545,
       "question": {
         "en": "What\u2019s something you feel is undervalued that you contribute to the team?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.245Z",
@@ -2328,7 +2328,7 @@
       "id": 546,
       "question": {
         "en": "What part of your job do you wish you didn\u2019t have to do?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.249Z",
@@ -2338,7 +2338,7 @@
       "id": 548,
       "question": {
         "en": "Who do you admire within the company and why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.263Z",
@@ -2348,7 +2348,7 @@
       "id": 549,
       "question": {
         "en": "Who has really been kicking ass lately?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.265Z",
@@ -2358,7 +2358,7 @@
       "id": 550,
       "question": {
         "en": "What do you like about working here? What\u2019s not fun about working here?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.268Z",
@@ -2368,7 +2368,7 @@
       "id": 551,
       "question": {
         "en": "If we could improve in any way, how would we do it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.281Z",
@@ -2378,7 +2378,7 @@
       "id": 552,
       "question": {
         "en": "What\u2019s the number one problem within our organization? Why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.284Z",
@@ -2388,7 +2388,7 @@
       "id": 553,
       "question": {
         "en": "What\u2019s the biggest opportunity we\u2019re missing out on?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.286Z",
@@ -2398,7 +2398,7 @@
       "id": 555,
       "question": {
         "en": "What would you like to learn more about this year?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.301Z",
@@ -2408,7 +2408,7 @@
       "id": 557,
       "question": {
         "en": "Which areas would you would like more feedback on?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.306Z",
@@ -2418,7 +2418,7 @@
       "id": 559,
       "question": {
         "en": "What would you like to see change here? Why do you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.320Z",
@@ -2428,7 +2428,7 @@
       "id": 560,
       "question": {
         "en": "What\u2019s the No. 1 problem with our organization, and what do you think's causing it?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.323Z",
@@ -2438,7 +2438,7 @@
       "id": 561,
       "question": {
         "en": "What are we not doing that we should be doing? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.336Z",
@@ -2448,7 +2448,7 @@
       "id": 562,
       "question": {
         "en": "What are we doing that you think we should stop doing, and why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.339Z",
@@ -2458,7 +2458,7 @@
       "id": 563,
       "question": {
         "en": "How are you feeling about the company\u2019s future overall? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.342Z",
@@ -2468,7 +2468,7 @@
       "id": 564,
       "question": {
         "en": "How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.353Z",
@@ -2478,7 +2478,7 @@
       "id": 565,
       "question": {
         "en": "How would you say we're doing at working together as team? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.356Z",
@@ -2488,7 +2488,7 @@
       "id": 566,
       "question": {
         "en": "What are some ways we could improve at teamwork? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.359Z",
@@ -2498,7 +2498,7 @@
       "id": 568,
       "question": {
         "en": "How would you describe the division of work among team members?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.376Z",
@@ -2508,7 +2508,7 @@
       "id": 569,
       "question": {
         "en": "Do you feel adequately supported by other team members? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.379Z",
@@ -2518,7 +2518,7 @@
       "id": 570,
       "question": {
         "en": "Is there anything you\u2019d like to see change about the team, and if so, why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.382Z",
@@ -2528,7 +2528,7 @@
       "id": 571,
       "question": {
         "en": "How are you feeling about the recent news? Why do you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.394Z",
@@ -2538,7 +2538,7 @@
       "id": 572,
       "question": {
         "en": "What concerns do you have about the change that haven't been addressed?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.396Z",
@@ -2548,7 +2548,7 @@
       "id": 573,
       "question": {
         "en": "What\u2019s going well and not so well with the new situation\/development? Why do you think this might be happening?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.399Z",
@@ -2558,7 +2558,7 @@
       "id": 574,
       "question": {
         "en": "Do you have a clear understanding of the new goals and expectations? What makes you say that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.410Z",
@@ -2568,7 +2568,7 @@
       "id": 575,
       "question": {
         "en": "How is the new situation\/development affecting your work? What could be getting in the way of your being effective?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.413Z",
@@ -2578,7 +2578,7 @@
       "id": 576,
       "question": {
         "en": "What sort of resources could you use right now to make things more manageable?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.416Z",
@@ -2588,7 +2588,7 @@
       "id": 577,
       "question": {
         "en": "Could you tell me a little more about that?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.428Z",
@@ -2598,7 +2598,7 @@
       "id": 578,
       "question": {
         "en": "Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.431Z",
@@ -2608,7 +2608,7 @@
       "id": 579,
       "question": {
         "en": "What are some possible ways to get the solution you need?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.434Z",
@@ -2618,7 +2618,7 @@
       "id": 580,
       "question": {
         "en": "What additional resources from me would be helpful for you as you solve this problem?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.446Z",
@@ -2628,7 +2628,7 @@
       "id": 581,
       "question": {
         "en": "What are your next steps to make progress on this problem?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.449Z",
@@ -2638,7 +2638,7 @@
       "id": 582,
       "question": {
         "en": "What do you do when you get stuck on something? What is your process of getting unstuck? Who is the team member you turn to for help?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.452Z",
@@ -2648,7 +2648,7 @@
       "id": 583,
       "question": {
         "en": "Who inspire you in the team? Whose opinions do you respect? What have they done?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.454Z",
@@ -2658,7 +2658,7 @@
       "id": 584,
       "question": {
         "en": "Is there anybody in the team that you find it difficult to work with? Can you tell me why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.465Z",
@@ -2668,7 +2668,7 @@
       "id": 585,
       "question": {
         "en": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.468Z",
@@ -2678,7 +2678,7 @@
       "id": 586,
       "question": {
         "en": "What do you think would help us work together better?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.481Z",
@@ -2688,7 +2688,7 @@
       "id": 587,
       "question": {
         "en": "Whom in the team do you want to learn from? Whom do you get valuable feedback from?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.483Z",
@@ -2698,7 +2698,7 @@
       "id": 588,
       "question": {
         "en": "What are your top three motivators?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.495Z",
@@ -2708,7 +2708,7 @@
       "id": 589,
       "question": {
         "en": "What excites you about our business?  The company?  What concerns you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.498Z",
@@ -2718,7 +2718,7 @@
       "id": 590,
       "question": {
         "en": "What do you think about _________?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.501Z",
@@ -2728,7 +2728,7 @@
       "id": 591,
       "question": {
         "en": "What\u2019s the No. 1 problem with our organization? Why?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.504Z",
@@ -2738,7 +2738,7 @@
       "id": 593,
       "question": {
         "en": "Who is really kicking ass in the company? Who do you admire?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.518Z",
@@ -2748,7 +2748,7 @@
       "id": 594,
       "question": {
         "en": "Is any part of your project unclear or confusing?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.521Z",
@@ -2758,7 +2758,7 @@
       "id": 595,
       "question": {
         "en": "Has anyone on the team ever made you feel uncomfortable? What happened?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.524Z",
@@ -2768,7 +2768,7 @@
       "id": 596,
       "question": {
         "en": "What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.536Z",
@@ -2778,7 +2778,7 @@
       "id": 597,
       "question": {
         "en": "What\u2019s the biggest thing you\u2019d like to change about our team?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.539Z",
@@ -2788,7 +2788,7 @@
       "id": 598,
       "question": {
         "en": "What\u2019s one thing we should change about how our team works together?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.542Z",
@@ -2798,7 +2798,7 @@
       "id": 599,
       "question": {
         "en": "Where do you think we can do better?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.554Z",
@@ -2808,7 +2808,7 @@
       "id": 600,
       "question": {
         "en": "How would you rate our communication as a team?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.557Z",
@@ -2818,7 +2818,7 @@
       "id": 601,
       "question": {
         "en": "What kind of communication or information do you wish you had more of?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.559Z",
@@ -2828,7 +2828,7 @@
       "id": 602,
       "question": {
         "en": "What areas are ahead of schedule?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.562Z",
@@ -2838,7 +2838,7 @@
       "id": 603,
       "question": {
         "en": "Is there anything that\u2019s slowing you down from getting your work done?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.578Z",
@@ -2848,7 +2848,7 @@
       "id": 604,
       "question": {
         "en": "Are there any problems or issues that I should know about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.581Z",
@@ -2858,7 +2858,7 @@
       "id": 605,
       "question": {
         "en": "What do you think you can do to fix that problem?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.584Z",
@@ -2868,7 +2868,7 @@
       "id": 606,
       "question": {
         "en": "What could you have done differently?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.598Z",
@@ -2878,7 +2878,7 @@
       "id": 607,
       "question": {
         "en": "What worries you? What\u2019s on your mind?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.601Z",
@@ -2888,7 +2888,7 @@
       "id": 608,
       "question": {
         "en": "What areas of your work are you confident about?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.604Z",
@@ -2898,7 +2898,7 @@
       "id": 609,
       "question": {
         "en": "What worries you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.608Z",
@@ -2908,7 +2908,7 @@
       "id": 610,
       "question": {
         "en": "What suggestions do you have?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.612Z",
@@ -2918,7 +2918,7 @@
       "id": 611,
       "question": {
         "en": "What questions do you have about this project?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.626Z",
@@ -2928,7 +2928,7 @@
       "id": 612,
       "question": {
         "en": "How are you going to approach this?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.630Z",
@@ -2938,7 +2938,7 @@
       "id": 613,
       "question": {
         "en": "How are you planning to balance work and personal life this year?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.632Z",
@@ -2948,7 +2948,7 @@
       "id": 614,
       "question": {
         "en": "What are you doing for yourself outside of work?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.635Z",
@@ -2958,7 +2958,7 @@
       "id": 615,
       "question": {
         "en": "Is there anything you\u2019d like to be doing on your own time to relieve stress that you\u2019re not getting to? How can I help you achieve those personal goals?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.650Z",
@@ -2968,7 +2968,7 @@
       "id": 616,
       "question": {
         "en": "What does your ideal weekday look like?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.653Z",
@@ -2978,7 +2978,7 @@
       "id": 617,
       "question": {
         "en": "How is your workload right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.655Z",
@@ -2988,7 +2988,7 @@
       "id": 619,
       "question": {
         "en": "How do you feel about your work\/life balance?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.671Z",
@@ -2998,7 +2998,7 @@
       "id": 620,
       "question": {
         "en": "What, if anything, did you used to do that you find you don\u2019t have time for right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.673Z",
@@ -3008,7 +3008,7 @@
       "id": 621,
       "question": {
         "en": "What could we change about work that would improve the rest of your life?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.678Z",
@@ -3018,7 +3018,7 @@
       "id": 622,
       "question": {
         "en": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.682Z",
@@ -3028,7 +3028,7 @@
       "id": 623,
       "question": {
         "en": "What were your biggest time wasters or roadblocks last week or the week before?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.694Z",
@@ -3038,7 +3038,7 @@
       "id": 624,
       "question": {
         "en": "What stands in your way?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.697Z",
@@ -3048,7 +3048,7 @@
       "id": 625,
       "question": {
         "en": "What was difficult this week? what have you learned?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.700Z",
@@ -3058,7 +3058,7 @@
       "id": 626,
       "question": {
         "en": "When was your last vacation? ",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.711Z",
@@ -3068,7 +3068,7 @@
       "id": 627,
       "question": {
         "en": "When is your next vacation?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.714Z",
@@ -3078,7 +3078,7 @@
       "id": 628,
       "question": {
         "en": "What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.717Z",
@@ -3088,7 +3088,7 @@
       "id": 629,
       "question": {
         "en": "What are 3 things could we do to improve your productivity if money was no object?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.729Z",
@@ -3098,7 +3098,7 @@
       "id": 630,
       "question": {
         "en": "What is an ideal, productive day at work for you? Walk me through the day\u2026",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.732Z",
@@ -3108,7 +3108,7 @@
       "id": 631,
       "question": {
         "en": "What\u2019s an inexpensive thing we could do to improve our office environment?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.734Z",
@@ -3118,7 +3118,7 @@
       "id": 632,
       "question": {
         "en": "What are the biggest time wasters for you each week?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.745Z",
@@ -3128,7 +3128,7 @@
       "id": 633,
       "question": {
         "en": "What makes you excited and motivated to work on a project?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.748Z",
@@ -3138,7 +3138,7 @@
       "id": 634,
       "question": {
         "en": "When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.750Z",
@@ -3148,7 +3148,7 @@
       "id": 635,
       "question": {
         "en": "What part of your work routine do you find is working best? What area do you want to improve?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.753Z",
@@ -3158,7 +3158,7 @@
       "id": 636,
       "question": {
         "en": "What do you do when you feel low energy or unmotivated?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.764Z",
@@ -3168,7 +3168,7 @@
       "id": 637,
       "question": {
         "en": "How can I help\u2026? (be more productive\/happier at work\/enjoy work more\/etc)",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.767Z",
@@ -3178,7 +3178,7 @@
       "id": 638,
       "question": {
         "en": "Is there anything that you\u2019re struggling with?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.769Z",
@@ -3188,7 +3188,7 @@
       "id": 639,
       "question": {
         "en": "Is there anything that you need from me?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.782Z",
@@ -3198,7 +3198,7 @@
       "id": 640,
       "question": {
         "en": "What is the most important thing we need to discuss today?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.785Z",
@@ -3208,7 +3208,7 @@
       "id": 641,
       "question": {
         "en": "What are your most significant accomplishments since we last met?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.788Z",
@@ -3218,7 +3218,7 @@
       "id": 642,
       "question": {
         "en": "What are the most important things you will focus on before we meet next?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.800Z",
@@ -3228,7 +3228,7 @@
       "id": 643,
       "question": {
         "en": "What obstacles are you encountering right now?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.802Z",
@@ -3238,7 +3238,7 @@
       "id": 644,
       "question": {
         "en": "How are you feeling about work?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.805Z",
@@ -3248,7 +3248,7 @@
       "id": 645,
       "question": {
         "en": "What about your job is most satisfying for you?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.808Z",
@@ -3258,7 +3258,7 @@
       "id": 646,
       "question": {
         "en": "What about work is frustrating?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.819Z",
@@ -3268,7 +3268,7 @@
       "id": 647,
       "question": {
         "en": "If you could change one thing about your job today, what would you change?",
-        "jp": ""
+        "ja_JP": ""
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.822Z",
