@@ -3,7 +3,7 @@
     "en",
     "ja_JP"
   ],
-  "categories": {
+  "i18nCategories": {
     "About Manager": {
       "ja_JP": "マネージャについて"
     },
