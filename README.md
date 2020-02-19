@@ -207,7 +207,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Which parts of your project are unclear or confusing?
 
 
-## Other 
+## Other
 * As a kid, what did you want to be when you grew up?
 * How are things going for you outside of work?
 * If you had millions of dollars, what would you do every day?
