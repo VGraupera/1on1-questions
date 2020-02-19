@@ -316,7 +316,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Is there anything that you need from me?
 * Is there anything that you’re struggling with?
 * Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
-* Test
 * What about work is frustrating?
 * What about your job is most satisfying for you?
 * What are 3 things could we do to improve your productivity if money was no object?
