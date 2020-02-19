@@ -105,7 +105,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What would make this your perfect job?
 * What would you like to learn about in the future?
 * What’s one thing we could do today to help you with your long term goals?
-* Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?
+* 1年後や3年後のキャリアについてどう考えてますか？ 思っているゴールに近づくためにあなたは何ができると思いますか？ (目標が会社に関係あることだと仮定して)私達、人事部としてあなたのお手伝いできることはありますか？ 
 * Where do you see your career in the next (2/5/10) years?
 * Where do you see yourself in three years? Five years?
 * Which career or development goals do you feel like you’re not able to focus on right now?

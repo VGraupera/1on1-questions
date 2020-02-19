@@ -1,5 +1,8 @@
 {
-  "languages": ["en", "ja_JP"],
+  "languages": [
+    "en",
+    "ja_JP"
+  ],
   "i18nCategories": {
     "About Manager": {
       "ja_JP": "マネージャについて"
@@ -898,7 +901,7 @@
       "id": 401,
       "question": {
         "en": "Where do you see your career in 1 year, 3 years? What can you do to make sure you reach those goals? How can we as HR help you to reach those goals (assuming the goals relate to the company)?",
-        "ja_JP": ""
+        "ja_JP": "1年後や3年後のキャリアについてどう考えてますか？ 思っているゴールに近づくためにあなたは何ができると思いますか？ (目標が会社に関係あることだと仮定して)私達、人事部としてあなたのお手伝いできることはありますか？ "
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.411Z",
