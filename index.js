@@ -37,7 +37,7 @@ function getReadmeName(lang) {
   if (lang === 'en') {
     return 'README.md';
   }
-  return `README_${lang}.md`;
+  return `README.${lang}.md`;
 }
 
 const title = `# 1 on 1 Meeting Questions
