@@ -42,10 +42,9 @@ Why is there also a JSON file?
 - README.md can be generated from json file so you only have to make changes in one place`;
 const contributing = `
 ## Contributing
-1. Fork repo
-2. Add your question to \`questions.json\` or provide README.md updates through \`index.js\`
-3. Run \`npm start\` to regenerate README.md
-4. Create new Pull Request
+1. Fork repo.
+2. Add your question to \`questions.json\`.
+3. Create new Pull Request.
 `;
 
 const categoryMap = questions.reduce(categoryMapReducer, {});
