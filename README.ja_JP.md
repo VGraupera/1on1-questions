@@ -38,7 +38,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What do you think I should know about the project, but might not?
 * What have your past managers done that you’d like me to also do or not do?
 * What is something I could do better? What feedback do you have for me?
-* 私がもっと良くできるはずだったことは何ですか？私がもっと助けられたかもしれないが、しなかった状況は何ですか？
+* 私がもっと良くできるはずだったことは何ですか？私がもっと助けになれたのはどんな場面でしょうか？
 * What is the biggest challenge you are currently facing? How can I help with that?
 * 私を最も必要とするのはどんなことですか？
 * 日々の仕事で、私との関わりは何パーセントでしょうか？もっと増やしたい/減らしたいですか？
