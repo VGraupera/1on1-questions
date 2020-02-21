@@ -40,7 +40,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What is something I could do better? What feedback do you have for me?
 * 私がもっと良くできるはずだったことは何ですか？私がもっと助けられたかもしれないが、しなかった状況は何ですか？
 * What is the biggest challenge you are currently facing? How can I help with that?
-* あなたが私に最も必要としていることは何ですか？
+* 私を最も必要とするのはどんなことですか？
 * 日々の仕事で、私との関わりは何パーセントでしょうか？もっと増やしたい/減らしたいですか？
 * What would you like to know about me?
 * What would you like to see change about these discussions? How could we make them more useful for you?
