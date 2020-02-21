@@ -371,7 +371,7 @@
       "id": 341,
       "question": {
         "en": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
-        "ja_JP": "日々の仕事で、私との関わりは何パーセントでしょうか？もっと増やしたい/減らしたいですか？"
+        "ja_JP": "日々の仕事で、私が関わっている割合は何パーセントくらいでしょうか？もっと増やしたい/減らしたいですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.065Z",
