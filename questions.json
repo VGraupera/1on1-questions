@@ -41,7 +41,7 @@
       "id": 307,
       "question": {
         "en": "How do you prefer to receive feedback?",
-        "ja_JP": ""
+        "ja_JP": "どんな風にフィードバックを受け取りたいですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.874Z",
@@ -51,7 +51,7 @@
       "id": 308,
       "question": {
         "en": "Do you feel you\u2019re getting enough feedback? Why\/why not?",
-        "ja_JP": ""
+        "ja_JP": "フィードバックは十分ですか？どうしてそう思いますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.878Z",
@@ -61,7 +61,7 @@
       "id": 309,
       "question": {
         "en": "What aspect of your job you would like more help or coaching?",
-        "ja_JP": ""
+        "ja_JP": "仕事のどのような面でもっと助けやコーチンがほしいですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.881Z",
@@ -71,7 +71,7 @@
       "id": 310,
       "question": {
         "en": "How can I better support you?",
-        "ja_JP": ""
+        "ja_JP": "どうしたらもっとあなたをサポートできますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.893Z",
@@ -81,7 +81,7 @@
       "id": 311,
       "question": {
         "en": "What could I do as a manager to make your work easier?",
-        "ja_JP": ""
+        "ja_JP": "マネージャとして、どうすればあなたの仕事の助けになりますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.896Z",
@@ -91,7 +91,7 @@
       "id": 312,
       "question": {
         "en": "What is something I could do better? What feedback do you have for me?",
-        "ja_JP": ""
+        "ja_JP": "私の改善点は何でしょうか？私へフィードバックをお願いします。"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.898Z",
@@ -101,7 +101,7 @@
       "id": 313,
       "question": {
         "en": "What aspects of your work would you like more or less direction from me?",
-        "ja_JP": ""
+        "ja_JP": "仕事上、もっと指示が欲しいところ、逆に指示されたくないところはどこでしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.909Z",
@@ -111,7 +111,7 @@
       "id": 314,
       "question": {
         "en": "What would you like to know about me?",
-        "ja_JP": ""
+        "ja_JP": "私について知りたいことは何でしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.912Z",
@@ -121,7 +121,7 @@
       "id": 315,
       "question": {
         "en": "What do you like about my management style? What do you dislike?",
-        "ja_JP": ""
+        "ja_JP": "私のマネージメント方法で良いところ、悪いところはどこでしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.915Z",
@@ -131,7 +131,7 @@
       "id": 316,
       "question": {
         "en": "What have your past managers done that you\u2019d like me to also do or not do?",
-        "ja_JP": ""
+        "ja_JP": "以前のマネージャのやったことで、私にもしてほしいこと、逆にしてほしくないこと何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.918Z",
@@ -141,7 +141,7 @@
       "id": 317,
       "question": {
         "en": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
-        "ja_JP": ""
+        "ja_JP": "私がチームのマネージャとしてしやっていることで、気に入ってること、継続すべきことは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.930Z",
@@ -151,7 +151,7 @@
       "id": 318,
       "question": {
         "en": "Where do you think I can be most helpful?",
-        "ja_JP": ""
+        "ja_JP": "どんな場面で私は最も役に立つと思いますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.933Z",
@@ -161,7 +161,7 @@
       "id": 319,
       "question": {
         "en": "What are your thoughts on my changes?",
-        "ja_JP": ""
+        "ja_JP": "私の変化についてどう思いますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.935Z",
