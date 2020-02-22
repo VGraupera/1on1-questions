@@ -1,5 +1,9 @@
-name: Push
-on: [push]
+name: Push questions.json
+on:
+  push:
+    paths:
+      - 'questions.json'
+      - 'index.js'
 
 jobs:
   test:
