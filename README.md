@@ -1,6 +1,14 @@
 # 1 on 1 Meeting Questions
 Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
 
+## Table of Contents
+- [About Manager](#about-manager)
+- [Career development](#career-development)
+- [Conversation starters](#conversation-starters)
+- [Job satisfaction](#job-satisfaction)
+- [Other ](#other-)
+- [Team and company](#team-and-company)
+- [Work-life](#work-life)
 
 ## About Manager
 * Are there any obstacles I can remove for you?
@@ -48,7 +56,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Where do you think I can be most helpful?
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
-
 
 ## Career development
 * Are there any events or training you’d like to attend to help you grow your skills?
@@ -112,7 +119,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?
 * Who in the company would you like to learn from? What do you want to learn?
 
-
 ## Conversation starters
 * Are you on track to meet the deadline?
 * Hey, what’s going on?
@@ -140,7 +146,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Who do you really admire? Why? (People often admire those they want to become)
 * Would you like to walk today, or go somewhere else outside the office?
 * Would you update me on Project X?
-
 
 ## Job satisfaction
 * Are you happy here? What makes you say that?
@@ -206,7 +211,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Which areas would you like to spend more time on and why?
 * Which parts of your project are unclear or confusing?
 
-
 ## Other
 * As a kid, what did you want to be when you grew up?
 * How are things going for you outside of work?
@@ -217,7 +221,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What questions do you have about the project?
 * What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
 * What’s one thing we could change about work for you that would improve your personal life?
-
 
 ## Team and company
 * Are there any aspects of our culture you wish you could change?
@@ -303,7 +306,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Who would you like to work more often with? Why?
 * Whom in the team do you want to learn from? Whom do you get valuable feedback from?
 * Why do you think [employee who recently quit] left? What did they tell you?
-
 
 ## Work-life
 * How are you feeling about work?
