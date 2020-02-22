@@ -361,7 +361,7 @@
       "id": 340,
       "question": {
         "en": "What can I do as a manager to make your work easier?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事をより簡単にするために、マネージャーとして私に何かできる事はありますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.062Z",
@@ -371,7 +371,7 @@
       "id": 341,
       "question": {
         "en": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
-        "ja_JP": ""
+        "ja_JP": "日々の仕事で、私が関わっているのは何パーセントくらいでしょうか？もっと増やしたい/減らしたいですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.065Z",
@@ -381,7 +381,7 @@
       "id": 343,
       "question": {
         "en": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
-        "ja_JP": ""
+        "ja_JP": "私がもっと良くできるはずだったことは何ですか？私がもっと助けになれたのはどんな場面でしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.082Z",
@@ -391,7 +391,7 @@
       "id": 344,
       "question": {
         "en": "What can I do to help you?",
-        "ja_JP": ""
+        "ja_JP": "あなたを助けるために私は何ができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.084Z",
@@ -401,7 +401,7 @@
       "id": 345,
       "question": {
         "en": "What is the one thing that you need the most from me?",
-        "ja_JP": ""
+        "ja_JP": "私を最も必要とするのはどんなことですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.087Z",
@@ -411,7 +411,7 @@
       "id": 346,
       "question": {
         "en": "As your manager, what would you like me to stop, start, or continue doing?",
-        "ja_JP": ""
+        "ja_JP": "マネージャーとして、私にやめてほしい/始めてほしい/続けてほしいことは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.090Z",
@@ -421,7 +421,7 @@
       "id": 347,
       "question": {
         "en": "What can I do to help remove obstacles?",
-        "ja_JP": ""
+        "ja_JP": "障害を取り除くために私は何ができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.102Z",
@@ -431,7 +431,7 @@
       "id": 348,
       "question": {
         "en": "Do you have any feedback for me?",
-        "ja_JP": ""
+        "ja_JP": "私に何かフィードバックはありますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.105Z",

@@ -4,10 +4,10 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 ## マネージャについて
 * Are there any obstacles I can remove for you?
-* As your manager, what would you like me to stop, start, or continue doing?
+* マネージャーとして、私にやめてほしい/始めてほしい/続けてほしいことは何ですか？
 * At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 * フィードバックは十分ですか？どうしてそう思いますか？
-* Do you have any feedback for me?
+* 私に何かフィードバックはありますか？
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 * どうしたらもっとあなたをサポートできますか？
 * How can I make your days more fulfilling?
@@ -24,13 +24,13 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * 仕事のどのような面でもっと助けやコーチンがほしいですか？
 * 仕事上、もっと指示が欲しいところ、逆に指示されたくないところはどこでしょうか？
 * What can I be doing better to help you in your job?
-* What can I do as a manager to make your work easier?
+* あなたの仕事をより簡単にするために、マネージャーとして私に何かできる事はありますか？
 * What can I do better or differently as your manager to support you?
 * What can I do for you that I'm not?
-* What can I do to help remove obstacles?
+* 障害を取り除くために私は何ができますか？
 * What can I do to help you achieve you current goals and priorities?
 * What can I do to help you enjoy your work more or remove roadblocks to progress?
-* What can I do to help you?
+* あなたを助けるために私は何ができますか？
 * What can I do to make things more manageable?
 * What can I do to make your job easier?
 * マネージャとして、どうすればあなたの仕事の助けになりますか？
@@ -38,10 +38,10 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What do you think I should know about the project, but might not?
 * 以前のマネージャのやったことで、私にもしてほしいこと、逆にしてほしくないこと何ですか？
 * 私の改善点は何でしょうか？私へフィードバックをお願いします。
-* What is something I could have done better? What are the situations that I could have helped more but didn’t?
+* 私がもっと良くできるはずだったことは何ですか？私がもっと助けになれたのはどんな場面でしょうか？
 * What is the biggest challenge you are currently facing? How can I help with that?
-* What is the one thing that you need the most from me?
-* What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
+* 私を最も必要とするのはどんなことですか？
+* 日々の仕事で、私が関わっているのは何パーセントくらいでしょうか？もっと増やしたい/減らしたいですか？
 * 私について知りたいことは何でしょうか？
 * What would you like to see change about these discussions? How could we make them more useful for you?
 * 私がチームのマネージャとしてしやっていることで、気に入ってること、継続すべきことは何ですか？
