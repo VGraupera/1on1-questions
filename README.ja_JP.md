@@ -221,23 +221,23 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 ## チームと会社
 * Are there any aspects of our culture you wish you could change?
-* Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
+* 自分が参加するべき会議や議論があると感じますか？ 参加したくないのに巻き込まれているものはありますか？
 * Are there any problems or issues that I should know about?
 * Are there any roles in the company you’d like to learn more about?
-* Are you uncomfortable giving any of your peers constructive criticism? If so, why?
+* 同僚に建設的な批判を行うのは難しいですか？　それはどうしてですか？
 * Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
 * Could you tell me a little more about that?
 * Do you feel adequately supported by other team members? What makes you say that?
-* Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
+* チームと同じページにいると思いますか？　どれくらい頻繁にそれを確認するためのミーティングを行わないといけないとおもいますか？
 * Do you have a clear understanding of the new goals and expectations? What makes you say that?
-* Do you help other members on the team? Do others help you when you need it?
+* チームの他の誰かを助けていますか？　チームのメンバーはあなたが助けを必要としてるときに助けてくれますか？
 * Has anyone on the team ever made you feel uncomfortable? What happened?
 * How are you feeling about the company’s future overall? What makes you say that?
 * How are you feeling about the recent news? Why do you say that?
-* How could we be more creative or innovative as a company?
-* How could we change our team meetings to be more effective?
+* 会社としてどうやったらもっとクリエイティブやイノベーティブになれると思いますか？
+* チームの打ち合わせをもっと効果的にするにはどこを変えればいいでしょうか？
 * How is the new situation/development affecting your work? What could be getting in the way of your being effective?
-* How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
+* 同僚とどれくらいうまくいってる？　同僚をどのように見ていますか？　友人？　知人？　赤の他人？
 * How would you describe the division of work among team members?
 * How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
 * How would you rate our communication as a team?
@@ -245,13 +245,13 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * If we could improve in any way, how would we do it?
 * If you were CEO, what’s the first thing you’d change?
 * Is any part of your project unclear or confusing?
-* Is everyone pulling their weight on the team?
+* みんながチームに集中していますか？
 * Is there a situation you’d like my help with?
 * Is there anybody in the team that you find it difficult to work with? Can you tell me why?
 * Is there anything blocking you from getting your work done?
 * Is there anything that’s slowing you down from getting your work done?
 * Is there anything you’d like to see change about the team, and if so, why?
-* Is your job what you expected when you accepted it?
+* あなたの仕事は内定を受諾したときに期待していたものでしたか？
 * What additional resources from me would be helpful for you as you solve this problem?
 * What are some possible ways to get the solution you need?
 * What are some ways we could improve at teamwork? What makes you say that?
@@ -276,15 +276,15 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What is the #1 Problem at our company? Why?
 * What is the company not doing today that we should do to better compete in the market?
 * What kind of communication or information do you wish you had more of?
-* What part of your job do you wish you didn’t have to do?
+* あなたの仕事でやりたくないと思っている仕事はなんですか？
 * What sort of resources could you use right now to make things more manageable?
 * What would you like to learn more about this year?
 * What would you like to see change here? Why do you say that?
-* What’s an inexpensive thing we could do to improve our office environment for the team?
+* チームのオフィス環境を改善する、あまりお金のかからない方法はありますか？
 * What’s going well and not so well with the new situation/development? Why do you think this might be happening?
 * What’s one thing we should change about how our team works together?
 * What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
-* What’s something you feel is undervalued that you contribute to the team?
+* チームへの貢献で過小評価されていると感じている点はなんですか？
 * What’s the biggest opportunity we’re missing out on?
 * What’s the biggest thing you’d like to change about our team?
 * What’s the No. 1 problem with our organization, and what do you think's causing it?
@@ -293,16 +293,16 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Where do you think we can do better?
 * Which areas would you would like more feedback on?
 * Which company values do you like the most? Which the least? Why?
-* Who are you friends with at work? (Shown to be a key to enjoying your job)
-* Who do you admire within the company and why?
-* Who has really been kicking ass lately?
+* 職場での友人はだれですか？ (あなたの仕事を楽しくするキーパーソンを示してもらいます)
+* 会社で尊敬している人は誰ですか？　またその理由は？
+* 一番最近で誰が一番最高の仕事をしましたか？
 * Who inspire you in the team? Whose opinions do you respect? What have they done?
-* Who is kicking ass on the team? What have they done?
+* チームでいい仕事してるのはだれ？　彼は何をやった？
 * Who is really kicking ass in the company? Who do you admire?
-* Who on the team do you have the most difficulty working with? Why?
-* Who would you like to work more often with? Why?
+* チームで一番働きづらい人はだれですか？　それはどうしてですか？
+* 誰ともっとよく働きたいと思いますか？　それは何故ですか？
 * Whom in the team do you want to learn from? Whom do you get valuable feedback from?
-* Why do you think [employee who recently quit] left? What did they tell you?
+* 何故 (最近退職した人) が会社をやめたと思いますか？ 彼はなにか言ってませんでしたか？
 
 
 ## ワーク・ライフ

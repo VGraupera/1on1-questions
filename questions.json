@@ -2178,7 +2178,7 @@
       "id": 530,
       "question": {
         "en": "How could we be more creative or innovative as a company?",
-        "ja_JP": ""
+        "ja_JP": "会社としてどうやったらもっとクリエイティブやイノベーティブになれると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.153Z",
@@ -2188,7 +2188,7 @@
       "id": 531,
       "question": {
         "en": "How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?",
-        "ja_JP": ""
+        "ja_JP": "同僚とどれくらいうまくいってる？　同僚をどのように見ていますか？　友人？　知人？　赤の他人？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.155Z",
@@ -2198,7 +2198,7 @@
       "id": 532,
       "question": {
         "en": "How could we change our team meetings to be more effective?",
-        "ja_JP": ""
+        "ja_JP": "チームの打ち合わせをもっと効果的にするにはどこを変えればいいでしょうか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.158Z",
@@ -2208,7 +2208,7 @@
       "id": 533,
       "question": {
         "en": "Why do you think [employee who recently quit] left? What did they tell you?",
-        "ja_JP": ""
+        "ja_JP": "何故 (最近退職した人) が会社をやめたと思いますか？ 彼はなにか言ってませんでしたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.169Z",
@@ -2218,7 +2218,7 @@
       "id": 534,
       "question": {
         "en": "Do you feel like you\u2019re on the same page with the team? How often do you think you need meetings to ensure you stay that way?",
-        "ja_JP": ""
+        "ja_JP": "チームと同じページにいると思いますか？　どれくらい頻繁にそれを確認するためのミーティングを行わないといけないとおもいますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.174Z",
@@ -2228,7 +2228,7 @@
       "id": 535,
       "question": {
         "en": "Are there any meetings or discussions you feel you should be a part of that you\u2019re not? Are you included in any you don\u2019t want to be a part of?",
-        "ja_JP": ""
+        "ja_JP": "自分が参加するべき会議や議論があると感じますか？ 参加したくないのに巻き込まれているものはありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.177Z",
@@ -2238,7 +2238,7 @@
       "id": 536,
       "question": {
         "en": "Who would you like to work more often with? Why?",
-        "ja_JP": ""
+        "ja_JP": "誰ともっとよく働きたいと思いますか？　それは何故ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.189Z",
@@ -2248,7 +2248,7 @@
       "id": 537,
       "question": {
         "en": "Is everyone pulling their weight on the team?",
-        "ja_JP": ""
+        "ja_JP": "みんながチームに集中していますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.192Z",
@@ -2258,7 +2258,7 @@
       "id": 538,
       "question": {
         "en": "Who is kicking ass on the team? What have they done?",
-        "ja_JP": ""
+        "ja_JP": "チームでいい仕事してるのはだれ？　彼は何をやった？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.194Z",
@@ -2268,7 +2268,7 @@
       "id": 539,
       "question": {
         "en": "Who on the team do you have the most difficulty working with? Why?",
-        "ja_JP": ""
+        "ja_JP": "チームで一番働きづらい人はだれですか？　それはどうしてですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.206Z",
@@ -2278,7 +2278,7 @@
       "id": 540,
       "question": {
         "en": "Do you help other members on the team? Do others help you when you need it?",
-        "ja_JP": ""
+        "ja_JP": "チームの他の誰かを助けていますか？　チームのメンバーはあなたが助けを必要としてるときに助けてくれますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.209Z",
@@ -2288,7 +2288,7 @@
       "id": 541,
       "question": {
         "en": "Are you uncomfortable giving any of your peers constructive criticism? If so, why?",
-        "ja_JP": ""
+        "ja_JP": "同僚に建設的な批判を行うのは難しいですか？　それはどうしてですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.212Z",
@@ -2298,7 +2298,7 @@
       "id": 542,
       "question": {
         "en": "What\u2019s an inexpensive thing we could do to improve our office environment for the team?",
-        "ja_JP": ""
+        "ja_JP": "チームのオフィス環境を改善する、あまりお金のかからない方法はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.224Z",
@@ -2308,7 +2308,7 @@
       "id": 543,
       "question": {
         "en": "Is your job what you expected when you accepted it?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事は内定を受諾したときに期待していたものでしたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.227Z",
@@ -2318,7 +2318,7 @@
       "id": 544,
       "question": {
         "en": "Who are you friends with at work? (Shown to be a key to enjoying your job)",
-        "ja_JP": ""
+        "ja_JP": "職場での友人はだれですか？ (あなたの仕事を楽しくするキーパーソンを示してもらいます)"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.231Z",
@@ -2328,7 +2328,7 @@
       "id": 545,
       "question": {
         "en": "What\u2019s something you feel is undervalued that you contribute to the team?",
-        "ja_JP": ""
+        "ja_JP": "チームへの貢献で過小評価されていると感じている点はなんですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.245Z",
@@ -2338,7 +2338,7 @@
       "id": 546,
       "question": {
         "en": "What part of your job do you wish you didn\u2019t have to do?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事でやりたくないと思っている仕事はなんですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.249Z",
@@ -2348,7 +2348,7 @@
       "id": 548,
       "question": {
         "en": "Who do you admire within the company and why?",
-        "ja_JP": ""
+        "ja_JP": "会社で尊敬している人は誰ですか？　またその理由は？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.263Z",
@@ -2358,7 +2358,7 @@
       "id": 549,
       "question": {
         "en": "Who has really been kicking ass lately?",
-        "ja_JP": ""
+        "ja_JP": "一番最近で誰が一番最高の仕事をしましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.265Z",
