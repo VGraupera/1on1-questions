@@ -5,24 +5,31 @@
   ],
   "i18nCategories": {
     "About Manager": {
+      "en": "About Manager",
       "ja_JP": "マネージャについて"
     },
     "Career development": {
+      "en": "Career development",
       "ja_JP": "キャリア開発"
     },
     "Conversation starters": {
+      "en": "Conversation starters",
       "ja_JP": "会話のきっかけ"
     },
     "Job satisfaction": {
+      "en": "Job satisfaction",
       "ja_JP": "働きがい"
     },
-    "Other ": {
+    "Other": {
+      "en": "Other",
       "ja_JP": "その他"
     },
     "Team and company": {
+      "en": "Team and company",
       "ja_JP": "チームと会社"
     },
     "Work-life": {
+      "en": "Work-life",
       "ja_JP": "ワーク・ライフ"
     }
   },
