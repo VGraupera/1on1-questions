@@ -1578,7 +1578,7 @@
       "id": 470,
       "question": {
         "en": "What feedback\/praises have you been getting about your current priorities?",
-        "ja_JP": ""
+        "ja_JP": "現在の優先事項について、どんなフィードバックを受けていますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.799Z",
@@ -1588,7 +1588,7 @@
       "id": 471,
       "question": {
         "en": "How are you feeling about your role?",
-        "ja_JP": ""
+        "ja_JP": "今の役割についてどのように感じていますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.802Z",
@@ -1598,7 +1598,7 @@
       "id": 472,
       "question": {
         "en": "Are you happy here? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "ここにいて楽しいですか？　どうしてそう思いますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.805Z",
@@ -1608,7 +1608,7 @@
       "id": 473,
       "question": {
         "en": "Do you feel like you're growing in your role? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "今の役割で成長してる実感はありますか？　どうしてそう思いますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.817Z",
@@ -1618,7 +1618,7 @@
       "id": 474,
       "question": {
         "en": "What interests you about the project(s) you\u2019re currently working on, and why?",
-        "ja_JP": ""
+        "ja_JP": "いまやっているプロジェクトで面白いと思う部分は何ですか？　理由も教えて下さい。"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.820Z",
@@ -1628,7 +1628,7 @@
       "id": 475,
       "question": {
         "en": "What is your favorite\/least favorite thing about your work right now?",
-        "ja_JP": ""
+        "ja_JP": "今やっている仕事で好きなこと/好きじゃないことを教えて下さい"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.823Z",
@@ -1638,7 +1638,7 @@
       "id": 476,
       "question": {
         "en": "How do you think that least favorite thing affects your overall performance?",
-        "ja_JP": ""
+        "ja_JP": "好きじゃないことがあなたのパフォーマンスに影響しているとおもいますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.837Z",
@@ -1648,7 +1648,7 @@
       "id": 477,
       "question": {
         "en": "What\u2019s working well for you in your current position?",
-        "ja_JP": ""
+        "ja_JP": "今の役割でうまくいっていることは何ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.840Z",
@@ -1658,7 +1658,7 @@
       "id": 478,
       "question": {
         "en": "In what ways does your current position allow you to use your skills and talents?",
-        "ja_JP": ""
+        "ja_JP": "今の役割で、どんな風にあなたの技術と才能が使われていますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.847Z",
@@ -1668,7 +1668,7 @@
       "id": 479,
       "question": {
         "en": "Which areas make you feel like your hands are tied or you are unable to reach your full potential?",
-        "ja_JP": ""
+        "ja_JP": "どういった領域で、あなたのポテンシャルが発揮できないと感じたり、両腕を縛られているような気持ちになったりしますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.859Z",
@@ -1678,7 +1678,7 @@
       "id": 480,
       "question": {
         "en": "What do you think you could be doing differently?",
-        "ja_JP": ""
+        "ja_JP": "もっと違うやり方でできると思いますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.862Z",
@@ -1688,7 +1688,7 @@
       "id": 481,
       "question": {
         "en": "If you could work on anything for the next month, what would it be? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "もし、来月なにかに取り組む時間があったら何をやりますか？　それはどうしてですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.865Z",
@@ -1698,7 +1698,7 @@
       "id": 482,
       "question": {
         "en": "What\u2019s one thing that could make your work more satisfying, and why?",
-        "ja_JP": ""
+        "ja_JP": "仕事の満足度を上げるためには何が必要だと思いますか？　その理由は？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.881Z",
@@ -1708,7 +1708,7 @@
       "id": 483,
       "question": {
         "en": "How are you feeling about the project?",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトについてどう思いますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.884Z",
@@ -1718,7 +1718,7 @@
       "id": 484,
       "question": {
         "en": "What aspect of this project has been particularly interesting for you?",
-        "ja_JP": ""
+        "ja_JP": "あなたにとってこのプロジェクトの特に面白い部分ってどこですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.898Z",
@@ -1728,7 +1728,7 @@
       "id": 485,
       "question": {
         "en": "What do you feel like you're learning from this project?",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトから何を学べていると思いますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.901Z",
@@ -1738,7 +1738,7 @@
       "id": 486,
       "question": {
         "en": "What frustrates you about the project?",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトでムカつくことってありますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.904Z",
@@ -1748,7 +1748,7 @@
       "id": 487,
       "question": {
         "en": "Which areas would you like to spend more time on and why?",
-        "ja_JP": ""
+        "ja_JP": "どの領域にもっと時間を使いたいですか？　それは何故ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.908Z",
@@ -1758,7 +1758,7 @@
       "id": 488,
       "question": {
         "en": "What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?",
-        "ja_JP": ""
+        "ja_JP": "何がうまくいったと思いますか？　もっとうまくできたと思うことって何ですか？　やりたかったけれどもやれなかったことってありますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.920Z",
@@ -1768,7 +1768,7 @@
       "id": 489,
       "question": {
         "en": "What are your biggest concerns about your current project(s)?",
-        "ja_JP": ""
+        "ja_JP": "現在のプロジェクトで一番の懸念点って何ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.923Z",
