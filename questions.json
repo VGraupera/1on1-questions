@@ -1971,7 +1971,7 @@
       "id": 510,
       "question": {
         "en": "What did you do for fun in the past that you haven\u2019t had as much time for lately?",
-        "ja_JP": ""
+        "ja_JP": "最近時間なさそうですが、時間あるときはどういうことを楽しんでいましたか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.043Z",
@@ -1981,7 +1981,7 @@
       "id": 511,
       "question": {
         "en": "As a kid, what did you want to be when you grew up?",
-        "ja_JP": ""
+        "ja_JP": "子供の頃、大人になったら何になりたかったですか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.046Z",
@@ -1991,7 +1991,7 @@
       "id": 512,
       "question": {
         "en": "If you had millions of dollars, what would you do every day?",
-        "ja_JP": ""
+        "ja_JP": "5000兆円あったら毎日なにしますか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.048Z",
@@ -2001,7 +2001,7 @@
       "id": 513,
       "question": {
         "en": "What questions do you have about the project?",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトに関してなにか質問はありますか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.060Z",
@@ -2011,7 +2011,7 @@
       "id": 514,
       "question": {
         "en": "What ideas can you bring in from past successes?",
-        "ja_JP": ""
+        "ja_JP": "過去の成功体験からなにかいいアイディアはありませんか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.062Z",
@@ -2021,7 +2021,7 @@
       "id": 515,
       "question": {
         "en": "What haven\u2019t you tried yet?",
-        "ja_JP": ""
+        "ja_JP": "まだ試してないことって何ですか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.065Z",
@@ -2031,7 +2031,7 @@
       "id": 516,
       "question": {
         "en": "What would you be doing right now if we weren\u2019t having this meeting? How do you feel about being taken away from that task?",
-        "ja_JP": ""
+        "ja_JP": "もしこの打ち合わせがなかったら何していましたか？ やろうとしてなかったことをできなかったことについてどう感じていますか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.067Z",
@@ -2041,7 +2041,7 @@
       "id": 517,
       "question": {
         "en": "How are things going for you outside of work?",
-        "ja_JP": ""
+        "ja_JP": "仕事以外の調子はどうですか？"
       },
       "category": "Other ",
       "created_at": "2017-11-18T14:26:15.081Z",
@@ -2051,7 +2051,7 @@
       "id": 518,
       "question": {
         "en": "Is there anything blocking you from getting your work done?",
-        "ja_JP": ""
+        "ja_JP": "なにかブロッカーはありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.083Z",
@@ -2061,7 +2061,7 @@
       "id": 519,
       "question": {
         "en": "What area of the company would you like to learn more about?",
-        "ja_JP": ""
+        "ja_JP": "会社のどの領域についてもっと知りたいですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.086Z",
@@ -2071,7 +2071,7 @@
       "id": 520,
       "question": {
         "en": "Are there any roles in the company you\u2019d like to learn more about?",
-        "ja_JP": ""
+        "ja_JP": "もっと詳細を知りたい社内の枠割はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.098Z",
@@ -2081,7 +2081,7 @@
       "id": 521,
       "question": {
         "en": "What do you think are the key skills for your role? How would you rate yourself for each of them?",
-        "ja_JP": ""
+        "ja_JP": "あなたの役割で鍵となる技術は何だと思いますか？　あなた自身はその技術にどれくらい熟達してるとおもいますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.101Z",
@@ -2091,7 +2091,7 @@
       "id": 522,
       "question": {
         "en": "Is there a situation you\u2019d like my help with?",
-        "ja_JP": ""
+        "ja_JP": "私の助けが必要な場面はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.104Z",
@@ -2101,7 +2101,7 @@
       "id": 523,
       "question": {
         "en": "What is the company not doing today that we should do to better compete in the market?",
-        "ja_JP": ""
+        "ja_JP": "市場で競争力を持つために、いま我社でやられていない、やるべきことはなんでしょう？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.107Z",
@@ -2111,7 +2111,7 @@
       "id": 524,
       "question": {
         "en": "What\u2019s one thing we\u2019d be *crazy* not to do in the next quarter to improve our product?",
-        "ja_JP": ""
+        "ja_JP": "プロダクトを改善するために、私達が次の四半期で絶対にやらないことはなんでしょうか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.119Z",
@@ -2121,7 +2121,7 @@
       "id": 525,
       "question": {
         "en": "If you were CEO, what\u2019s the first thing you\u2019d change?",
-        "ja_JP": ""
+        "ja_JP": "もしあなたがCEOなら、真っ先に変えることはなんですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.122Z",
@@ -2131,7 +2131,7 @@
       "id": 526,
       "question": {
         "en": "Are there any aspects of our culture you wish you could change?",
-        "ja_JP": ""
+        "ja_JP": "あなたが変えたい、私達の文化ってありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.134Z",
@@ -2141,7 +2141,7 @@
       "id": 527,
       "question": {
         "en": "What are your favorite parts about our culture?",
-        "ja_JP": ""
+        "ja_JP": "私達の文化の好きな部分ってなにかありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.136Z",
@@ -2151,7 +2151,7 @@
       "id": 528,
       "question": {
         "en": "Which company values do you like the most? Which the least? Why?",
-        "ja_JP": ""
+        "ja_JP": "会社の価値観のどれが一番好きで、それが一番嫌いですか？　理由も教えて下さい"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.139Z",
@@ -2161,7 +2161,7 @@
       "id": 529,
       "question": {
         "en": "What is the #1 Problem at our company? Why?",
-        "ja_JP": ""
+        "ja_JP": "会社で一番の問題点は何でしょうか？ 理由も教えて下さい"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.150Z",
