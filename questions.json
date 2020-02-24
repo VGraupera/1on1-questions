@@ -1198,7 +1198,7 @@
       "id": 430,
       "question": {
         "en": "Would you update me on Project X?",
-        "ja_JP": ""
+        "ja_JP": "Xプロジェクトで新しい情報はありますか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.579Z",
@@ -1208,7 +1208,7 @@
       "id": 431,
       "question": {
         "en": "Are you on track to meet the deadline?",
-        "ja_JP": ""
+        "ja_JP": "期限に間に合うように進んでいますか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.581Z",
@@ -1218,7 +1218,7 @@
       "id": 432,
       "question": {
         "en": "How is your family?",
-        "ja_JP": ""
+        "ja_JP": "ご家族の調子はどう？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.584Z",
@@ -1228,7 +1228,7 @@
       "id": 433,
       "question": {
         "en": "How was your weekend?",
-        "ja_JP": ""
+        "ja_JP": "週末はどうでした？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.586Z",
@@ -1238,7 +1238,7 @@
       "id": 435,
       "question": {
         "en": "How\u2019s it going?",
-        "ja_JP": ""
+        "ja_JP": "調子はどうですか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.601Z",
@@ -1248,7 +1248,7 @@
       "id": 436,
       "question": {
         "en": "So, what\u2019s on your mind? (or Anything on your mind?)",
-        "ja_JP": ""
+        "ja_JP": "何か気になってることはありますか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.604Z",
@@ -1258,7 +1258,7 @@
       "id": 437,
       "question": {
         "en": "What would you like to start with?",
-        "ja_JP": ""
+        "ja_JP": "何から始めましょうか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.618Z",
@@ -1268,7 +1268,7 @@
       "id": 438,
       "question": {
         "en": "Hey, what\u2019s going on?",
-        "ja_JP": ""
+        "ja_JP": "さて、調子はどう？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.621Z",
@@ -1278,7 +1278,7 @@
       "id": 439,
       "question": {
         "en": "Would you like to walk today, or go somewhere else outside the office?",
-        "ja_JP": ""
+        "ja_JP": "今日は散歩しながらとかどうでしょう？ あるいはオフィスの外でやってみるとか。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.624Z",
@@ -1288,7 +1288,7 @@
       "id": 440,
       "question": {
         "en": "I\u2019ve noticed you\u2019re a little quieter than usual. Is there anything you\u2019d like to talk about?",
-        "ja_JP": ""
+        "ja_JP": "いつもより物静かですね？ 何か話したいことがあるのでは？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.626Z",
@@ -1298,7 +1298,7 @@
       "id": 441,
       "question": {
         "en": "What can I do to make your day better?",
-        "ja_JP": ""
+        "ja_JP": "あなたの一日を良くするために、私にできることはありますか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.637Z",
@@ -1308,7 +1308,7 @@
       "id": 442,
       "question": {
         "en": "What's something I don't know, but should?",
-        "ja_JP": ""
+        "ja_JP": "私が知らないけれど、知るべきことは何でしょう？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.640Z",
@@ -1318,7 +1318,7 @@
       "id": 443,
       "question": {
         "en": "Tell me about last week.",
-        "ja_JP": ""
+        "ja_JP": "先週はどうでした？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.643Z",
@@ -1328,7 +1328,7 @@
       "id": 444,
       "question": {
         "en": "What would you like to focus on at this meeting?",
-        "ja_JP": ""
+        "ja_JP": "今日の1on1で特に話したいことは何でしょう？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.654Z",
@@ -1338,7 +1338,7 @@
       "id": 445,
       "question": {
         "en": "What have you been doing for fun lately?",
-        "ja_JP": ""
+        "ja_JP": "最近の楽しみは何ですか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.657Z",
@@ -1348,7 +1348,7 @@
       "id": 447,
       "question": {
         "en": "How do you feel your work\/life balance is right now?",
-        "ja_JP": ""
+        "ja_JP": "今のライフ\/ワークバランスはどうですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.661Z",
@@ -1358,7 +1358,7 @@
       "id": 448,
       "question": {
         "en": "What drives you? What motivates you to come to work each day?",
-        "ja_JP": ""
+        "ja_JP": "あなたの原動力は何でしょう？ 毎日の仕事へのモチベーションは何でしょう？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.674Z",
@@ -1368,7 +1368,7 @@
       "id": 449,
       "question": {
         "en": "Do you feel challenged at work? Are you learning new things?",
-        "ja_JP": ""
+        "ja_JP": "仕事で新しいことに挑戦できていると思いますか？ 新しいここを学んでいますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.677Z",
