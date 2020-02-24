@@ -3108,7 +3108,7 @@
       "id": 630,
       "question": {
         "en": "What is an ideal, productive day at work for you? Walk me through the day\u2026",
-        "ja_JP": ""
+        "ja_JP": "あなたにとって最も理想的で生産的な仕事の一日の流れを説明してください。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.732Z",
@@ -3118,7 +3118,7 @@
       "id": 631,
       "question": {
         "en": "What\u2019s an inexpensive thing we could do to improve our office environment?",
-        "ja_JP": ""
+        "ja_JP": "お金をかけずにオフィス環境を良くしようと思ったら、どんなアイデアがありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.734Z",
@@ -3128,7 +3128,7 @@
       "id": 632,
       "question": {
         "en": "What are the biggest time wasters for you each week?",
-        "ja_JP": ""
+        "ja_JP": "あなたが毎週最も時間を使っていることを教えてください。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.745Z",
@@ -3138,7 +3138,7 @@
       "id": 633,
       "question": {
         "en": "What makes you excited and motivated to work on a project?",
-        "ja_JP": ""
+        "ja_JP": "仕事のプロジェクトで、一番あなたがワクワクしたり、やる気が出ることを教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.748Z",
@@ -3148,7 +3148,7 @@
       "id": 634,
       "question": {
         "en": "When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?",
-        "ja_JP": ""
+        "ja_JP": "何かに行き詰まったとき、どうやってそこから抜け出しますか？誰に助けを求めますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.750Z",
@@ -3158,7 +3158,7 @@
       "id": 635,
       "question": {
         "en": "What part of your work routine do you find is working best? What area do you want to improve?",
-        "ja_JP": ""
+        "ja_JP": "仕事における定型のタスクや手続きについて、うまく機能していると思うものはなんですか？どんな部分を改善してほしいと思いますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.753Z",
@@ -3168,7 +3168,7 @@
       "id": 636,
       "question": {
         "en": "What do you do when you feel low energy or unmotivated?",
-        "ja_JP": ""
+        "ja_JP": "やる気や気力が下がったとき、どんなことをしますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.764Z",
@@ -3178,7 +3178,7 @@
       "id": 637,
       "question": {
         "en": "How can I help\u2026? (be more productive\/happier at work\/enjoy work more\/etc)",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事の生産性や楽しさを改善するために、なにか私に手助けできることはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.767Z",
@@ -3188,7 +3188,7 @@
       "id": 638,
       "question": {
         "en": "Is there anything that you\u2019re struggling with?",
-        "ja_JP": ""
+        "ja_JP": "今なかなか解決できずに困っていることはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.769Z",
@@ -3198,7 +3198,7 @@
       "id": 639,
       "question": {
         "en": "Is there anything that you need from me?",
-        "ja_JP": ""
+        "ja_JP": "何か私からあなたに提供できる、必要なものはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.782Z",
@@ -3208,7 +3208,7 @@
       "id": 640,
       "question": {
         "en": "What is the most important thing we need to discuss today?",
-        "ja_JP": ""
+        "ja_JP": "今日二人で一番話し合わなければいけないことは何でしょうか。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.785Z",
@@ -3218,7 +3218,7 @@
       "id": 641,
       "question": {
         "en": "What are your most significant accomplishments since we last met?",
-        "ja_JP": ""
+        "ja_JP": "最後に1on1をしてから今回までの間に、一番大きな成功や成し遂げたことはなんですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.788Z",
@@ -3228,7 +3228,7 @@
       "id": 642,
       "question": {
         "en": "What are the most important things you will focus on before we meet next?",
-        "ja_JP": ""
+        "ja_JP": "次の1on1までに、あなたが取り組むべき最重要課題はなんですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.800Z",
@@ -3238,7 +3238,7 @@
       "id": 643,
       "question": {
         "en": "What obstacles are you encountering right now?",
-        "ja_JP": ""
+        "ja_JP": "今現在直面している困難や障害を教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.802Z",
@@ -3248,7 +3248,7 @@
       "id": 644,
       "question": {
         "en": "How are you feeling about work?",
-        "ja_JP": ""
+        "ja_JP": "仕事のことをどう感じていますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.805Z",
@@ -3258,7 +3258,7 @@
       "id": 645,
       "question": {
         "en": "What about your job is most satisfying for you?",
-        "ja_JP": ""
+        "ja_JP": "仕事関連のものごとで、最も満足していることは何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.808Z",
@@ -3268,7 +3268,7 @@
       "id": 646,
       "question": {
         "en": "What about work is frustrating?",
-        "ja_JP": ""
+        "ja_JP": "仕事関連のものごとでフラストレーションを感じることを教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.819Z",
@@ -3278,7 +3278,7 @@
       "id": 647,
       "question": {
         "en": "If you could change one thing about your job today, what would you change?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事についてなにかひとつだけ変えられるとしたら、何を変えますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.822Z",
