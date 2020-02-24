@@ -238,11 +238,11 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * How could we change our team meetings to be more effective?
 * How is the new situation/development affecting your work? What could be getting in the way of your being effective?
 * How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
-* チームメンバーの仕事の分割をどのように説明しますか？
+* チームメンバーの仕事の分担をどのように説明しますか？
 * チームの性格についてどんな風に表現しますか？　どういった人がチームに馴染むと思いますか？　どういった人が、チームに現在チームに欠けているものを補ってくれると思いますか？
 * How would you rate our communication as a team?
 * チームとして一緒に働いていいることに対してどう思いますか？　またどうしてそう思いましたか？
-* もしとにかく改善できるのであれば、どんな風にすればいいとおもう？
+* もしとにかく改善できるのであれば、どんな風にすればいいと思う？
 * もしあなたがCEOなら、真っ先に変えることはなんですか？
 * Is any part of your project unclear or confusing?
 * Is everyone pulling their weight on the team?
@@ -266,7 +266,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What concerns do you have about the change that haven't been addressed?
 * What could you have done differently?
 * What do you do when you get stuck on something? What is your process of getting unstuck? Who is the team member you turn to for help?
-* この会社で働いていて楽しいことって何？　楽しくない部分ってなに？
+* この会社で働いていて楽しいことって何？　楽しくない部分って何？
 * What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?
 * What do you think about _________?
 * あなたの役割で鍵となる技術は何だと思いますか？　あなた自身はその技術にどれくらい熟達してるとおもいますか？

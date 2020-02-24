@@ -2368,7 +2368,7 @@
       "id": 550,
       "question": {
         "en": "What do you like about working here? What\u2019s not fun about working here?",
-        "ja_JP": "この会社で働いていて楽しいことって何？　楽しくない部分ってなに？"
+        "ja_JP": "この会社で働いていて楽しいことって何？　楽しくない部分って何？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.268Z",
@@ -2378,7 +2378,7 @@
       "id": 551,
       "question": {
         "en": "If we could improve in any way, how would we do it?",
-        "ja_JP": "もしとにかく改善できるのであれば、どんな風にすればいいとおもう？"
+        "ja_JP": "もしとにかく改善できるのであれば、どんな風にすればいいと思う？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.281Z",
@@ -2508,7 +2508,7 @@
       "id": 568,
       "question": {
         "en": "How would you describe the division of work among team members?",
-        "ja_JP": "チームメンバーの仕事の分割をどのように説明しますか？"
+        "ja_JP": "チームメンバーの仕事の分担をどのように説明しますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.376Z",
