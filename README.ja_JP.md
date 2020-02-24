@@ -143,68 +143,68 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 
 ## 働きがい
-* Are you happy here? What makes you say that?
+* ここにいて楽しいですか？　どうしてそう思いますか？
 * Are you happy with your recent work? Why or why not?
-* Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
+* 仕事がもっと楽しくできるようになるために、私達ができることを3つ挙げてください。ここにきて達成した最高の成果は何ですか？　それについてどう感じていますか？
 * Do you feel challenged at work? Are you learning new things?
-* Do you feel like you're growing in your role? What makes you say that?
+* 今の役割で成長してる実感はありますか？　どうしてそう思いますか？
 * Do you feel over-worked, under-worked, or just the right workload?
 * Do you think our company is loyal to its employees? Why or why not?
-* Happiness level, 1 to 10?
-* How are you feeling about the project?
-* How are you feeling about your role?
-* How did that affect you?
-* How did that make you feel?
+* いま幸せ？　100点中何点くらい？
+* プロジェクトについてどう思いますか？
+* 今の役割についてどのように感じていますか？
+* それはあなたにどのように影響しましたか？
+* それはどのように感じましたか？
 * How do you feel your work/life balance is right now?
 * How do you think of your current workload and how are you coping with them?
-* How do you think that least favorite thing affects your overall performance?
+* 好きじゃないことがあなたのパフォーマンスに影響しているとおもいますか？
 * How many hours a day do you feel you’re productive? How could we help you be more productive?
-* If you could change what happened, how would you alter it?
-* If you could work on anything for the next month, what would it be? What makes you say that?
-* In our last 1-on-1 you mentioned that you’d like to grow in X — how has that been going?
-* In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?
-* In what ways does your current position allow you to use your skills and talents?
-* I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+* 起こったことを変えられるとしたら、何をどんな風に変えますか？
+* もし、来月なにかに取り組む時間があったら何をやりますか？　それはどうしてですか？
+* 前回の1 on 1でXについて成長したいといっていましたが、それの進捗はどうですか？
+* 前回の1 on 1でXがうまく言ってなくて、解決のためにYを試してみたいといっていましたが、あれってどうなりました？
+* 今の役割で、どんな風にあなたの技術と才能が使われていますか？
+* プロジェクトでXについて気になっているのですが、理解できるように手伝ってもらえませんか？　あなたのやり方を教えてください
 * Tell me about what you’ve learned on this project.
 * What are you most excited about?
 * What are you most worried about?
-* What are your biggest concerns about your current project(s)?
-* What aspect of this project has been particularly interesting for you?
+* 現在のプロジェクトで一番の懸念点って何ですか？
+* あなたにとってこのプロジェクトの特に面白い部分ってどこですか？
 * What could I do to make you enjoy your work more?
-* What did you like most/least about that?
-* What do you enjoy the most in your current role?
+* それについて最高/最低のことってなんですか？
+* 今の役割で一番おもしろい部分は何ですか？
 * What do you feel is your greatest accomplishment here?
-* What do you feel like you're learning from this project?
+* プロジェクトから何を学べていると思いますか？
 * What do you like most about working on our team?
 * What do you like most about your job today?
 * What do you like the least?
 * What do you need or want to accomplish and by when?
-* What do you think caused that to happen?
-* What do you think has gone well? What do you think you could have done better? What, if anything, would you like to do, but haven't been able to?
-* What do you think you could be doing differently?
+* 何がそれを引き起こしたとおもいますか？
+* 何がうまくいったと思いますか？　もっとうまくできたと思うことって何ですか？　やりたかったけれどもやれなかったことってありますか？
+* もっと違うやり方でできると思いますか？
 * What drives you? What motivates you to come to work each day?
-* What feedback/praises have you been getting about your current priorities?
-* What frustrates you about the project?
-* What have you tried so far to make progress on it?
-* What interests you about the project(s) you’re currently working on, and why?
-* What is your favorite/least favorite thing about your work right now?
-* What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
-* What was that experience like for you?
-* What would be the most helpful thing for you to take away from this conversation in order to make progress on it?
+* 現在の優先事項について、どんなフィードバックを受けていますか？
+* プロジェクトでムカつくことってありますか？
+* 今の所、進捗させるためにどういうことを試しましたか？
+* いまやっているプロジェクトで面白いと思う部分は何ですか？　理由も教えて下さい。
+* 今やっている仕事で好きなこと/好きじゃないことを教えて下さい
+* 「フル活用されてるな」と感じるあなたの能力はどういう部分ですか？　「全然活用されてないな」と感じるあなたの能力はどういった部分ですか？
+* その経験はあなたにとってどのようなものでしたか？
+* このやり取りの中で、事態を進展させるのに一番役に立ちそうなことは何ですか？
 * What would convince you to leave for a job somewhere else?
 * What would make you leave this job for another?
 * What’s a recent situation you wish you handled differently? What would you change?
 * What’s an area of your work you want to improve?
 * What’s one thing about your job that, if we fixed, would make you never want to leave?
-* What’s one thing that could make your work more satisfying, and why?
-* What’s the best part of your job?
-* What’s the worst part about your job?
-* What’s working well for you in your current position?
-* What’s your No. 1 problem right now? How are you feeling about it?
+* 仕事の満足度を上げるためには何が必要だと思いますか？　その理由は？
+* 仕事で一番いい部分ってなに？
+* 仕事で最低な部分ってなに？
+* 今の役割でうまくいっていることは何ですか？
+* いまあなたの中での一番の問題は何ですか？　それについてどう感じていますか？
 * When was the time you enjoyed working here the most?
-* Which areas make you feel like your hands are tied or you are unable to reach your full potential?
-* Which areas would you like to spend more time on and why?
-* Which parts of your project are unclear or confusing?
+* どういった領域で、あなたのポテンシャルが発揮できないと感じたり、両腕を縛られているような気持ちになったりしますか？
+* どの領域にもっと時間を使いたいですか？　それは何故ですか？
+* プロジェクトのどの部分が不明瞭、もしくは混乱をもたらしていますか？
 
 
 ## その他
@@ -216,7 +216,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * 過去の成功体験からなにかいいアイディアはありませんか？
 * プロジェクトに関してなにか質問はありますか？
 * もしこの打ち合わせがなかったら何していましたか？ やろうとしてなかったことをできなかったことについてどう感じていますか？
-* What’s one thing we could change about work for you that would improve your personal life?
+* あなた個人の人生をよりよくするために、私達が仕事で変えられるものがあるとしたら、それは何？
 
 
 ## チームと会社
