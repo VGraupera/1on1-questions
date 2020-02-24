@@ -154,7 +154,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * How are you feeling about the project?
 * How are you feeling about your role?
 * それはあなたにどのように影響しましたか？
-* それはどのようにかんじましたか？
+* それはどのように感じましたか？
 * How do you feel your work/life balance is right now?
 * How do you think of your current workload and how are you coping with them?
 * How do you think that least favorite thing affects your overall performance?
@@ -171,7 +171,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What are your biggest concerns about your current project(s)?
 * What aspect of this project has been particularly interesting for you?
 * What could I do to make you enjoy your work more?
-* それについて最高/最低のことってなにですか？
+* それについて最高/最低のことってなんですか？
 * 今の役割で一番おもしろい部分は何ですか？
 * What do you feel is your greatest accomplishment here?
 * What do you feel like you're learning from this project?
@@ -190,7 +190,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What is your favorite/least favorite thing about your work right now?
 * 「フル活用されてるな」と感じるあなたの能力はどういう部分ですか？　「全然活用されてないな」と感じるあなたの能力はどういった部分ですか？
 * その経験はあなたにとってどのようなものでしたか？
-* このやり取りの中で、自体を進展させるのに一番役に立ちそうなことは何ですか？
+* このやり取りの中で、事態を進展させるのに一番役に立ちそうなことは何ですか？
 * What would convince you to leave for a job somewhere else?
 * What would make you leave this job for another?
 * What’s a recent situation you wish you handled differently? What would you change?

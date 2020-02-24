@@ -1801,7 +1801,7 @@
       "id": 493,
       "question": {
         "en": "What did you like most\/least about that?",
-        "ja_JP": "それについて最高/最低のことってなにですか？"
+        "ja_JP": "それについて最高/最低のことってなんですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.943Z",
@@ -1821,7 +1821,7 @@
       "id": 495,
       "question": {
         "en": "How did that make you feel?",
-        "ja_JP": "それはどのようにかんじましたか？"
+        "ja_JP": "それはどのように感じましたか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.957Z",
@@ -1861,7 +1861,7 @@
       "id": 499,
       "question": {
         "en": "What would be the most helpful thing for you to take away from this conversation in order to make progress on it?",
-        "ja_JP": "このやり取りの中で、自体を進展させるのに一番役に立ちそうなことは何ですか？"
+        "ja_JP": "このやり取りの中で、事態を進展させるのに一番役に立ちそうなことは何ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.977Z",
