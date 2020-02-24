@@ -2528,7 +2528,7 @@
       "id": 570,
       "question": {
         "en": "Is there anything you\u2019d like to see change about the team, and if so, why?",
-        "ja_JP": ""
+        "ja_JP": "チームについてなにか見てみたい変化はありますか？　それは何故ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.382Z",
@@ -2538,7 +2538,7 @@
       "id": 571,
       "question": {
         "en": "How are you feeling about the recent news? Why do you say that?",
-        "ja_JP": ""
+        "ja_JP": "最近のニュースについてどう思いますか？　それについてなにか意見はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.394Z",
@@ -2548,7 +2548,7 @@
       "id": 572,
       "question": {
         "en": "What concerns do you have about the change that haven't been addressed?",
-        "ja_JP": ""
+        "ja_JP": "まだ対処されていない変更について、なにか懸念はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.396Z",
@@ -2558,7 +2558,7 @@
       "id": 573,
       "question": {
         "en": "What\u2019s going well and not so well with the new situation\/development? Why do you think this might be happening?",
-        "ja_JP": ""
+        "ja_JP": "新しいシチュエーション\/開発において何がうまく行っていて、何がうまく行っていないと思いますか？　またそれは何故起こっていると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.399Z",
@@ -2568,7 +2568,7 @@
       "id": 574,
       "question": {
         "en": "Do you have a clear understanding of the new goals and expectations? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "新しいゴールとあなたへの期待に対して完全に理解できていますか？　どうしてそう言えますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.410Z",
@@ -2578,7 +2578,7 @@
       "id": 575,
       "question": {
         "en": "How is the new situation\/development affecting your work? What could be getting in the way of your being effective?",
-        "ja_JP": ""
+        "ja_JP": "新しいシチュエーション\/開発はあなたの仕事にどんな影響がありますか？　あなたの効率を下げるものはありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.413Z",
@@ -2588,7 +2588,7 @@
       "id": 576,
       "question": {
         "en": "What sort of resources could you use right now to make things more manageable?",
-        "ja_JP": ""
+        "ja_JP": "もっと状況をコントロールできるようにするために、今すぐ必要なリソースは何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.416Z",
@@ -2598,7 +2598,7 @@
       "id": 577,
       "question": {
         "en": "Could you tell me a little more about that?",
-        "ja_JP": ""
+        "ja_JP": "それについてもう少し教えてもらえますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.428Z",
@@ -2608,7 +2608,7 @@
       "id": 578,
       "question": {
         "en": "Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)",
-        "ja_JP": ""
+        "ja_JP": "その問題についてもう少し詳細を教えてもらえませんか？ (誰が巻き込まれていますか？ いつ、どこで、どれくらいの期間？)"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.431Z",
@@ -2618,7 +2618,7 @@
       "id": 579,
       "question": {
         "en": "What are some possible ways to get the solution you need?",
-        "ja_JP": ""
+        "ja_JP": "必要なソリューションを得るための現実的なやり方をいくつか教えて下さい"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.434Z",
@@ -2628,7 +2628,7 @@
       "id": 580,
       "question": {
         "en": "What additional resources from me would be helpful for you as you solve this problem?",
-        "ja_JP": ""
+        "ja_JP": "あなたがこの問題を解決するのに有用な追加のリソースってありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.446Z",
@@ -2638,7 +2638,7 @@
       "id": 581,
       "question": {
         "en": "What are your next steps to make progress on this problem?",
-        "ja_JP": ""
+        "ja_JP": "この問題を解決するための次のステップを教えて下さい。"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.449Z",
@@ -2648,7 +2648,7 @@
       "id": 582,
       "question": {
         "en": "What do you do when you get stuck on something? What is your process of getting unstuck? Who is the team member you turn to for help?",
-        "ja_JP": ""
+        "ja_JP": "何かで行き詰まったときに何をやりますか？ 行き詰まりを解消するためのやり方を教えて下さい。その時あなたが助けを求めるチームメンバーはだれですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.452Z",
@@ -2658,7 +2658,7 @@
       "id": 583,
       "question": {
         "en": "Who inspire you in the team? Whose opinions do you respect? What have they done?",
-        "ja_JP": ""
+        "ja_JP": "チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊重していますか？　その人は何をしましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.454Z",
@@ -2668,7 +2668,7 @@
       "id": 584,
       "question": {
         "en": "Is there anybody in the team that you find it difficult to work with? Can you tell me why?",
-        "ja_JP": ""
+        "ja_JP": "チーム内に一緒に働きづらい人はいますか？　それはどうしてか教えてもらえますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.465Z",
@@ -2678,7 +2678,7 @@
       "id": 585,
       "question": {
         "en": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.468Z",
@@ -2688,7 +2688,7 @@
       "id": 586,
       "question": {
         "en": "What do you think would help us work together better?",
-        "ja_JP": ""
+        "ja_JP": "もっと上手に一緒に働くのに必要なことって何だと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.481Z",
@@ -2698,7 +2698,7 @@
       "id": 587,
       "question": {
         "en": "Whom in the team do you want to learn from? Whom do you get valuable feedback from?",
-        "ja_JP": ""
+        "ja_JP": "チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取っていますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.483Z",
@@ -2708,7 +2708,7 @@
       "id": 588,
       "question": {
         "en": "What are your top three motivators?",
-        "ja_JP": ""
+        "ja_JP": "モチベーションを上げること、トップ３を教えてください。"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.495Z",
@@ -2718,7 +2718,7 @@
       "id": 589,
       "question": {
         "en": "What excites you about our business?  The company?  What concerns you?",
-        "ja_JP": ""
+        "ja_JP": "私達のビジネスや会社、あなたの関心事でワクワクさせられることは何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.498Z",
@@ -2728,7 +2728,7 @@
       "id": 590,
       "question": {
         "en": "What do you think about _________?",
-        "ja_JP": ""
+        "ja_JP": "_________ についてどう思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.501Z",
@@ -2738,7 +2738,7 @@
       "id": 591,
       "question": {
         "en": "What\u2019s the No. 1 problem with our organization? Why?",
-        "ja_JP": ""
+        "ja_JP": "うちの組織で1番の問題点って何ですか？　それは何故ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.504Z",
@@ -2748,7 +2748,7 @@
       "id": 593,
       "question": {
         "en": "Who is really kicking ass in the company? Who do you admire?",
-        "ja_JP": ""
+        "ja_JP": "会社でまじですごいやつは誰ですか？　あなたは誰を尊敬してますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.518Z",
@@ -2758,7 +2758,7 @@
       "id": 594,
       "question": {
         "en": "Is any part of your project unclear or confusing?",
-        "ja_JP": ""
+        "ja_JP": "あなたのプロジェクトで不明瞭だったり混乱している部分はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.521Z",
@@ -2768,7 +2768,7 @@
       "id": 595,
       "question": {
         "en": "Has anyone on the team ever made you feel uncomfortable? What happened?",
-        "ja_JP": ""
+        "ja_JP": "チームの中の誰かがあなたを居心地悪くしたことはありませんか？　その時は何がありましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.524Z",
@@ -2778,7 +2778,7 @@
       "id": 596,
       "question": {
         "en": "What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームにピッタリ合う性格ってどんなものでしょう？　面接でそういう性格を見抜くにはどうやっていますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.536Z",
@@ -2788,7 +2788,7 @@
       "id": 597,
       "question": {
         "en": "What\u2019s the biggest thing you\u2019d like to change about our team?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームで変えたいと思っている最大のことって何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.539Z",
@@ -2798,7 +2798,7 @@
       "id": 598,
       "question": {
         "en": "What\u2019s one thing we should change about how our team works together?",
-        "ja_JP": ""
+        "ja_JP": "チームがうまく働く上で1つだけ変えたほうがいいとすると、それはどこでしょうか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.542Z",
@@ -2808,7 +2808,7 @@
       "id": 599,
       "question": {
         "en": "Where do you think we can do better?",
-        "ja_JP": ""
+        "ja_JP": "どうしたら私達はもっとうまくやれるようになると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.554Z",
@@ -2818,7 +2818,7 @@
       "id": 600,
       "question": {
         "en": "How would you rate our communication as a team?",
-        "ja_JP": ""
+        "ja_JP": "チームのコミュニケーションについて評価をつけるとしたらどれくらいにしますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.557Z",
@@ -2828,7 +2828,7 @@
       "id": 601,
       "question": {
         "en": "What kind of communication or information do you wish you had more of?",
-        "ja_JP": ""
+        "ja_JP": "どのような種類のコミュニケーション、もしくは情報をもっと欲しいと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.559Z",
@@ -2838,7 +2838,7 @@
       "id": 602,
       "question": {
         "en": "What areas are ahead of schedule?",
-        "ja_JP": ""
+        "ja_JP": "予定より先に進んでいる部分はどのへんですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.562Z",
@@ -2848,7 +2848,7 @@
       "id": 603,
       "question": {
         "en": "Is there anything that\u2019s slowing you down from getting your work done?",
-        "ja_JP": ""
+        "ja_JP": "仕事を完了するうえで、遅延の原因となっているのはどういった部分ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.578Z",
@@ -2858,7 +2858,7 @@
       "id": 604,
       "question": {
         "en": "Are there any problems or issues that I should know about?",
-        "ja_JP": ""
+        "ja_JP": "私が知っておくべき課題や問題はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.581Z",
@@ -2868,7 +2868,7 @@
       "id": 605,
       "question": {
         "en": "What do you think you can do to fix that problem?",
-        "ja_JP": ""
+        "ja_JP": "その問題をあなた自身で解決できると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.584Z",
@@ -2878,7 +2878,7 @@
       "id": 606,
       "question": {
         "en": "What could you have done differently?",
-        "ja_JP": ""
+        "ja_JP": "別の方法だと何ができたでしょうか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.598Z",
@@ -2888,7 +2888,7 @@
       "id": 607,
       "question": {
         "en": "What worries you? What\u2019s on your mind?",
-        "ja_JP": ""
+        "ja_JP": "なにか不安なことはありあすか？　思うことがあれば教えてもらえますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.601Z",
@@ -2898,7 +2898,7 @@
       "id": 608,
       "question": {
         "en": "What areas of your work are you confident about?",
-        "ja_JP": ""
+        "ja_JP": "仕事で自信のある分野は何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.604Z",
@@ -2908,7 +2908,7 @@
       "id": 609,
       "question": {
         "en": "What worries you?",
-        "ja_JP": ""
+        "ja_JP": "なにか不安なことはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.608Z",
@@ -2918,7 +2918,7 @@
       "id": 610,
       "question": {
         "en": "What suggestions do you have?",
-        "ja_JP": ""
+        "ja_JP": "なにか提案はありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.612Z",
@@ -2928,7 +2928,7 @@
       "id": 611,
       "question": {
         "en": "What questions do you have about this project?",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトについてなにか質問はありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.626Z",
@@ -2938,7 +2938,7 @@
       "id": 612,
       "question": {
         "en": "How are you going to approach this?",
-        "ja_JP": ""
+        "ja_JP": "これについてどのようにやろうと思っていますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.630Z",
@@ -2948,7 +2948,7 @@
       "id": 613,
       "question": {
         "en": "How are you planning to balance work and personal life this year?",
-        "ja_JP": ""
+        "ja_JP": "今年のワークライフバランスはどのようにやっていこうと考えていますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.632Z",
@@ -2958,7 +2958,7 @@
       "id": 614,
       "question": {
         "en": "What are you doing for yourself outside of work?",
-        "ja_JP": ""
+        "ja_JP": "仕事以外であなた自身のためにやっていることってありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.635Z",
@@ -2968,7 +2968,7 @@
       "id": 615,
       "question": {
         "en": "Is there anything you\u2019d like to be doing on your own time to relieve stress that you\u2019re not getting to? How can I help you achieve those personal goals?",
-        "ja_JP": ""
+        "ja_JP": "あなたの時間を使ってやりたいけどやれてないストレス軽減方法はありますか？　それをできるようにするために私が手伝えることはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.650Z",
@@ -2978,7 +2978,7 @@
       "id": 616,
       "question": {
         "en": "What does your ideal weekday look like?",
-        "ja_JP": ""
+        "ja_JP": "あなたの理想的な平日はどのようなものですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.653Z",
@@ -2988,7 +2988,7 @@
       "id": 617,
       "question": {
         "en": "How is your workload right now?",
-        "ja_JP": ""
+        "ja_JP": "いまいま忙しすぎてないですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.655Z",
@@ -2998,7 +2998,7 @@
       "id": 619,
       "question": {
         "en": "How do you feel about your work\/life balance?",
-        "ja_JP": ""
+        "ja_JP": "あなたのワークライフバランスについて、どう感じていますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.671Z",
@@ -3008,7 +3008,7 @@
       "id": 620,
       "question": {
         "en": "What, if anything, did you used to do that you find you don\u2019t have time for right now?",
-        "ja_JP": ""
+        "ja_JP": "やろうとおもってたけど時間がない！　という事って今今ありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.673Z",
@@ -3018,7 +3018,7 @@
       "id": 621,
       "question": {
         "en": "What could we change about work that would improve the rest of your life?",
-        "ja_JP": ""
+        "ja_JP": "あなたの人生をよりよいものにするために、仕事で変えるべき部分はありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.678Z",
@@ -3028,7 +3028,7 @@
       "id": 622,
       "question": {
         "en": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?",
-        "ja_JP": ""
+        "ja_JP": "一日の中でもっとも生産的だと思うのはいつですか？　一番やる気も集中力も無いと感じるのはいつですか？ 仕事で一日を最大限に有効活用するために何を変えればいいと思いますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.682Z",
@@ -3038,7 +3038,7 @@
       "id": 623,
       "question": {
         "en": "What were your biggest time wasters or roadblocks last week or the week before?",
-        "ja_JP": ""
+        "ja_JP": "先週、または先々週でもっとも時間を浪費した、もしくは障害になったものは何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.694Z",
@@ -3048,7 +3048,7 @@
       "id": 624,
       "question": {
         "en": "What stands in your way?",
-        "ja_JP": ""
+        "ja_JP": "あなたの邪魔になるものは何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.697Z",
@@ -3058,7 +3058,7 @@
       "id": 625,
       "question": {
         "en": "What was difficult this week? what have you learned?",
-        "ja_JP": ""
+        "ja_JP": "今週難しかった点は何ですか？　そこから何を学べましたか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.700Z",
@@ -3068,7 +3068,7 @@
       "id": 626,
       "question": {
         "en": "When was your last vacation? ",
-        "ja_JP": ""
+        "ja_JP": "最後に長期休暇をとったのはいつですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.711Z",
@@ -3078,7 +3078,7 @@
       "id": 627,
       "question": {
         "en": "When is your next vacation?",
-        "ja_JP": ""
+        "ja_JP": "次はいつ長期休暇を取る予定ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.714Z",
@@ -3088,7 +3088,7 @@
       "id": 628,
       "question": {
         "en": "What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?",
-        "ja_JP": ""
+        "ja_JP": "一日の中でもっとも集中できているとおもうのはいつですか？ 一番集中できていないのはいつですか？　いつでも集中して働けるようにするために勤務スケジュールに変更を加えるとしたらどういったことが良いでしょうか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.717Z",
@@ -3098,7 +3098,7 @@
       "id": 629,
       "question": {
         "en": "What are 3 things could we do to improve your productivity if money was no object?",
-        "ja_JP": ""
+        "ja_JP": "お金以外で、あなたの生産性を向上させる3つのことを教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.729Z",
@@ -3108,7 +3108,7 @@
       "id": 630,
       "question": {
         "en": "What is an ideal, productive day at work for you? Walk me through the day\u2026",
-        "ja_JP": ""
+        "ja_JP": "あなたにとって最も理想的で生産的な仕事の一日の流れを説明してください。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.732Z",
@@ -3118,7 +3118,7 @@
       "id": 631,
       "question": {
         "en": "What\u2019s an inexpensive thing we could do to improve our office environment?",
-        "ja_JP": ""
+        "ja_JP": "お金をかけずにオフィス環境を良くしようと思ったら、どんなアイデアがありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.734Z",
@@ -3128,7 +3128,7 @@
       "id": 632,
       "question": {
         "en": "What are the biggest time wasters for you each week?",
-        "ja_JP": ""
+        "ja_JP": "あなたが毎週最も時間を使っていることを教えてください。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.745Z",
@@ -3138,7 +3138,7 @@
       "id": 633,
       "question": {
         "en": "What makes you excited and motivated to work on a project?",
-        "ja_JP": ""
+        "ja_JP": "仕事のプロジェクトで、一番あなたがワクワクしたり、やる気が出ることを教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.748Z",
@@ -3148,7 +3148,7 @@
       "id": 634,
       "question": {
         "en": "When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?",
-        "ja_JP": ""
+        "ja_JP": "何かに行き詰まったとき、どうやってそこから抜け出しますか？誰に助けを求めますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.750Z",
@@ -3158,7 +3158,7 @@
       "id": 635,
       "question": {
         "en": "What part of your work routine do you find is working best? What area do you want to improve?",
-        "ja_JP": ""
+        "ja_JP": "仕事における定型のタスクや手続きについて、うまく機能していると思うものはなんですか？どんな部分を改善してほしいと思いますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.753Z",
@@ -3168,7 +3168,7 @@
       "id": 636,
       "question": {
         "en": "What do you do when you feel low energy or unmotivated?",
-        "ja_JP": ""
+        "ja_JP": "やる気や気力が下がったとき、どんなことをしますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.764Z",
@@ -3178,7 +3178,7 @@
       "id": 637,
       "question": {
         "en": "How can I help\u2026? (be more productive\/happier at work\/enjoy work more\/etc)",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事の生産性や楽しさを改善するために、なにか私に手助けできることはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.767Z",
@@ -3188,7 +3188,7 @@
       "id": 638,
       "question": {
         "en": "Is there anything that you\u2019re struggling with?",
-        "ja_JP": ""
+        "ja_JP": "今なかなか解決できずに困っていることはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.769Z",
@@ -3198,7 +3198,7 @@
       "id": 639,
       "question": {
         "en": "Is there anything that you need from me?",
-        "ja_JP": ""
+        "ja_JP": "何か私からあなたに提供できる、必要なものはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.782Z",
@@ -3208,7 +3208,7 @@
       "id": 640,
       "question": {
         "en": "What is the most important thing we need to discuss today?",
-        "ja_JP": ""
+        "ja_JP": "今日二人で一番話し合わなければいけないことは何でしょうか。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.785Z",
@@ -3218,7 +3218,7 @@
       "id": 641,
       "question": {
         "en": "What are your most significant accomplishments since we last met?",
-        "ja_JP": ""
+        "ja_JP": "最後に1on1をしてから今回までの間に、一番大きな成功や成し遂げたことはなんですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.788Z",
@@ -3228,7 +3228,7 @@
       "id": 642,
       "question": {
         "en": "What are the most important things you will focus on before we meet next?",
-        "ja_JP": ""
+        "ja_JP": "次の1on1までに、あなたが取り組むべき最重要課題はなんですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.800Z",
@@ -3238,7 +3238,7 @@
       "id": 643,
       "question": {
         "en": "What obstacles are you encountering right now?",
-        "ja_JP": ""
+        "ja_JP": "今現在直面している困難や障害を教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.802Z",
@@ -3248,7 +3248,7 @@
       "id": 644,
       "question": {
         "en": "How are you feeling about work?",
-        "ja_JP": ""
+        "ja_JP": "仕事のことをどう感じていますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.805Z",
@@ -3258,7 +3258,7 @@
       "id": 645,
       "question": {
         "en": "What about your job is most satisfying for you?",
-        "ja_JP": ""
+        "ja_JP": "仕事関連のものごとで、最も満足していることは何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.808Z",
@@ -3268,7 +3268,7 @@
       "id": 646,
       "question": {
         "en": "What about work is frustrating?",
-        "ja_JP": ""
+        "ja_JP": "仕事関連のものごとでフラストレーションを感じることを教えて下さい。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.819Z",
@@ -3278,7 +3278,7 @@
       "id": 647,
       "question": {
         "en": "If you could change one thing about your job today, what would you change?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事についてなにかひとつだけ変えられるとしたら、何を変えますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.822Z",
