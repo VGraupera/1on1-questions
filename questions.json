@@ -3128,7 +3128,7 @@
       "id": 632,
       "question": {
         "en": "What are the biggest time wasters for you each week?",
-        "ja_JP": "各週ごとに、あなたが最も時間を使っていることを教えてください。"
+        "ja_JP": "あなたが毎週最も時間を使っていることを教えてください。"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.745Z",
@@ -3228,7 +3228,7 @@
       "id": 642,
       "question": {
         "en": "What are the most important things you will focus on before we meet next?",
-        "ja_JP": "次の1on1までに、あなたが最も取り組むべき最重要課題はなんですか？"
+        "ja_JP": "次の1on1までに、あなたが取り組むべき最重要課題はなんですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.800Z",
