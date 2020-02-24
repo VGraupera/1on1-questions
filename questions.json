@@ -2368,7 +2368,7 @@
       "id": 550,
       "question": {
         "en": "What do you like about working here? What\u2019s not fun about working here?",
-        "ja_JP": ""
+        "ja_JP": "この会社で働いていて楽しいことって何？　楽しくない部分って何？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.268Z",
@@ -2378,7 +2378,7 @@
       "id": 551,
       "question": {
         "en": "If we could improve in any way, how would we do it?",
-        "ja_JP": ""
+        "ja_JP": "もしとにかく改善できるのであれば、どんな風にすればいいと思う？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.281Z",
@@ -2388,7 +2388,7 @@
       "id": 552,
       "question": {
         "en": "What\u2019s the number one problem within our organization? Why?",
-        "ja_JP": ""
+        "ja_JP": "この組織最大の問題はなんだと思う？　それはどうして？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.284Z",
@@ -2398,7 +2398,7 @@
       "id": 553,
       "question": {
         "en": "What\u2019s the biggest opportunity we\u2019re missing out on?",
-        "ja_JP": ""
+        "ja_JP": "私達が逃している最大のチャンスは何だと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.286Z",
@@ -2408,7 +2408,7 @@
       "id": 555,
       "question": {
         "en": "What would you like to learn more about this year?",
-        "ja_JP": ""
+        "ja_JP": "今年、もっと学びたいことって何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.301Z",
@@ -2418,7 +2418,7 @@
       "id": 557,
       "question": {
         "en": "Which areas would you would like more feedback on?",
-        "ja_JP": ""
+        "ja_JP": "どの領域についてもっとフィードバックがほしいと思っていますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.306Z",
@@ -2428,7 +2428,7 @@
       "id": 559,
       "question": {
         "en": "What would you like to see change here? Why do you say that?",
-        "ja_JP": ""
+        "ja_JP": "ここで何を変えたいですか？　その理由は？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.320Z",
@@ -2438,7 +2438,7 @@
       "id": 560,
       "question": {
         "en": "What\u2019s the No. 1 problem with our organization, and what do you think's causing it?",
-        "ja_JP": ""
+        "ja_JP": "この組織で最大の問題は何だと思いますか？　それは何故起きているとおもいますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.323Z",
@@ -2448,7 +2448,7 @@
       "id": 561,
       "question": {
         "en": "What are we not doing that we should be doing? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "私達がやるべきなんだけどやってないことって何だとおもいますか？　どうしてそう思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.336Z",
@@ -2458,7 +2458,7 @@
       "id": 562,
       "question": {
         "en": "What are we doing that you think we should stop doing, and why?",
-        "ja_JP": ""
+        "ja_JP": "私達がやっていることの中で止めるべきことはありますか？　またそれは何故ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.339Z",
@@ -2468,7 +2468,7 @@
       "id": 563,
       "question": {
         "en": "How are you feeling about the company\u2019s future overall? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "会社の未来についてどう思いますか？　どうしてそう思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.342Z",
@@ -2478,7 +2478,7 @@
       "id": 564,
       "question": {
         "en": "How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?",
-        "ja_JP": ""
+        "ja_JP": "チームの性格についてどんな風に表現しますか？　どういった人がチームに馴染むと思いますか？　どういった人が、チームに現在チームに欠けているものを補ってくれると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.353Z",
@@ -2488,7 +2488,7 @@
       "id": 565,
       "question": {
         "en": "How would you say we're doing at working together as team? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "チームとして一緒に働いていいることに対してどう思いますか？　またどうしてそう思いましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.356Z",
@@ -2498,7 +2498,7 @@
       "id": 566,
       "question": {
         "en": "What are some ways we could improve at teamwork? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームワークを改善するにはどうすればいいでしょうか？　またその理由は？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.359Z",
@@ -2508,7 +2508,7 @@
       "id": 568,
       "question": {
         "en": "How would you describe the division of work among team members?",
-        "ja_JP": ""
+        "ja_JP": "チームメンバーの仕事の分担をどのように説明しますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.376Z",
@@ -2518,7 +2518,7 @@
       "id": 569,
       "question": {
         "en": "Do you feel adequately supported by other team members? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "他のチームメンバーから十分なサポートを受けていると感じていますか？　どういった点でそう感じていますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.379Z",
