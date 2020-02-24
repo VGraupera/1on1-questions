@@ -2728,7 +2728,7 @@
       "id": 590,
       "question": {
         "en": "What do you think about _________?",
-        "ja_JP": ""
+        "ja_JP": "_________ についてどう思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.501Z",
@@ -2738,7 +2738,7 @@
       "id": 591,
       "question": {
         "en": "What\u2019s the No. 1 problem with our organization? Why?",
-        "ja_JP": ""
+        "ja_JP": "うちの組織で1番の問題点って何ですか？　それは何故ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.504Z",
@@ -2748,7 +2748,7 @@
       "id": 593,
       "question": {
         "en": "Who is really kicking ass in the company? Who do you admire?",
-        "ja_JP": ""
+        "ja_JP": "会社でまじですごいやつは誰ですか？　あなたは誰を尊敬してますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.518Z",
@@ -2758,7 +2758,7 @@
       "id": 594,
       "question": {
         "en": "Is any part of your project unclear or confusing?",
-        "ja_JP": ""
+        "ja_JP": "あなたのプロジェクトで不明瞭だったり混乱している部分はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.521Z",
@@ -2768,7 +2768,7 @@
       "id": 595,
       "question": {
         "en": "Has anyone on the team ever made you feel uncomfortable? What happened?",
-        "ja_JP": ""
+        "ja_JP": "チームの中の誰かがあなたを居心地悪くしたことはありませんか？　その時は何がありましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.524Z",
@@ -2778,7 +2778,7 @@
       "id": 596,
       "question": {
         "en": "What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームにピッタリ合う性格ってどんなものでしょう？　面接でそういう性格を見抜くにはどうやっていますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.536Z",
@@ -2788,7 +2788,7 @@
       "id": 597,
       "question": {
         "en": "What\u2019s the biggest thing you\u2019d like to change about our team?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームで変えたいとおもっている最大のことって何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.539Z",
@@ -2798,7 +2798,7 @@
       "id": 598,
       "question": {
         "en": "What\u2019s one thing we should change about how our team works together?",
-        "ja_JP": ""
+        "ja_JP": "チームがうまく働く上で1つだけ変えたほうがいいとすると、それはどこでしょうか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.542Z",
@@ -2808,7 +2808,7 @@
       "id": 599,
       "question": {
         "en": "Where do you think we can do better?",
-        "ja_JP": ""
+        "ja_JP": "私達はもっとうまくやれるようになると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.554Z",
@@ -2818,7 +2818,7 @@
       "id": 600,
       "question": {
         "en": "How would you rate our communication as a team?",
-        "ja_JP": ""
+        "ja_JP": "チームのコミュニケーションについて評価をつけるとしたらどれくらいにしますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.557Z",
@@ -2828,7 +2828,7 @@
       "id": 601,
       "question": {
         "en": "What kind of communication or information do you wish you had more of?",
-        "ja_JP": ""
+        "ja_JP": "どのような種類のコミュニケーション、もしくは情報をもっと欲しいと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.559Z",
@@ -2838,7 +2838,7 @@
       "id": 602,
       "question": {
         "en": "What areas are ahead of schedule?",
-        "ja_JP": ""
+        "ja_JP": "予定より先に進んでいる部分はどのへんですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.562Z",
@@ -2848,7 +2848,7 @@
       "id": 603,
       "question": {
         "en": "Is there anything that\u2019s slowing you down from getting your work done?",
-        "ja_JP": ""
+        "ja_JP": "仕事を完了するうえで、遅延の原因となっているのはどういった部分ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.578Z",
@@ -2858,7 +2858,7 @@
       "id": 604,
       "question": {
         "en": "Are there any problems or issues that I should know about?",
-        "ja_JP": ""
+        "ja_JP": "私が知っておくべき課題や問題はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.581Z",
@@ -2868,7 +2868,7 @@
       "id": 605,
       "question": {
         "en": "What do you think you can do to fix that problem?",
-        "ja_JP": ""
+        "ja_JP": "その問題をあなた自身で解決できると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.584Z",
@@ -2878,7 +2878,7 @@
       "id": 606,
       "question": {
         "en": "What could you have done differently?",
-        "ja_JP": ""
+        "ja_JP": "別の方法だと何ができたでしょうか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.598Z",
@@ -2888,7 +2888,7 @@
       "id": 607,
       "question": {
         "en": "What worries you? What\u2019s on your mind?",
-        "ja_JP": ""
+        "ja_JP": "なにか不安なことはありあすか？　思うことがあれば教えてもらえますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.601Z",
@@ -2898,7 +2898,7 @@
       "id": 608,
       "question": {
         "en": "What areas of your work are you confident about?",
-        "ja_JP": ""
+        "ja_JP": "仕事で自信のある分野は何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.604Z",
@@ -2908,7 +2908,7 @@
       "id": 609,
       "question": {
         "en": "What worries you?",
-        "ja_JP": ""
+        "ja_JP": "なにか不安なことはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.608Z",

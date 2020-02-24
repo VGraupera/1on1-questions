@@ -222,7 +222,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 ## チームと会社
 * Are there any aspects of our culture you wish you could change?
 * Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
-* Are there any problems or issues that I should know about?
+* 私が知っておくべき課題や問題はありますか？
 * Are there any roles in the company you’d like to learn more about?
 * Are you uncomfortable giving any of your peers constructive criticism? If so, why?
 * その問題についてもう少し詳細を教えてもらえませんか？ (誰が巻き込まれていますか？ いつ、どこで、どれくらいの期間？)
@@ -231,7 +231,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
 * 新しいゴールとあなたへの期待に対して完全に理解できていますか？　どうしてそう言えますか？
 * Do you help other members on the team? Do others help you when you need it?
-* Has anyone on the team ever made you feel uncomfortable? What happened?
+* チームの中の誰かがあなたを居心地悪くしたことはありませんか？　その時は何がありましたか？
 * How are you feeling about the company’s future overall? What makes you say that?
 * 最近のニュースについてどう思いますか？　それについてなにか意見はありますか？
 * How could we be more creative or innovative as a company?
@@ -240,16 +240,16 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
 * How would you describe the division of work among team members?
 * How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
-* How would you rate our communication as a team?
+* チームのコミュニケーションについて評価をつけるとしたらどれくらいにしますか？
 * How would you say we're doing at working together as team? What makes you say that?
 * If we could improve in any way, how would we do it?
 * If you were CEO, what’s the first thing you’d change?
-* Is any part of your project unclear or confusing?
+* あなたのプロジェクトで不明瞭だったり混乱している部分はありますか？
 * Is everyone pulling their weight on the team?
 * Is there a situation you’d like my help with?
 * チーム内に一緒に働きづらい人はいますか？　それはどうしてか教えてもらえますか？
 * Is there anything blocking you from getting your work done?
-* Is there anything that’s slowing you down from getting your work done?
+* 仕事を完了するうえで、遅延の原因となっているのはどういった部分ですか？
 * チームについてなにか見てみたい変化はありますか？　それは何故ですか？
 * Is your job what you expected when you accepted it?
 * あなたがこの問題を解決するのに有用な追加のリソースってありますか？
@@ -261,36 +261,36 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * この問題を解決するための次のステップを教えて下さい。
 * モチベーションを上げること、トップ３を教えてください。
 * What area of the company would you like to learn more about?
-* What areas are ahead of schedule?
-* What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?
+* 予定より先に進んでいる部分はどのへんですか？
+* 私達のチームにピッタリ合う性格ってどんなものでしょう？　面接でそういう性格を見抜くにはどうやっていますか？
 * まだ対処されていない変更について、なにか懸念はありますか？
-* What could you have done differently?
+* 別の方法だと何ができたでしょうか？
 * 何かで行き詰まったときに何をやりますか？ 行き詰まりを解消するためのやり方を教えて下さい。その時あなたが助けを求めるチームメンバーはだれですか？
 * What do you like about working here? What’s not fun about working here?
 * 私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいとおもいますか？
-* What do you think about _________?
+* _________ についてどう思いますか？
 * What do you think are the key skills for your role? How would you rate yourself for each of them?
 * もっと上手に一緒に働くのに必要なことって何だと思いますか？
-* What do you think you can do to fix that problem?
+* その問題をあなた自身で解決できると思いますか？
 * 私達のビジネスや会社、あなたの関心事でワクワクさせられることは何ですか？
 * What is the #1 Problem at our company? Why?
 * What is the company not doing today that we should do to better compete in the market?
-* What kind of communication or information do you wish you had more of?
+* どのような種類のコミュニケーション、もしくは情報をもっと欲しいと思いますか？
 * What part of your job do you wish you didn’t have to do?
 * もっと状況をコントロールできるようにするために、今すぐ必要なリソースは何ですか？
 * What would you like to learn more about this year?
 * What would you like to see change here? Why do you say that?
 * What’s an inexpensive thing we could do to improve our office environment for the team?
 * 新しいシチュエーション/開発において何がうまく行っていて、何がうまく行っていないと思いますか？　またそれは何故起こっていると思いますか？
-* What’s one thing we should change about how our team works together?
+* チームがうまく働く上で1つだけ変えたほうがいいとすると、それはどこでしょうか？
 * What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
 * What’s something you feel is undervalued that you contribute to the team?
 * What’s the biggest opportunity we’re missing out on?
-* What’s the biggest thing you’d like to change about our team?
+* 私達のチームで変えたいとおもっている最大のことって何ですか？
 * What’s the No. 1 problem with our organization, and what do you think's causing it?
-* What’s the No. 1 problem with our organization? Why?
+* うちの組織で1番の問題点って何ですか？　それは何故ですか？
 * What’s the number one problem within our organization? Why?
-* Where do you think we can do better?
+* 私達はもっとうまくやれるようになると思いますか？
 * Which areas would you would like more feedback on?
 * Which company values do you like the most? Which the least? Why?
 * Who are you friends with at work? (Shown to be a key to enjoying your job)
@@ -298,7 +298,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Who has really been kicking ass lately?
 * チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊敬していますか？　その人は何をしましたか？
 * Who is kicking ass on the team? What have they done?
-* Who is really kicking ass in the company? Who do you admire?
+* 会社でまじですごいやつは誰ですか？　あなたは誰を尊敬してますか？
 * Who on the team do you have the most difficulty working with? Why?
 * Who would you like to work more often with? Why?
 * チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取りたいと思いますか？
@@ -323,7 +323,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What are the most important things you will focus on before we meet next?
 * What are you doing for yourself outside of work?
 * What are your most significant accomplishments since we last met?
-* What areas of your work are you confident about?
+* 仕事で自信のある分野は何ですか？
 * What could we change about work that would improve the rest of your life?
 * What do you do when you feel low energy or unmotivated?
 * What does your ideal weekday look like?
@@ -338,8 +338,8 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What suggestions do you have?
 * What was difficult this week? what have you learned?
 * What were your biggest time wasters or roadblocks last week or the week before?
-* What worries you?
-* What worries you? What’s on your mind?
+* なにか不安なことはありますか？
+* なにか不安なことはありあすか？　思うことがあれば教えてもらえますか？
 * What, if anything, did you used to do that you find you don’t have time for right now?
 * What’s an inexpensive thing we could do to improve our office environment?
 * When is your next vacation?
