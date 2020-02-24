@@ -267,7 +267,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * 別の方法だと何ができたでしょうか？
 * 何かで行き詰まったときに何をやりますか？ 行き詰まりを解消するためのやり方を教えて下さい。その時あなたが助けを求めるチームメンバーはだれですか？
 * この会社で働いていて楽しいことって何？　楽しくない部分って何？
-* 私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいとおもいますか？
+* 私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいと思いますか？
 * _________ についてどう思いますか？
 * あなたの役割で鍵となる技術は何だと思いますか？　あなた自身はその技術にどれくらい熟達してるとおもいますか？
 * もっと上手に一緒に働くのに必要なことって何だと思いますか？
@@ -286,22 +286,22 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * プロダクトを改善するために、私達が次の四半期で絶対にやらないことはなんでしょうか？
 * What’s something you feel is undervalued that you contribute to the team?
 * 私達が逃している最大のチャンスは何だと思いますか？
-* 私達のチームで変えたいとおもっている最大のことって何ですか？
+* 私達のチームで変えたいと思っている最大のことって何ですか？
 * この組織で最大の問題は何だと思いますか？　それは何故起きているとおもいますか？
 * うちの組織で1番の問題点って何ですか？　それは何故ですか？
 * この組織最大の問題はなんだと思う？　それはどうして？
-* 私達はもっとうまくやれるようになると思いますか？
+* どうしたら私達はもっとうまくやれるようになると思いますか？
 * どの領域についてもっとフィードバックがほしいと思っていますか？
 * 会社の価値観のどれが一番好きで、それが一番嫌いですか？　理由も教えて下さい
 * Who are you friends with at work? (Shown to be a key to enjoying your job)
 * Who do you admire within the company and why?
 * Who has really been kicking ass lately?
-* チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊敬していますか？　その人は何をしましたか？
+* チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊重していますか？　その人は何をしましたか？
 * Who is kicking ass on the team? What have they done?
 * 会社でまじですごいやつは誰ですか？　あなたは誰を尊敬してますか？
 * Who on the team do you have the most difficulty working with? Why?
 * Who would you like to work more often with? Why?
-* チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取りたいと思いますか？
+* チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取っていますか？
 * Why do you think [employee who recently quit] left? What did they tell you?
 
 
@@ -315,7 +315,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * If you could change one thing about your job today, what would you change?
 * Is there anything that you need from me?
 * Is there anything that you’re struggling with?
-* あなたの時間をつかってやりたいけどやれてないストレス軽減方法はありますか？　それをできるようにするために私が手伝えることはありますか？
+* あなたの時間を使ってやりたいけどやれてないストレス軽減方法はありますか？　それをできるようにするために私が手伝えることはありますか？
 * What about work is frustrating?
 * What about your job is most satisfying for you?
 * お金以外で、あなたの生産性を向上させる3つのことを教えて下さい。
@@ -334,7 +334,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * 一日の中でもっとも集中できているとおもうのはいつですか？ 一番集中できていないのはいつですか？　いつでも集中して働けるようにするために勤務スケジュールに変更を加えるとしたらどういったことが良いでしょうか？
 * What part of your work routine do you find is working best? What area do you want to improve?
 * プロジェクトについてなにか質問はありますか？
-* あなたの邪魔になるものはなにですか？
+* あなたの邪魔になるものは何ですか？
 * なにか提案はありますか？
 * 今週難しかった点は何ですか？　そこから何を学べましたか？
 * 先週、または先々週でもっとも時間を浪費した、もしくは障害になったものは何ですか？
@@ -345,7 +345,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * 次はいつ長期休暇を取る予定ですか？
 * 最後に長期休暇をとったのはいつですか？
 * When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?
-* 一日の中でもっとも生産的だとおもうのはいつですか？　一番やる気も集中力も無いと感じるのはいつですか？ 仕事で一日を最大限に有効活用するために何を変えればいいと思いますか？
+* 一日の中でもっとも生産的だと思うのはいつですか？　一番やる気も集中力も無いと感じるのはいつですか？ 仕事で一日を最大限に有効活用するために何を変えればいいと思いますか？
 
 
 ## FAQ

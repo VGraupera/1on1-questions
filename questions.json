@@ -2658,7 +2658,7 @@
       "id": 583,
       "question": {
         "en": "Who inspire you in the team? Whose opinions do you respect? What have they done?",
-        "ja_JP": "チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊敬していますか？　その人は何をしましたか？"
+        "ja_JP": "チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊重していますか？　その人は何をしましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.454Z",
@@ -2678,7 +2678,7 @@
       "id": 585,
       "question": {
         "en": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?",
-        "ja_JP": "私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいとおもいますか？"
+        "ja_JP": "私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.468Z",
@@ -2698,7 +2698,7 @@
       "id": 587,
       "question": {
         "en": "Whom in the team do you want to learn from? Whom do you get valuable feedback from?",
-        "ja_JP": "チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取りたいと思いますか？"
+        "ja_JP": "チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取っていますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.483Z",
@@ -2788,7 +2788,7 @@
       "id": 597,
       "question": {
         "en": "What\u2019s the biggest thing you\u2019d like to change about our team?",
-        "ja_JP": "私達のチームで変えたいとおもっている最大のことって何ですか？"
+        "ja_JP": "私達のチームで変えたいと思っている最大のことって何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.539Z",
@@ -2808,7 +2808,7 @@
       "id": 599,
       "question": {
         "en": "Where do you think we can do better?",
-        "ja_JP": "私達はもっとうまくやれるようになると思いますか？"
+        "ja_JP": "どうしたら私達はもっとうまくやれるようになると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.554Z",
@@ -2968,7 +2968,7 @@
       "id": 615,
       "question": {
         "en": "Is there anything you\u2019d like to be doing on your own time to relieve stress that you\u2019re not getting to? How can I help you achieve those personal goals?",
-        "ja_JP": "あなたの時間をつかってやりたいけどやれてないストレス軽減方法はありますか？　それをできるようにするために私が手伝えることはありますか？"
+        "ja_JP": "あなたの時間を使ってやりたいけどやれてないストレス軽減方法はありますか？　それをできるようにするために私が手伝えることはありますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.650Z",
@@ -3028,7 +3028,7 @@
       "id": 622,
       "question": {
         "en": "Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?",
-        "ja_JP": "一日の中でもっとも生産的だとおもうのはいつですか？　一番やる気も集中力も無いと感じるのはいつですか？ 仕事で一日を最大限に有効活用するために何を変えればいいと思いますか？"
+        "ja_JP": "一日の中でもっとも生産的だと思うのはいつですか？　一番やる気も集中力も無いと感じるのはいつですか？ 仕事で一日を最大限に有効活用するために何を変えればいいと思いますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.682Z",
@@ -3048,7 +3048,7 @@
       "id": 624,
       "question": {
         "en": "What stands in your way?",
-        "ja_JP": "あなたの邪魔になるものはなにですか？"
+        "ja_JP": "あなたの邪魔になるものは何ですか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.697Z",
