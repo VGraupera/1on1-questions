@@ -306,33 +306,33 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 
 ## ワーク・ライフ
-* How are you feeling about work?
+* 仕事のことをどう感じていますか？
 * How are you going to approach this?
 * How are you planning to balance work and personal life this year?
-* How can I help…? (be more productive/happier at work/enjoy work more/etc)
+* あなたの仕事の生産性や楽しさを改善するために、なにか私に手助けできることはありますか？
 * How do you feel about your work/life balance?
 * How is your workload right now?
-* If you could change one thing about your job today, what would you change?
-* Is there anything that you need from me?
-* Is there anything that you’re struggling with?
+* あなたの仕事についてなにかひとつだけ変えられるとしたら、何を変えますか？
+* 何か私からあなたに提供できる、必要なものはありますか？
+* 今なかなか解決できずに困っていることはありますか？
 * Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
-* What about work is frustrating?
-* What about your job is most satisfying for you?
+* 仕事関連のものごとでフラストレーションを感じることを教えて下さい。
+* 仕事関連のものごとで、最も満足していることは何ですか？
 * What are 3 things could we do to improve your productivity if money was no object?
-* What are the biggest time wasters for you each week?
-* What are the most important things you will focus on before we meet next?
+* 各週ごとに、あなたが最も時間を使っていることを教えてください。
+* 次の1on1までに、あなたが最も取り組むべき最重要課題はなんですか？
 * What are you doing for yourself outside of work?
-* What are your most significant accomplishments since we last met?
+* 最後に1on1をしてから今回までの間に、一番大きな成功や成し遂げたことはなんですか？
 * What areas of your work are you confident about?
 * What could we change about work that would improve the rest of your life?
-* What do you do when you feel low energy or unmotivated?
+* やる気や気力が下がったとき、どんなことをしますか？
 * What does your ideal weekday look like?
-* What is an ideal, productive day at work for you? Walk me through the day…
-* What is the most important thing we need to discuss today?
-* What makes you excited and motivated to work on a project?
-* What obstacles are you encountering right now?
+* あなたにとって最も理想的で生産的な仕事の一日の流れを説明してください。
+* 今日二人で一番話し合わなければいけないことは何でしょうか。
+* 仕事のプロジェクトで、一番あなたがワクワクしたり、やる気が出ることを教えて下さい。
+* 今現在直面している困難や障害を教えて下さい。
 * What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?
-* What part of your work routine do you find is working best? What area do you want to improve?
+* 仕事における定型のタスクや手続きについて、うまく機能していると思うものはなんですか？どんな部分を改善してほしいと思いますか？
 * What questions do you have about this project?
 * What stands in your way?
 * What suggestions do you have?
@@ -341,10 +341,10 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What worries you?
 * What worries you? What’s on your mind?
 * What, if anything, did you used to do that you find you don’t have time for right now?
-* What’s an inexpensive thing we could do to improve our office environment?
+* お金をかけずにオフィス環境を良くしようと思ったら、どんなアイデアがありますか？
 * When is your next vacation?
 * When was your last vacation? 
-* When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?
+* 何かに行き詰まったとき、どうやってそこから抜け出しますか？誰に助けを求めますか？
 * Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?
 
 
