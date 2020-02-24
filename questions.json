@@ -998,7 +998,7 @@
       "id": 410,
       "question": {
         "en": "Tell me about something new you learned since we met last.",
-        "ja_JP": ""
+        "ja_JP": "前回の1on1以降で新しく学んだことを教えてください。"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.459Z",
@@ -1008,7 +1008,7 @@
       "id": 411,
       "question": {
         "en": "What opportunities have you had recently to learn something new?",
-        "ja_JP": ""
+        "ja_JP": "最近、何か新しいことを学ぶ機会はありましたか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.473Z",
@@ -1018,7 +1018,7 @@
       "id": 412,
       "question": {
         "en": "What would you like to learn about in the future?",
-        "ja_JP": ""
+        "ja_JP": "将来、どんなことを学んでみたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.476Z",
@@ -1028,7 +1028,7 @@
       "id": 413,
       "question": {
         "en": "What kind of training or experience would be most helpful to you right now?",
-        "ja_JP": ""
+        "ja_JP": "どんなトレーニングや体験が今、一番役に立っていますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.479Z",
@@ -1038,7 +1038,7 @@
       "id": 414,
       "question": {
         "en": "What do you see as the next step in your career?",
-        "ja_JP": ""
+        "ja_JP": "キャリアの次のステップは何だと思いますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.491Z",
@@ -1048,7 +1048,7 @@
       "id": 415,
       "question": {
         "en": "What goals have you set for your career?",
-        "ja_JP": ""
+        "ja_JP": "あなたのキャリアでどんな目標を設定していますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.494Z",
@@ -1058,7 +1058,7 @@
       "id": 416,
       "question": {
         "en": "How do you feel you are progressing in your career?",
-        "ja_JP": ""
+        "ja_JP": "あなたのキャリアはどのように進んでいますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.497Z",
@@ -1068,7 +1068,7 @@
       "id": 417,
       "question": {
         "en": "What big questions do you have about your career opportunities in the future?",
-        "ja_JP": ""
+        "ja_JP": "将来、キャリアを進めていく機会についてどんな疑問がありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.499Z",
@@ -1078,7 +1078,7 @@
       "id": 418,
       "question": {
         "en": "What are your goals (for our group for you personally)",
-        "ja_JP": ""
+        "ja_JP": "あなたの目標は何ですか？ (チームとして、あるいは個人として)"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.510Z",
@@ -1088,7 +1088,7 @@
       "id": 419,
       "question": {
         "en": "Tell me a story...",
-        "ja_JP": ""
+        "ja_JP": "あなたについての話を聞かせてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.513Z",
@@ -1098,7 +1098,7 @@
       "id": 420,
       "question": {
         "en": "How are you? How is life outside of work?",
-        "ja_JP": ""
+        "ja_JP": "調子はどう？ 仕事以外ではどんな感じ？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.516Z",
@@ -1108,7 +1108,7 @@
       "id": 421,
       "question": {
         "en": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
-        "ja_JP": ""
+        "ja_JP": "休日の過ごし方について聞いてもいいですか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.529Z",
@@ -1118,7 +1118,7 @@
       "id": 422,
       "question": {
         "en": "How are your parents\/grandparents? Where do they live? Do you visit them?",
-        "ja_JP": ""
+        "ja_JP": "ご両親や祖父母の調子はどうですか？ どこに住んでいるのですか？ 帰省してます？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.531Z",
@@ -1128,7 +1128,7 @@
       "id": 423,
       "question": {
         "en": "If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)",
-        "ja_JP": ""
+        "ja_JP": "子供がいつ人に対する質問です。お子さん(分かるなら名前で呼んでみよう)の調子はどうですか？ (年齢に応じて、入学、スポーツ、その他興味の向くものについて尋ねてみよう)"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.533Z",
@@ -1138,7 +1138,7 @@
       "id": 424,
       "question": {
         "en": "What do you like to do in your free time? What are your hobbies?",
-        "ja_JP": ""
+        "ja_JP": "余暇をどんなふうに過ごすのが好きですか？ 趣味は何ですか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.545Z",
@@ -1148,7 +1148,7 @@
       "id": 425,
       "question": {
         "en": "Who do you really admire? Why? (People often admire those they want to become)",
-        "ja_JP": ""
+        "ja_JP": "あなたが心底尊敬シてるのは誰ですか？ それはなぜ？ (人々は自分がなりたい人を尊敬するものです)"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.547Z",
@@ -1158,7 +1158,7 @@
       "id": 426,
       "question": {
         "en": "Tell me about what you\u2019ve been working on.",
-        "ja_JP": ""
+        "ja_JP": "あなたが取り組んでいることについて教えてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.550Z",
@@ -1168,7 +1168,7 @@
       "id": 427,
       "question": {
         "en": "Tell me about your week \u2013 what\u2019s it been like?",
-        "ja_JP": ""
+        "ja_JP": "この1週間について教えてください。どうでした？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.561Z",
@@ -1178,7 +1178,7 @@
       "id": 428,
       "question": {
         "en": "Tell me about your family\/weekend\/ activities?",
-        "ja_JP": ""
+        "ja_JP": "あなたの家族、週末、活動について教えてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.564Z",
@@ -1188,7 +1188,7 @@
       "id": 429,
       "question": {
         "en": "Tell me about anything you stumbled over.",
-        "ja_JP": ""
+        "ja_JP": "上手く行かなかったことについて教えてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.566Z",
