@@ -2528,7 +2528,7 @@
       "id": 570,
       "question": {
         "en": "Is there anything you\u2019d like to see change about the team, and if so, why?",
-        "ja_JP": ""
+        "ja_JP": "チームについてなにか見てみたい変化はありますか？　それは何故ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.382Z",
@@ -2538,7 +2538,7 @@
       "id": 571,
       "question": {
         "en": "How are you feeling about the recent news? Why do you say that?",
-        "ja_JP": ""
+        "ja_JP": "最近のニュースについてどう思いますか？　それについてなにか意見はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.394Z",
@@ -2548,7 +2548,7 @@
       "id": 572,
       "question": {
         "en": "What concerns do you have about the change that haven't been addressed?",
-        "ja_JP": ""
+        "ja_JP": "まだ対処されていない変更について、なにか懸念はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.396Z",
@@ -2558,7 +2558,7 @@
       "id": 573,
       "question": {
         "en": "What\u2019s going well and not so well with the new situation\/development? Why do you think this might be happening?",
-        "ja_JP": ""
+        "ja_JP": "新しいシチュエーション\/開発において何がうまく行っていて、何がうまく行っていないと思いますか？　またそれは何故起こっていると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.399Z",
@@ -2568,7 +2568,7 @@
       "id": 574,
       "question": {
         "en": "Do you have a clear understanding of the new goals and expectations? What makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "新しいゴールとあなたへの期待に対して完全に理解できていますか？　どうしてそう言えますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.410Z",
@@ -2578,7 +2578,7 @@
       "id": 575,
       "question": {
         "en": "How is the new situation\/development affecting your work? What could be getting in the way of your being effective?",
-        "ja_JP": ""
+        "ja_JP": "新しいシチュエーション\/開発はあなたの仕事にどんな影響がありますか？　あなたの効率を下げるものはありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.413Z",
@@ -2588,7 +2588,7 @@
       "id": 576,
       "question": {
         "en": "What sort of resources could you use right now to make things more manageable?",
-        "ja_JP": ""
+        "ja_JP": "もっと状況をコントロールできるようにするために、今すぐ必要なリソースは何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.416Z",
@@ -2598,7 +2598,7 @@
       "id": 577,
       "question": {
         "en": "Could you tell me a little more about that?",
-        "ja_JP": ""
+        "ja_JP": "それについてもう少し教えてもらえますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.428Z",
@@ -2608,7 +2608,7 @@
       "id": 578,
       "question": {
         "en": "Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)",
-        "ja_JP": ""
+        "ja_JP": "その問題についてもう少し詳細を教えてもらえませんか？ (誰が巻き込まれていますか？ いつ、どこで、どれくらいの期間？)"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.431Z",
@@ -2618,7 +2618,7 @@
       "id": 579,
       "question": {
         "en": "What are some possible ways to get the solution you need?",
-        "ja_JP": ""
+        "ja_JP": "必要なソリューションを得るための現実的なやり方をいくつか教えて下さい"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.434Z",
@@ -2628,7 +2628,7 @@
       "id": 580,
       "question": {
         "en": "What additional resources from me would be helpful for you as you solve this problem?",
-        "ja_JP": ""
+        "ja_JP": "あなたがこの問題を解決するのに有用な追加のリソースってありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.446Z",
@@ -2638,7 +2638,7 @@
       "id": 581,
       "question": {
         "en": "What are your next steps to make progress on this problem?",
-        "ja_JP": ""
+        "ja_JP": "この問題を解決するための次のステップを教えて下さい。"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.449Z",
@@ -2648,7 +2648,7 @@
       "id": 582,
       "question": {
         "en": "What do you do when you get stuck on something? What is your process of getting unstuck? Who is the team member you turn to for help?",
-        "ja_JP": ""
+        "ja_JP": "何かで行き詰まったときに何をやりますか？ 行き詰まりを解消するためのやり方を教えて下さい。その時あなたが助けを求めるチームメンバーはだれですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.452Z",
@@ -2658,7 +2658,7 @@
       "id": 583,
       "question": {
         "en": "Who inspire you in the team? Whose opinions do you respect? What have they done?",
-        "ja_JP": ""
+        "ja_JP": "チームでインスピレーションを与えるのはだれですか？ 誰の意見を尊敬していますか？　その人は何をしましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.454Z",
@@ -2668,7 +2668,7 @@
       "id": 584,
       "question": {
         "en": "Is there anybody in the team that you find it difficult to work with? Can you tell me why?",
-        "ja_JP": ""
+        "ja_JP": "チーム内に一緒に働きづらい人はいますか？　それはどうしてか教えてもらえますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.465Z",
@@ -2678,7 +2678,7 @@
       "id": 585,
       "question": {
         "en": "What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?",
-        "ja_JP": ""
+        "ja_JP": "私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいとおもいますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.468Z",
@@ -2688,7 +2688,7 @@
       "id": 586,
       "question": {
         "en": "What do you think would help us work together better?",
-        "ja_JP": ""
+        "ja_JP": "もっと上手に一緒に働くのに必要なことって何だと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.481Z",
@@ -2698,7 +2698,7 @@
       "id": 587,
       "question": {
         "en": "Whom in the team do you want to learn from? Whom do you get valuable feedback from?",
-        "ja_JP": ""
+        "ja_JP": "チームの誰から学びたいと思いますか？　誰から価値のあるフィードバックを受け取りたいと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.483Z",
@@ -2708,7 +2708,7 @@
       "id": 588,
       "question": {
         "en": "What are your top three motivators?",
-        "ja_JP": ""
+        "ja_JP": "モチベーションを上げること、トップ３を教えてください。"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.495Z",
@@ -2718,7 +2718,7 @@
       "id": 589,
       "question": {
         "en": "What excites you about our business?  The company?  What concerns you?",
-        "ja_JP": ""
+        "ja_JP": "私達のビジネスや会社、あなたの関心事でワクワクさせられることは何ですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.498Z",
