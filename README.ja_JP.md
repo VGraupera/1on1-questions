@@ -208,22 +208,22 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 
 ## その他
-* As a kid, what did you want to be when you grew up?
-* How are things going for you outside of work?
-* If you had millions of dollars, what would you do every day?
-* What did you do for fun in the past that you haven’t had as much time for lately?
-* What haven’t you tried yet?
-* What ideas can you bring in from past successes?
-* What questions do you have about the project?
-* What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
+* 子供の頃、大人になったら何になりたかったですか？
+* 仕事以外の調子はどうですか？
+* 5000兆円あったら毎日なにしますか？
+* 最近時間なさそうですが、時間あるときはどういうことを楽しんでいましたか？
+* まだ試してないことって何ですか？
+* 過去の成功体験からなにかいいアイディアはありませんか？
+* プロジェクトに関してなにか質問はありますか？
+* もしこの打ち合わせがなかったら何していましたか？ やろうとしてなかったことをできなかったことについてどう感じていますか？
 * あなた個人の人生をよりよくするために、私達が仕事で変えられるものがあるとしたら、それは何？
 
 
 ## チームと会社
-* Are there any aspects of our culture you wish you could change?
+* あなたが変えたい、私達の文化ってありますか？
 * Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 * Are there any problems or issues that I should know about?
-* Are there any roles in the company you’d like to learn more about?
+* もっと詳細を知りたい社内の役割はありますか？
 * Are you uncomfortable giving any of your peers constructive criticism? If so, why?
 * Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
 * Could you tell me a little more about that?
@@ -243,12 +243,12 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * How would you rate our communication as a team?
 * How would you say we're doing at working together as team? What makes you say that?
 * If we could improve in any way, how would we do it?
-* If you were CEO, what’s the first thing you’d change?
+* もしあなたがCEOなら、真っ先に変えることはなんですか？
 * Is any part of your project unclear or confusing?
 * Is everyone pulling their weight on the team?
-* Is there a situation you’d like my help with?
+* 私の助けが必要な場面はありますか？
 * Is there anybody in the team that you find it difficult to work with? Can you tell me why?
-* Is there anything blocking you from getting your work done?
+* なにかブロッカーはありますか？
 * Is there anything that’s slowing you down from getting your work done?
 * Is there anything you’d like to see change about the team, and if so, why?
 * Is your job what you expected when you accepted it?
@@ -257,10 +257,10 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What are some ways we could improve at teamwork? What makes you say that?
 * What are we doing that you think we should stop doing, and why?
 * What are we not doing that we should be doing? What makes you say that?
-* What are your favorite parts about our culture?
+* 私達の文化のどんなところが好きですか？
 * What are your next steps to make progress on this problem?
 * What are your top three motivators?
-* What area of the company would you like to learn more about?
+* 会社のどの領域についてもっと知りたいですか？
 * What areas are ahead of schedule?
 * What characteristics make someone a good fit for our team? How would you look for those characteristics in an interview?
 * What concerns do you have about the change that haven't been addressed?
@@ -269,12 +269,12 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What do you like about working here? What’s not fun about working here?
 * What do you think about the amount of feedback in our team? When do others give feedback to you? Would you like to hear more feedback from other team member and me?
 * What do you think about _________?
-* What do you think are the key skills for your role? How would you rate yourself for each of them?
+* あなたの役割で鍵となる技術は何だと思いますか？　あなた自身はその技術にどれくらい熟達してるとおもいますか？
 * What do you think would help us work together better?
 * What do you think you can do to fix that problem?
 * What excites you about our business?  The company?  What concerns you?
-* What is the #1 Problem at our company? Why?
-* What is the company not doing today that we should do to better compete in the market?
+* 会社で一番の問題点は何でしょうか？ 理由も教えて下さい
+* 市場で競争力を持つために、いま我社でやられていない、やるべきことはなんでしょう？
 * What kind of communication or information do you wish you had more of?
 * What part of your job do you wish you didn’t have to do?
 * What sort of resources could you use right now to make things more manageable?
@@ -283,7 +283,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What’s an inexpensive thing we could do to improve our office environment for the team?
 * What’s going well and not so well with the new situation/development? Why do you think this might be happening?
 * What’s one thing we should change about how our team works together?
-* What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
+* プロダクトを改善するために、私達が次の四半期で絶対にやらないことはなんでしょうか？
 * What’s something you feel is undervalued that you contribute to the team?
 * What’s the biggest opportunity we’re missing out on?
 * What’s the biggest thing you’d like to change about our team?
@@ -292,7 +292,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What’s the number one problem within our organization? Why?
 * Where do you think we can do better?
 * Which areas would you would like more feedback on?
-* Which company values do you like the most? Which the least? Why?
+* 会社の価値観のどれが一番好きで、それが一番嫌いですか？　理由も教えて下さい
 * Who are you friends with at work? (Shown to be a key to enjoying your job)
 * Who do you admire within the company and why?
 * Who has really been kicking ass lately?
