@@ -2078,7 +2078,7 @@
       "id": 520,
       "question": {
         "en": "Are there any roles in the company you\u2019d like to learn more about?",
-        "ja_JP": "もっと詳細を知りたい社内の枠割はありますか？"
+        "ja_JP": "もっと詳細を知りたい社内の役割はありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.098Z",
@@ -2148,7 +2148,7 @@
       "id": 527,
       "question": {
         "en": "What are your favorite parts about our culture?",
-        "ja_JP": "私達の文化の好きな部分ってなにかありますか？"
+        "ja_JP": "私達の文化のどんなところが好きですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.136Z",

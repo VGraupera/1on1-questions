@@ -223,7 +223,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * あなたが変えたい、私達の文化ってありますか？
 * Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 * Are there any problems or issues that I should know about?
-* もっと詳細を知りたい社内の枠割はありますか？
+* もっと詳細を知りたい社内の役割はありますか？
 * Are you uncomfortable giving any of your peers constructive criticism? If so, why?
 * Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
 * Could you tell me a little more about that?
@@ -257,7 +257,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * What are some ways we could improve at teamwork? What makes you say that?
 * What are we doing that you think we should stop doing, and why?
 * What are we not doing that we should be doing? What makes you say that?
-* 私達の文化の好きな部分ってなにかありますか？
+* 私達の文化のどんなところが好きですか？
 * What are your next steps to make progress on this problem?
 * What are your top three motivators?
 * 会社のどの領域についてもっと知りたいですか？
