@@ -145,154 +145,154 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 ## 働きがい
 * ここにいて楽しいですか？　どうしてそう思いますか？
 * Are you happy with your recent work? Why or why not?
-* Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?
+* 仕事がもっと楽しくできるようになるために、私達ができることを3つ挙げてください。ここにきて達成した最高の成果は何ですか？　それについてどう感じていますか？
 * Do you feel challenged at work? Are you learning new things?
 * 今の役割で成長してる実感はありますか？　どうしてそう思いますか？
 * Do you feel over-worked, under-worked, or just the right workload?
 * Do you think our company is loyal to its employees? Why or why not?
-* Happiness level, 1 to 10?
+* いま幸せ？　100点中何点くらい？
 * プロジェクトについてどう思いますか？
 * 今の役割についてどのように感じていますか？
-* How did that affect you?
-* How did that make you feel?
+* それはあなたにどのように影響しましたか？
+* それはどのように感じましたか？
 * How do you feel your work/life balance is right now?
 * How do you think of your current workload and how are you coping with them?
 * 好きじゃないことがあなたのパフォーマンスに影響しているとおもいますか？
 * How many hours a day do you feel you’re productive? How could we help you be more productive?
-* If you could change what happened, how would you alter it?
+* 起こったことを変えられるとしたら、何をどんな風に変えますか？
 * もし、来月なにかに取り組む時間があったら何をやりますか？　それはどうしてですか？
-* In our last 1-on-1 you mentioned that you’d like to grow in X — how has that been going?
-* In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?
+* 前回の1 on 1でXについて成長したいといっていましたが、それの進捗はどうですか？
+* 前回の1 on 1でXがうまく言ってなくて、解決のためにYを試してみたいといっていましたが、あれってどうなりました？
 * 今の役割で、どんな風にあなたの技術と才能が使われていますか？
-* I’ve noticed X about the project… Can you help me understand that better? Talk me through your process.
+* プロジェクトでXについて気になっているのですが、理解できるように手伝ってもらえませんか？　あなたのやり方を教えてください
 * Tell me about what you’ve learned on this project.
 * What are you most excited about?
 * What are you most worried about?
 * 現在のプロジェクトで一番の懸念点って何ですか？
 * あなたにとってこのプロジェクトの特に面白い部分ってどこですか？
 * What could I do to make you enjoy your work more?
-* What did you like most/least about that?
-* What do you enjoy the most in your current role?
+* それについて最高/最低のことってなんですか？
+* 今の役割で一番おもしろい部分は何ですか？
 * What do you feel is your greatest accomplishment here?
 * プロジェクトから何を学べていると思いますか？
 * What do you like most about working on our team?
 * What do you like most about your job today?
 * What do you like the least?
 * What do you need or want to accomplish and by when?
-* What do you think caused that to happen?
+* 何がそれを引き起こしたとおもいますか？
 * 何がうまくいったと思いますか？　もっとうまくできたと思うことって何ですか？　やりたかったけれどもやれなかったことってありますか？
 * もっと違うやり方でできると思いますか？
 * What drives you? What motivates you to come to work each day?
 * 現在の優先事項について、どんなフィードバックを受けていますか？
 * プロジェクトでムカつくことってありますか？
-* What have you tried so far to make progress on it?
+* 今の所、進捗させるためにどういうことを試しましたか？
 * いまやっているプロジェクトで面白いと思う部分は何ですか？　理由も教えて下さい。
 * 今やっている仕事で好きなこと/好きじゃないことを教えて下さい
-* What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?
-* What was that experience like for you?
-* What would be the most helpful thing for you to take away from this conversation in order to make progress on it?
+* 「フル活用されてるな」と感じるあなたの能力はどういう部分ですか？　「全然活用されてないな」と感じるあなたの能力はどういった部分ですか？
+* その経験はあなたにとってどのようなものでしたか？
+* このやり取りの中で、事態を進展させるのに一番役に立ちそうなことは何ですか？
 * What would convince you to leave for a job somewhere else?
 * What would make you leave this job for another?
 * What’s a recent situation you wish you handled differently? What would you change?
 * What’s an area of your work you want to improve?
 * What’s one thing about your job that, if we fixed, would make you never want to leave?
 * 仕事の満足度を上げるためには何が必要だと思いますか？　その理由は？
-* What’s the best part of your job?
-* What’s the worst part about your job?
+* 仕事で一番いい部分ってなに？
+* 仕事で最低な部分ってなに？
 * 今の役割でうまくいっていることは何ですか？
-* What’s your No. 1 problem right now? How are you feeling about it?
+* いまあなたの中での一番の問題は何ですか？　それについてどう感じていますか？
 * When was the time you enjoyed working here the most?
 * どういった領域で、あなたのポテンシャルが発揮できないと感じたり、両腕を縛られているような気持ちになったりしますか？
 * どの領域にもっと時間を使いたいですか？　それは何故ですか？
-* Which parts of your project are unclear or confusing?
+* プロジェクトのどの部分が不明瞭、もしくは混乱をもたらしていますか？
 
 
 ## その他
-* As a kid, what did you want to be when you grew up?
-* How are things going for you outside of work?
-* If you had millions of dollars, what would you do every day?
-* What did you do for fun in the past that you haven’t had as much time for lately?
-* What haven’t you tried yet?
-* What ideas can you bring in from past successes?
-* What questions do you have about the project?
-* What would you be doing right now if we weren’t having this meeting? How do you feel about being taken away from that task?
-* What’s one thing we could change about work for you that would improve your personal life?
+* 子供の頃、大人になったら何になりたかったですか？
+* 仕事以外の調子はどうですか？
+* 5000兆円あったら毎日なにしますか？
+* 最近時間なさそうですが、時間あるときはどういうことを楽しんでいましたか？
+* まだ試してないことって何ですか？
+* 過去の成功体験からなにかいいアイディアはありませんか？
+* プロジェクトに関してなにか質問はありますか？
+* もしこの打ち合わせがなかったら何していましたか？ やろうとしてなかったことをできなかったことについてどう感じていますか？
+* あなた個人の人生をよりよくするために、私達が仕事で変えられるものがあるとしたら、それは何？
 
 
 ## チームと会社
-* Are there any aspects of our culture you wish you could change?
+* あなたが変えたい、私達の文化ってありますか？
 * Are there any meetings or discussions you feel you should be a part of that you’re not? Are you included in any you don’t want to be a part of?
 * 私が知っておくべき課題や問題はありますか？
-* Are there any roles in the company you’d like to learn more about?
+* もっと詳細を知りたい社内の役割はありますか？
 * Are you uncomfortable giving any of your peers constructive criticism? If so, why?
 * その問題についてもう少し詳細を教えてもらえませんか？ (誰が巻き込まれていますか？ いつ、どこで、どれくらいの期間？)
 * それについてもう少し教えてもらえますか？
-* Do you feel adequately supported by other team members? What makes you say that?
+* 他のチームメンバーから十分なサポートを受けていると感じていますか？　どういった点でそう感じていますか？
 * Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
 * 新しいゴールとあなたへの期待に対して完全に理解できていますか？　どうしてそう言えますか？
 * Do you help other members on the team? Do others help you when you need it?
 * チームの中の誰かがあなたを居心地悪くしたことはありませんか？　その時は何がありましたか？
-* How are you feeling about the company’s future overall? What makes you say that?
+* 会社の未来についてどう思いますか？　どうしてそう思いますか？
 * 最近のニュースについてどう思いますか？　それについてなにか意見はありますか？
 * How could we be more creative or innovative as a company?
 * How could we change our team meetings to be more effective?
 * 新しいシチュエーション/開発はあなたの仕事にどんな影響がありますか？　あなたの効率を下げるものはありますか？
 * How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
-* How would you describe the division of work among team members?
-* How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
+* チームメンバーの仕事の分担をどのように説明しますか？
+* チームの性格についてどんな風に表現しますか？　どういった人がチームに馴染むと思いますか？　どういった人が、チームに現在チームに欠けているものを補ってくれると思いますか？
 * チームのコミュニケーションについて評価をつけるとしたらどれくらいにしますか？
-* How would you say we're doing at working together as team? What makes you say that?
-* If we could improve in any way, how would we do it?
-* If you were CEO, what’s the first thing you’d change?
+* チームとして一緒に働いていいることに対してどう思いますか？　またどうしてそう思いましたか？
+* もしとにかく改善できるのであれば、どんな風にすればいいと思う？
+* もしあなたがCEOなら、真っ先に変えることはなんですか？
 * あなたのプロジェクトで不明瞭だったり混乱している部分はありますか？
 * Is everyone pulling their weight on the team?
-* Is there a situation you’d like my help with?
+* 私の助けが必要な場面はありますか？
 * チーム内に一緒に働きづらい人はいますか？　それはどうしてか教えてもらえますか？
-* Is there anything blocking you from getting your work done?
+* なにかブロッカーはありますか？
 * 仕事を完了するうえで、遅延の原因となっているのはどういった部分ですか？
 * チームについてなにか見てみたい変化はありますか？　それは何故ですか？
 * Is your job what you expected when you accepted it?
 * あなたがこの問題を解決するのに有用な追加のリソースってありますか？
 * 必要なソリューションを得るための現実的なやり方をいくつか教えて下さい
-* What are some ways we could improve at teamwork? What makes you say that?
-* What are we doing that you think we should stop doing, and why?
-* What are we not doing that we should be doing? What makes you say that?
-* What are your favorite parts about our culture?
+* 私達のチームワークを改善するにはどうすればいいでしょうか？　またその理由は？
+* 私達がやっていることの中で止めるべきことはありますか？　またそれは何故ですか？
+* 私達がやるべきなんだけどやってないことって何だとおもいますか？　どうしてそう思いますか？
+* 私達の文化のどんなところが好きですか？
 * この問題を解決するための次のステップを教えて下さい。
 * モチベーションを上げること、トップ３を教えてください。
-* What area of the company would you like to learn more about?
+* 会社のどの領域についてもっと知りたいですか？
 * 予定より先に進んでいる部分はどのへんですか？
 * 私達のチームにピッタリ合う性格ってどんなものでしょう？　面接でそういう性格を見抜くにはどうやっていますか？
 * まだ対処されていない変更について、なにか懸念はありますか？
 * 別の方法だと何ができたでしょうか？
 * 何かで行き詰まったときに何をやりますか？ 行き詰まりを解消するためのやり方を教えて下さい。その時あなたが助けを求めるチームメンバーはだれですか？
-* What do you like about working here? What’s not fun about working here?
+* この会社で働いていて楽しいことって何？　楽しくない部分って何？
 * 私達のチームへのフィードバックの量についてどう思いますか？ 他の人はいつあなたにフィードバックをくれますか？ 他のチームメンバーと私からもっとフィードバックを受け取りたいとおもいますか？
 * _________ についてどう思いますか？
-* What do you think are the key skills for your role? How would you rate yourself for each of them?
+* あなたの役割で鍵となる技術は何だと思いますか？　あなた自身はその技術にどれくらい熟達してるとおもいますか？
 * もっと上手に一緒に働くのに必要なことって何だと思いますか？
 * その問題をあなた自身で解決できると思いますか？
 * 私達のビジネスや会社、あなたの関心事でワクワクさせられることは何ですか？
-* What is the #1 Problem at our company? Why?
-* What is the company not doing today that we should do to better compete in the market?
+* 会社で一番の問題点は何でしょうか？ 理由も教えて下さい
+* 市場で競争力を持つために、いま我社でやられていない、やるべきことはなんでしょう？
 * どのような種類のコミュニケーション、もしくは情報をもっと欲しいと思いますか？
 * What part of your job do you wish you didn’t have to do?
 * もっと状況をコントロールできるようにするために、今すぐ必要なリソースは何ですか？
-* What would you like to learn more about this year?
-* What would you like to see change here? Why do you say that?
+* 今年、もっと学びたいことって何ですか？
+* ここで何を変えたいですか？　その理由は？
 * What’s an inexpensive thing we could do to improve our office environment for the team?
 * 新しいシチュエーション/開発において何がうまく行っていて、何がうまく行っていないと思いますか？　またそれは何故起こっていると思いますか？
 * チームがうまく働く上で1つだけ変えたほうがいいとすると、それはどこでしょうか？
-* What’s one thing we’d be *crazy* not to do in the next quarter to improve our product?
+* プロダクトを改善するために、私達が次の四半期で絶対にやらないことはなんでしょうか？
 * What’s something you feel is undervalued that you contribute to the team?
-* What’s the biggest opportunity we’re missing out on?
+* 私達が逃している最大のチャンスは何だと思いますか？
 * 私達のチームで変えたいとおもっている最大のことって何ですか？
-* What’s the No. 1 problem with our organization, and what do you think's causing it?
+* この組織で最大の問題は何だと思いますか？　それは何故起きているとおもいますか？
 * うちの組織で1番の問題点って何ですか？　それは何故ですか？
-* What’s the number one problem within our organization? Why?
+* この組織最大の問題はなんだと思う？　それはどうして？
 * 私達はもっとうまくやれるようになると思いますか？
-* Which areas would you would like more feedback on?
-* Which company values do you like the most? Which the least? Why?
+* どの領域についてもっとフィードバックがほしいと思っていますか？
+* 会社の価値観のどれが一番好きで、それが一番嫌いですか？　理由も教えて下さい
 * Who are you friends with at work? (Shown to be a key to enjoying your job)
 * Who do you admire within the company and why?
 * Who has really been kicking ass lately?
