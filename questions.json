@@ -1778,7 +1778,7 @@
       "id": 490,
       "question": {
         "en": "I\u2019ve noticed X about the project\u2026 Can you help me understand that better? Talk me through your process.",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトでXについて気になっているのですが、理解できるように手伝ってもらえませんか？　あなたのやり方を教えてください"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.926Z",
@@ -1788,7 +1788,7 @@
       "id": 491,
       "question": {
         "en": "Which parts of your project are unclear or confusing?",
-        "ja_JP": ""
+        "ja_JP": "プロジェクトのどの部分が不明瞭、もしくは混乱をもたらしていますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.938Z",
@@ -1798,7 +1798,7 @@
       "id": 492,
       "question": {
         "en": "What was that experience like for you?",
-        "ja_JP": ""
+        "ja_JP": "その経験はあなたにとってどのようなものでしたか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.941Z",
@@ -1808,7 +1808,7 @@
       "id": 493,
       "question": {
         "en": "What did you like most\/least about that?",
-        "ja_JP": ""
+        "ja_JP": "それについて最高/最低のことってなんですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.943Z",
@@ -1818,7 +1818,7 @@
       "id": 494,
       "question": {
         "en": "How did that affect you?",
-        "ja_JP": ""
+        "ja_JP": "それはあなたにどのように影響しましたか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.955Z",
@@ -1828,7 +1828,7 @@
       "id": 495,
       "question": {
         "en": "How did that make you feel?",
-        "ja_JP": ""
+        "ja_JP": "それはどのように感じましたか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.957Z",
@@ -1838,7 +1838,7 @@
       "id": 496,
       "question": {
         "en": "If you could change what happened, how would you alter it?",
-        "ja_JP": ""
+        "ja_JP": "起こったことを変えられるとしたら、何をどんな風に変えますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.960Z",
@@ -1848,7 +1848,7 @@
       "id": 497,
       "question": {
         "en": "What do you think caused that to happen?",
-        "ja_JP": ""
+        "ja_JP": "何がそれを引き起こしたとおもいますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.962Z",
@@ -1858,7 +1858,7 @@
       "id": 498,
       "question": {
         "en": "What\u2019s your No. 1 problem right now? How are you feeling about it?",
-        "ja_JP": ""
+        "ja_JP": "いまあなたの中での一番の問題は何ですか？　それについてどう感じていますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.965Z",
@@ -1868,7 +1868,7 @@
       "id": 499,
       "question": {
         "en": "What would be the most helpful thing for you to take away from this conversation in order to make progress on it?",
-        "ja_JP": ""
+        "ja_JP": "このやり取りの中で、事態を進展させるのに一番役に立ちそうなことは何ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.977Z",
@@ -1878,7 +1878,7 @@
       "id": 500,
       "question": {
         "en": "What have you tried so far to make progress on it?",
-        "ja_JP": ""
+        "ja_JP": "今の所、進捗させるためにどういうことを試しましたか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.980Z",
@@ -1888,7 +1888,7 @@
       "id": 501,
       "question": {
         "en": "In our last 1-on-1 you mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
-        "ja_JP": ""
+        "ja_JP": "前回の1 on 1でXについて成長したいといっていましたが、それの進捗はどうですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.991Z",
@@ -1898,7 +1898,7 @@
       "id": 502,
       "question": {
         "en": "In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?",
-        "ja_JP": ""
+        "ja_JP": "前回の1 on 1でXがうまく言ってなくて、解決のためにYを試してみたいといっていましたが、あれってどうなりました？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.993Z",
@@ -1908,7 +1908,7 @@
       "id": 503,
       "question": {
         "en": "Can you name three things we can do to help so you can enjoy your job more?What is the best accomplishment you had since you are here? Do you feel appreciated for it?",
-        "ja_JP": ""
+        "ja_JP": "仕事がもっと楽しくできるようになるために、私達ができることを3つ挙げてください。ここにきて達成した最高の成果は何ですか？　それについてどう感じていますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.996Z",
@@ -1918,7 +1918,7 @@
       "id": 504,
       "question": {
         "en": "What talents do you have that you feel we are fully utilizing?  Which of your talents are we not fully leveraging?",
-        "ja_JP": ""
+        "ja_JP": "「フル活用されてるな」と感じるあなたの能力はどういう部分ですか？　「全然活用されてないな」と感じるあなたの能力はどういった部分ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.007Z",
@@ -1928,7 +1928,7 @@
       "id": 505,
       "question": {
         "en": "What do you enjoy the most in your current role?",
-        "ja_JP": ""
+        "ja_JP": "今の役割で一番おもしろい部分は何ですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.009Z",
@@ -1938,7 +1938,7 @@
       "id": 506,
       "question": {
         "en": "Happiness level, 1 to 10?",
-        "ja_JP": ""
+        "ja_JP": "いま幸せ？　100点中何点くらい？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.012Z",
@@ -1948,7 +1948,7 @@
       "id": 507,
       "question": {
         "en": "What\u2019s the best part of your job?",
-        "ja_JP": ""
+        "ja_JP": "仕事で一番いい部分ってなに？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.025Z",
@@ -1958,7 +1958,7 @@
       "id": 508,
       "question": {
         "en": "What\u2019s the worst part about your job?",
-        "ja_JP": ""
+        "ja_JP": "仕事で最低な部分ってなに？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:15.028Z",
@@ -1968,7 +1968,7 @@
       "id": 509,
       "question": {
         "en": "What\u2019s one thing we could change about work for you that would improve your personal life?",
-        "ja_JP": ""
+        "ja_JP": "あなた個人の人生をよりよくするために、私達が仕事で変えられるものがあるとしたら、それは何？"
       },
       "category": "Other",
       "created_at": "2017-11-18T14:26:15.031Z",
