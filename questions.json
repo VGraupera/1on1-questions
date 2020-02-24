@@ -441,7 +441,7 @@
       "id": 350,
       "question": {
         "en": "What can I do to make your job easier?",
-        "ja_JP": ""
+        "ja_JP": "どうしたらあなたの仕事がもっと簡単にできるようになりますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.121Z",
@@ -451,7 +451,7 @@
       "id": 352,
       "question": {
         "en": "What can I do for you that I'm not?",
-        "ja_JP": ""
+        "ja_JP": "私ではなく、あなたのため、私に何ができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.128Z",
@@ -461,7 +461,7 @@
       "id": 355,
       "question": {
         "en": "What can I do better or differently as your manager to support you?",
-        "ja_JP": ""
+        "ja_JP": "マネージャとしてサポートするのに、もっと良くしたり、変えたりできるのはどんなことでしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.146Z",
@@ -471,7 +471,7 @@
       "id": 356,
       "question": {
         "en": "How could I do a better job communicating with you?",
-        "ja_JP": ""
+        "ja_JP": "どうしたらあなたとのコミュニケーションをもっと良くできるでしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.149Z",
@@ -481,7 +481,7 @@
       "id": 357,
       "question": {
         "en": "What do you want to be doing in 5 years? 10 years? 3 years?",
-        "ja_JP": ""
+        "ja_JP": "5年後どうなっていたいですか？ 10年後あるいは3年後はどうでしょう？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.152Z",
@@ -491,7 +491,7 @@
       "id": 358,
       "question": {
         "en": "What are your long term goals? Have you thought about them?",
-        "ja_JP": ""
+        "ja_JP": "あなたの長期的な目標はなんでしょうか？ それについてどう考えいていますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.155Z",
@@ -501,7 +501,7 @@
       "id": 359,
       "question": {
         "en": "What are your super powers? What powers would you like to develop?",
-        "ja_JP": ""
+        "ja_JP": "あなたが自信のある能力は何ですか？ どの能力を伸ばしたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.166Z",
@@ -511,7 +511,7 @@
       "id": 360,
       "question": {
         "en": "What do you want to do in your next job?",
-        "ja_JP": ""
+        "ja_JP": "次の仕事ではどんなことがしたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.171Z",
@@ -521,7 +521,7 @@
       "id": 361,
       "question": {
         "en": "What skills would you like to develop right now?",
-        "ja_JP": ""
+        "ja_JP": "これからどんなスキルを伸ばしていきたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.175Z",
@@ -531,7 +531,7 @@
       "id": 362,
       "question": {
         "en": "What additional training or education would you like?",
-        "ja_JP": ""
+        "ja_JP": "どんなトレーニングや教育をもっと受けたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.186Z",
@@ -541,7 +541,7 @@
       "id": 363,
       "question": {
         "en": "Do you feel like you\u2019re making progress on your big goals here? Why or why not?",
-        "ja_JP": ""
+        "ja_JP": "ここで、あなたの大きな目標に向かって進んでいると感じますか？ それはなぜでしょうか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.189Z",
@@ -551,7 +551,7 @@
       "id": 364,
       "question": {
         "en": "What\u2019s one thing we could do today to help you with your long term goals?",
-        "ja_JP": ""
+        "ja_JP": "今日私たちができることで、あなたの長期目標の助けになることは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.192Z",
@@ -561,7 +561,7 @@
       "id": 365,
       "question": {
         "en": "Do you feel we\u2019re helping you advance your career at a pace you would like?",
-        "ja_JP": ""
+        "ja_JP": "私たちは、あなたの望むペースでキャリアを伸ばすのに役立っていますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.203Z",
@@ -571,7 +571,7 @@
       "id": 366,
       "question": {
         "en": "What are your big dreams in life? Are you making progress on them?",
-        "ja_JP": ""
+        "ja_JP": "人生における大きな夢は何ですか？ あなたはそれに向かって進んでいますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.205Z",
@@ -581,7 +581,7 @@
       "id": 367,
       "question": {
         "en": "Could you see yourself making progress on more of your goals here? What would need to change to do so?",
-        "ja_JP": ""
+        "ja_JP": "ここで自分の目標に向かってさらに進めることができますか？ そうするためには何を変える必要がありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.208Z",
@@ -591,7 +591,7 @@
       "id": 369,
       "question": {
         "en": "Are there any events or training you\u2019d like to attend to help you grow your skills?",
-        "ja_JP": ""
+        "ja_JP": "スキルを伸ばすために参加したいイベントやトレーニングはありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.222Z",
@@ -601,7 +601,7 @@
       "id": 370,
       "question": {
         "en": "Who in the company would you like to learn from? What do you want to learn?",
-        "ja_JP": ""
+        "ja_JP": "社内で学びたい人は誰ですか？ 何を学びたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.225Z",
@@ -611,7 +611,7 @@
       "id": 371,
       "question": {
         "en": "What can you do to take action or make progress on what we talked about today?",
-        "ja_JP": ""
+        "ja_JP": "今日話したことを実行したり、進めたりするために、あなたにできることは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.237Z",
@@ -621,7 +621,7 @@
       "id": 372,
       "question": {
         "en": "What can I do to take action or make progress on what we talked about today?",
-        "ja_JP": ""
+        "ja_JP": "今日話したことを実行したり、進めたりするために、私にできることは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.239Z",
@@ -631,7 +631,7 @@
       "id": 373,
       "question": {
         "en": "Where do you see your career in the next (2\/5\/10) years?",
-        "ja_JP": ""
+        "ja_JP": "2年後、5年後、10年後、あなたはどこでキャリアを迎えているでしょうか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.242Z",
@@ -641,7 +641,7 @@
       "id": 374,
       "question": {
         "en": "What work are you doing here that you feel is most in line with your long term goals?",
-        "ja_JP": ""
+        "ja_JP": "ここでの仕事で、最もあなたの長期目標に近いものは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.253Z",
@@ -651,7 +651,7 @@
       "id": 375,
       "question": {
         "en": "What skills are required to reach your goals?",
-        "ja_JP": ""
+        "ja_JP": "あなたの目標のために必要なスキルは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.256Z",
@@ -661,7 +661,7 @@
       "id": 376,
       "question": {
         "en": "What are some of the work projects you\u2019re most proud of, and what do you think you might want to do next?",
-        "ja_JP": ""
+        "ja_JP": "あなたが最も誇りに感じている仕事上のプロジェクトは何ですか？ また、次はどんなことをしたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.259Z",
@@ -671,7 +671,7 @@
       "id": 377,
       "question": {
         "en": "What are two to three new skills you\u2019d like to learn on the job? What about those skills interests you?",
-        "ja_JP": ""
+        "ja_JP": "仕事で次に学びたいスキルを2, 3個教えてください。 興味のあるスキルについてはどうですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.272Z",
@@ -681,7 +681,7 @@
       "id": 378,
       "question": {
         "en": "What other roles here could you see yourself in down the line? Or what areas would you like to explore?",
-        "ja_JP": ""
+        "ja_JP": "ここで普段の仕事の他にどんな役割を果たしましたか？ どんな領域を模索したいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.275Z",
@@ -691,7 +691,7 @@
       "id": 379,
       "question": {
         "en": "If you were to create your ideal position, how would it differ from what you are currently doing?",
-        "ja_JP": ""
+        "ja_JP": "もし理想的な自分のポジションを作れるとしたら、今とはどう変わりますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.278Z",
@@ -701,7 +701,7 @@
       "id": 380,
       "question": {
         "en": "How is your current work helping or hurting your professional development?",
-        "ja_JP": ""
+        "ja_JP": "今の仕事は、あなたのプロフェッショナル能力の形成にどのように役立っていますか？ あるいは妨げになっていますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.290Z",
@@ -711,7 +711,7 @@
       "id": 381,
       "question": {
         "en": "Which career or development goals do you feel like you\u2019re not able to focus on right now?",
-        "ja_JP": ""
+        "ja_JP": "キャリアや開発での目標のうち、今集中できていないと思うものは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.293Z",
@@ -721,7 +721,7 @@
       "id": 382,
       "question": {
         "en": "What else can I be doing to help you grow\/advance in your career?",
-        "ja_JP": ""
+        "ja_JP": "あなたのキャリアを支援するために、私は他に何ができますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.296Z",
@@ -731,7 +731,7 @@
       "id": 383,
       "question": {
         "en": "Imagine it\u2019s two years from now, and things have gone well: What has been your role in that? What does your role look like?",
-        "ja_JP": ""
+        "ja_JP": "今から2年間をイメージしてください。物事が順調に進みました・・・。あなたの役割は何でしたか？ あなたの役割はどんなものですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.307Z",
@@ -741,7 +741,7 @@
       "id": 384,
       "question": {
         "en": "Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?",
-        "ja_JP": ""
+        "ja_JP": "前回のミーティング以降、あなたの長期目標について何か考えましたか？ あなたの最新の考えはどうでしょう？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.310Z",
@@ -751,7 +751,7 @@
       "id": 385,
       "question": {
         "en": "Where do you see yourself in three years? Five years?",
-        "ja_JP": ""
+        "ja_JP": "3年後、あなたはどこにますか？ 5年後はどうでしょう？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.313Z",
@@ -761,7 +761,7 @@
       "id": 386,
       "question": {
         "en": "What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?",
-        "ja_JP": ""
+        "ja_JP": "今後半年から1年の間で達成したい仕事上の目標は何ですか？ なぜそう考えますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.326Z",
@@ -771,7 +771,7 @@
       "id": 387,
       "question": {
         "en": "To help identify and clarify the goal: What do you want to achieve? What will you do to achieve it? When will you do it? Who do you need to involve? When should you see results?",
-        "ja_JP": ""
+        "ja_JP": "目標をはっきりさせるために聞きます。あなたは何を成し遂げたいですか？ 成し遂げるために何をしますか？ いつやる予定ですか？ 誰を巻き込む必要があるでしょうか？ いつ結果を出す必要がありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.328Z",
@@ -781,7 +781,7 @@
       "id": 388,
       "question": {
         "en": "What about this goal is important to you and what will be different when you achieve the goal?",
-        "ja_JP": ""
+        "ja_JP": "この目標はあなたにとってどんな重要性を持っていますか？ 達成すると何が変わるでしょうか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.331Z",
@@ -791,7 +791,7 @@
       "id": 389,
       "question": {
         "en": "What sort of progress have you made on the next steps we discussed last time?",
-        "ja_JP": ""
+        "ja_JP": "前回の1on1から、次のステップに向けてどんな進捗がありましたか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.343Z",
