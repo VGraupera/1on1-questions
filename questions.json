@@ -2218,7 +2218,7 @@
       "id": 534,
       "question": {
         "en": "Do you feel like you\u2019re on the same page with the team? How often do you think you need meetings to ensure you stay that way?",
-        "ja_JP": "チームと同じページにいると思いますか？　どれくらい頻繁にそれを確認するためのミーティングを行わないといけないとおもいますか？"
+        "ja_JP": "チームと共通の認識を持っていると思いますか？　どれくらい頻繁にそれを確認するためのミーティングを行わないといけないと思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.174Z",
@@ -2228,7 +2228,7 @@
       "id": 535,
       "question": {
         "en": "Are there any meetings or discussions you feel you should be a part of that you\u2019re not? Are you included in any you don\u2019t want to be a part of?",
-        "ja_JP": "自分が参加するべき会議や議論があると感じますか？ 参加したくないのに巻き込まれているものはありますか？"
+        "ja_JP": "自分が参加するべき会議や議論がもっとあると感じますか？ 参加したくないのに巻き込まれているものはありますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.177Z",
@@ -2288,7 +2288,7 @@
       "id": 541,
       "question": {
         "en": "Are you uncomfortable giving any of your peers constructive criticism? If so, why?",
-        "ja_JP": "同僚に建設的な批判を行うのは難しいですか？　それはどうしてですか？"
+        "ja_JP": "同僚に建設的な批判を行うのは気まずいですか？　それはどうしてですか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.212Z",
