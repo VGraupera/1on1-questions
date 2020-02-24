@@ -307,45 +307,45 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 
 ## ワーク・ライフ
 * How are you feeling about work?
-* How are you going to approach this?
-* How are you planning to balance work and personal life this year?
+* これについてどのようにやろうと思っていますか？
+* 今年のワークライフバランスはどのようにやっていこうと考えていますか？
 * How can I help…? (be more productive/happier at work/enjoy work more/etc)
-* How do you feel about your work/life balance?
-* How is your workload right now?
+* あなたのワークライフバランスについて、どう感じていますか？
+* いまいま忙しすぎてないですか？
 * If you could change one thing about your job today, what would you change?
 * Is there anything that you need from me?
 * Is there anything that you’re struggling with?
-* Is there anything you’d like to be doing on your own time to relieve stress that you’re not getting to? How can I help you achieve those personal goals?
+* あなたの時間をつかってやりたいけどやれてないストレス軽減方法はありますか？　それをできるようにするために私が手伝えることはありますか？
 * What about work is frustrating?
 * What about your job is most satisfying for you?
-* What are 3 things could we do to improve your productivity if money was no object?
+* お金以外で、あなたの生産性を向上させる3つのことを教えて下さい。
 * What are the biggest time wasters for you each week?
 * What are the most important things you will focus on before we meet next?
-* What are you doing for yourself outside of work?
+* 仕事以外であなた自身のためにやっていることってありますか？
 * What are your most significant accomplishments since we last met?
 * 仕事で自信のある分野は何ですか？
-* What could we change about work that would improve the rest of your life?
+* あなたの人生をよりよいものにするために、仕事で変えるべき部分はありますか？
 * What do you do when you feel low energy or unmotivated?
-* What does your ideal weekday look like?
+* あなたの理想的な平日はどのようなものですか？
 * What is an ideal, productive day at work for you? Walk me through the day…
 * What is the most important thing we need to discuss today?
 * What makes you excited and motivated to work on a project?
 * What obstacles are you encountering right now?
-* What part of the day do you have the most energy and focus? When do you have the least? What changes could we make to your work schedule to accommodate this?
+* 一日の中でもっとも集中できているとおもうのはいつですか？ 一番集中できていないのはいつですか？　いつでも集中して働けるようにするために勤務スケジュールに変更を加えるとしたらどういったことが良いでしょうか？
 * What part of your work routine do you find is working best? What area do you want to improve?
-* What questions do you have about this project?
-* What stands in your way?
-* What suggestions do you have?
-* What was difficult this week? what have you learned?
-* What were your biggest time wasters or roadblocks last week or the week before?
+* プロジェクトについてなにか質問はありますか？
+* あなたの邪魔になるものはなにですか？
+* なにか提案はありますか？
+* 今週難しかった点は何ですか？　そこから何を学べましたか？
+* 先週、または先々週でもっとも時間を浪費した、もしくは障害になったものは何ですか？
 * なにか不安なことはありますか？
 * なにか不安なことはありあすか？　思うことがあれば教えてもらえますか？
-* What, if anything, did you used to do that you find you don’t have time for right now?
+* やろうとおもってたけど時間がない！　という事って今今ありますか？
 * What’s an inexpensive thing we could do to improve our office environment?
-* When is your next vacation?
-* When was your last vacation? 
+* 次はいつ長期休暇を取る予定ですか？
+* 最後に長期休暇をとったのはいつですか？
 * When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?
-* Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?
+* 一日の中でもっとも生産的だとおもうのはいつですか？　一番やる気も集中力も無いと感じるのはいつですか？ 仕事で一日を最大限に有効活用するために何を変えればいいと思いますか？
 
 
 ## FAQ
