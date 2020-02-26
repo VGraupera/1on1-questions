@@ -808,7 +808,7 @@
       "id": 390,
       "question": {
         "en": "What development areas do you want to work on in the coming weeks?",
-        "ja_JP": ""
+        "ja_JP": "今後数週間でどんな分野の成長に取り組みたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.345Z",
@@ -818,7 +818,7 @@
       "id": 391,
       "question": {
         "en": "What actions will you take before our next 1-on-1 to make progress on X? (Also discuss and agree on actions you will take to help.)",
-        "ja_JP": ""
+        "ja_JP": "Xを進めるのに、次の1on1までにどんなことに取り組みますか？ (あなたの支援についても議論して、合意を取りましょう)"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.348Z",
@@ -828,7 +828,7 @@
       "id": 392,
       "question": {
         "en": "During this meeting you\u2019ve mentioned that you\u2019d like to pursue X. What steps can you take toward that before our next 1-on-1?",
-        "ja_JP": ""
+        "ja_JP": "この1on1で、あなたはXを追求すると言いました。次の1on1までに、Xに向けてどんなことができますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.359Z",
@@ -838,7 +838,7 @@
       "id": 393,
       "question": {
         "en": "Have you ever felt undervalued here?",
-        "ja_JP": ""
+        "ja_JP": "ここで過小評価されると感じたことはありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.361Z",
@@ -848,7 +848,7 @@
       "id": 394,
       "question": {
         "en": "What are the projects you would be interested in working on next?",
-        "ja_JP": ""
+        "ja_JP": "次の仕事として興味を持っているプロジェクトは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.365Z",
@@ -858,7 +858,7 @@
       "id": 396,
       "question": {
         "en": "How do you think about your progress on your big goals? What needs to be done to move towards the goals? What can we do to help?",
-        "ja_JP": ""
+        "ja_JP": "あなたの大きな目標に向けた進捗はどうですか？ その目標に向けてやらなければならないことは何ですか？ 私たちに助けられることは何ですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.379Z",
@@ -868,7 +868,7 @@
       "id": 397,
       "question": {
         "en": "Which part of the work here do you feel as most relevant to your long-term goals? What kinds of projects do you want to take part in to move toward your goals?",
-        "ja_JP": ""
+        "ja_JP": "ここでの仕事のどの部分が、最もあなたの長期目標に関係していると思いますか？ あなたの目標に向かうために、どんなプロジェクトに参加したいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.392Z",
@@ -878,7 +878,7 @@
       "id": 398,
       "question": {
         "en": "Do you feel like you are learning at work? What are the new things you learned lately? What are the areas you want to learn about?",
-        "ja_JP": ""
+        "ja_JP": "仕事で学びがあると感じていますか？ あなたが最近学んだ新しいことはなんですか？ どんな分野を学びたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.394Z",
@@ -888,7 +888,7 @@
       "id": 399,
       "question": {
         "en": "Do you have the tools you need to reach your goals?",
-        "ja_JP": ""
+        "ja_JP": "目標を達成するのに必要なツールは揃っていますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.397Z",
@@ -898,7 +898,7 @@
       "id": 400,
       "question": {
         "en": "How do you think you did on your performance review this year? What do you think the results will be?",
-        "ja_JP": ""
+        "ja_JP": "今年の勤務評価はどうでしたか？ どんな結果になると思いますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.408Z",
@@ -917,8 +917,8 @@
     {
       "id": 402,
       "question": {
-        "en": "Is there a different way we can develop your skills   outside of traditional training?",
-        "ja_JP": ""
+        "en": "Is there a different way we can develop your skills outside of traditional training?",
+        "ja_JP": "従来のトレーニング以外で、あなたのスキルを向上させる方法はありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.413Z",
@@ -928,7 +928,7 @@
       "id": 403,
       "question": {
         "en": "What would make this your perfect job?",
-        "ja_JP": ""
+        "ja_JP": "完璧な仕事のためには何が必要でしょうか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.422Z",
@@ -938,7 +938,7 @@
       "id": 404,
       "question": {
         "en": "Are there any projects you\u2019d really like to work on if you were given the opportunity?",
-        "ja_JP": ""
+        "ja_JP": "機会があれば参加してみたプロジェクトはありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.425Z",
@@ -948,7 +948,7 @@
       "id": 405,
       "question": {
         "en": "What parts of your job would you like to deepen your skills in or get additional training in?",
-        "ja_JP": ""
+        "ja_JP": "仕事のどんな部分でよりスキルを深めたい、あるいは追加のトレーニングを受けたいと思いますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.436Z",
@@ -958,7 +958,7 @@
       "id": 406,
       "question": {
         "en": "Is there an aspect of your job you would like more help or coaching?",
-        "ja_JP": ""
+        "ja_JP": "仕事のどんな面でもっと助けやコーチングが欲しいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.439Z",
@@ -968,7 +968,7 @@
       "id": 407,
       "question": {
         "en": "What areas of your job do you find difficult that getting better skills at would help?",
-        "ja_JP": ""
+        "ja_JP": "仕事のどんな分野でスキルを向上させるのが難しいと感じますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.451Z",
@@ -978,7 +978,7 @@
       "id": 408,
       "question": {
         "en": "What skills do you have that you think are underutilized?",
-        "ja_JP": ""
+        "ja_JP": "あなたのスキルで、十分に活用されてないと思うものは何でしょう？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.453Z",
@@ -988,7 +988,7 @@
       "id": 409,
       "question": {
         "en": "What capabilities do you want to develop?",
-        "ja_JP": ""
+        "ja_JP": "どんな才能を伸ばしたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.456Z",
@@ -998,7 +998,7 @@
       "id": 410,
       "question": {
         "en": "Tell me about something new you learned since we met last.",
-        "ja_JP": ""
+        "ja_JP": "前回の1on1以降で新しく学んだことを教えてください。"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.459Z",
@@ -1008,7 +1008,7 @@
       "id": 411,
       "question": {
         "en": "What opportunities have you had recently to learn something new?",
-        "ja_JP": ""
+        "ja_JP": "最近、何か新しいことを学ぶ機会はありましたか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.473Z",
@@ -1018,7 +1018,7 @@
       "id": 412,
       "question": {
         "en": "What would you like to learn about in the future?",
-        "ja_JP": ""
+        "ja_JP": "将来、どんなことを学んでみたいですか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.476Z",
@@ -1028,7 +1028,7 @@
       "id": 413,
       "question": {
         "en": "What kind of training or experience would be most helpful to you right now?",
-        "ja_JP": ""
+        "ja_JP": "どんなトレーニングや体験が今、一番役に立っていますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.479Z",
@@ -1038,7 +1038,7 @@
       "id": 414,
       "question": {
         "en": "What do you see as the next step in your career?",
-        "ja_JP": ""
+        "ja_JP": "キャリアの次のステップは何だと思いますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.491Z",
@@ -1048,7 +1048,7 @@
       "id": 415,
       "question": {
         "en": "What goals have you set for your career?",
-        "ja_JP": ""
+        "ja_JP": "あなたのキャリアでどんな目標を設定していますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.494Z",
@@ -1058,7 +1058,7 @@
       "id": 416,
       "question": {
         "en": "How do you feel you are progressing in your career?",
-        "ja_JP": ""
+        "ja_JP": "あなたのキャリアはどのように進んでいますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.497Z",
@@ -1068,7 +1068,7 @@
       "id": 417,
       "question": {
         "en": "What big questions do you have about your career opportunities in the future?",
-        "ja_JP": ""
+        "ja_JP": "将来、キャリアを進めていく機会についてどんな疑問がありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.499Z",
@@ -1078,7 +1078,7 @@
       "id": 418,
       "question": {
         "en": "What are your goals (for our group for you personally)",
-        "ja_JP": ""
+        "ja_JP": "あなたの目標は何ですか？ (チームとして、あるいは個人として)"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.510Z",
@@ -1088,7 +1088,7 @@
       "id": 419,
       "question": {
         "en": "Tell me a story...",
-        "ja_JP": ""
+        "ja_JP": "あなたについての話を聞かせてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.513Z",
@@ -1098,7 +1098,7 @@
       "id": 420,
       "question": {
         "en": "How are you? How is life outside of work?",
-        "ja_JP": ""
+        "ja_JP": "調子はどう？ 仕事以外ではどんな感じ？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.516Z",
@@ -1108,7 +1108,7 @@
       "id": 421,
       "question": {
         "en": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
-        "ja_JP": ""
+        "ja_JP": "休日の過ごし方について聞いてもいいですか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.529Z",
@@ -1118,7 +1118,7 @@
       "id": 422,
       "question": {
         "en": "How are your parents\/grandparents? Where do they live? Do you visit them?",
-        "ja_JP": ""
+        "ja_JP": "ご両親や祖父母の調子はどうですか？ どこに住んでいるのですか？ 帰省してます？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.531Z",
@@ -1128,7 +1128,7 @@
       "id": 423,
       "question": {
         "en": "If they have children: How is [name of child] doing? (Ask something related to their age like starting school, playing sports, or other interests.)",
-        "ja_JP": ""
+        "ja_JP": "子供がいる人に対する質問です。お子さん(分かるなら名前で呼んでみよう)の調子はどうですか？ (年齢に応じて、入学、スポーツ、その他興味の向くものについて尋ねてみよう)"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.533Z",
@@ -1138,7 +1138,7 @@
       "id": 424,
       "question": {
         "en": "What do you like to do in your free time? What are your hobbies?",
-        "ja_JP": ""
+        "ja_JP": "余暇をどんなふうに過ごすのが好きですか？ 趣味は何ですか？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.545Z",
@@ -1148,7 +1148,7 @@
       "id": 425,
       "question": {
         "en": "Who do you really admire? Why? (People often admire those they want to become)",
-        "ja_JP": ""
+        "ja_JP": "あなたが心底尊敬してるのは誰ですか？ それはなぜ？ (人々は自分がなりたい人を尊敬するものです)"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.547Z",
@@ -1158,7 +1158,7 @@
       "id": 426,
       "question": {
         "en": "Tell me about what you\u2019ve been working on.",
-        "ja_JP": ""
+        "ja_JP": "あなたが取り組んでいることについて教えてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.550Z",
@@ -1168,7 +1168,7 @@
       "id": 427,
       "question": {
         "en": "Tell me about your week \u2013 what\u2019s it been like?",
-        "ja_JP": ""
+        "ja_JP": "この1週間について教えてください。どうでした？"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.561Z",
@@ -1178,7 +1178,7 @@
       "id": 428,
       "question": {
         "en": "Tell me about your family\/weekend\/ activities?",
-        "ja_JP": ""
+        "ja_JP": "あなたの家族、週末、活動について教えてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.564Z",
@@ -1188,7 +1188,7 @@
       "id": 429,
       "question": {
         "en": "Tell me about anything you stumbled over.",
-        "ja_JP": ""
+        "ja_JP": "上手く行かなかったことについて教えてください。"
       },
       "category": "Conversation starters",
       "created_at": "2017-11-18T14:26:14.566Z",
