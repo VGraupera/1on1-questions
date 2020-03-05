@@ -248,7 +248,7 @@
       "id": 327,
       "question": {
         "en": "What is the biggest challenge you are currently facing? How can I help with that?",
-        "ja_JP": "あなたが現在直面している最大の課題は何ですか？　また、私にどんな手助けができますか？"
+        "ja_JP": "あなたが現在立ち向かおうとしている最も大きな挑戦は何ですか？　また、私にどんな手助けができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.979Z",
@@ -358,7 +358,7 @@
       "id": 339,
       "question": {
         "en": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
-        "ja_JP": "もっとコーチングをしたいですか？　あなたの仕事のどういった部分で、もっと手助けやコーチングをして欲しいと思いますか？"
+        "ja_JP": "もっとコーチングを受けたいですか？　あなたの仕事のどういった部分で、もっと手助けやコーチングをして欲しいと思いますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.051Z",
