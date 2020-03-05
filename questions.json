@@ -178,7 +178,7 @@
       "id": 320,
       "question": {
         "en": "How can I make your days more fulfilling?",
-        "ja_JP": ""
+        "ja_JP": "あなたの日常をもっと充実させるために、私にできることはありますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.938Z",
@@ -188,7 +188,7 @@
       "id": 321,
       "question": {
         "en": "What can I be doing better to help you in your job?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事を手助けするために、私がもっとできることは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.950Z",
@@ -198,7 +198,7 @@
       "id": 322,
       "question": {
         "en": "Are there any obstacles I can remove for you?",
-        "ja_JP": ""
+        "ja_JP": "私があなたのために取り除くことができる障害はありますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.953Z",
@@ -208,7 +208,7 @@
       "id": 323,
       "question": {
         "en": "What can I do to help you achieve you current goals and priorities?",
-        "ja_JP": ""
+        "ja_JP": "あなたが現在の目標と優先事項を達成するために、私が手伝えることはありますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.956Z",
@@ -218,7 +218,7 @@
       "id": 324,
       "question": {
         "en": "What can I do to make things more manageable?",
-        "ja_JP": ""
+        "ja_JP": "物事をより管理しやすくするために、私に何ができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.959Z",
@@ -228,7 +228,7 @@
       "id": 325,
       "question": {
         "en": "How might I make this project more challenging or interesting for you?",
-        "ja_JP": ""
+        "ja_JP": "あなたにとってこのプロジェクトをより挑戦的、または面白くするために、どうすれば良いですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.971Z",
@@ -238,7 +238,7 @@
       "id": 326,
       "question": {
         "en": "What do you think I should know about the project, but might not?",
-        "ja_JP": ""
+        "ja_JP": "このプロジェクトについて、私が知っておくべきだと思うことは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.976Z",
@@ -248,7 +248,7 @@
       "id": 327,
       "question": {
         "en": "What is the biggest challenge you are currently facing? How can I help with that?",
-        "ja_JP": ""
+        "ja_JP": "あなたが現在立ち向かおうとしている最も大きな挑戦は何ですか？　また、私にどんな手助けができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.979Z",
@@ -258,7 +258,7 @@
       "id": 328,
       "question": {
         "en": "At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?",
-        "ja_JP": ""
+        "ja_JP": "この1週間のどの時点で、仕事に最も不満を感じましたか？　それを治めるために私にできることは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.982Z",
@@ -268,7 +268,7 @@
       "id": 329,
       "question": {
         "en": "What additional resources can I provide for you between now and the next time we meet?",
-        "ja_JP": ""
+        "ja_JP": "次に会うまでに、私があなたに提供できる追加のリソースは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.995Z",
@@ -278,7 +278,7 @@
       "id": 330,
       "question": {
         "en": "I\u2019ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?",
-        "ja_JP": ""
+        "ja_JP": "最近の1on1がかなり表面的なものになってしまっていることに気がつきました。このミーティングに対するあなたの印象はどうですか？　何か異なる、またはより良い取り組みができるでしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.998Z",
@@ -288,7 +288,7 @@
       "id": 331,
       "question": {
         "en": "What would you like to see change about these discussions? How could we make them more useful for you?",
-        "ja_JP": ""
+        "ja_JP": "これらの議論によって何が変わって欲しいと思いますか？　どうすればあなたにとってより有益な議論となりますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.009Z",
@@ -298,7 +298,7 @@
       "id": 332,
       "question": {
         "en": "I\u2019m trying to make my 1-on-1s better and would appreciate your honest feedback on this one \u2014 what did you like about it, and what could be improved?",
-        "ja_JP": ""
+        "ja_JP": "私は1on1を改善していきたいと思っているため、あなたから率直なフィードバックを貰えるとありがたいです。この1on1のどういうところがあなたにとって好ましかったですか？　また、何を改善することができましたか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.013Z",
@@ -308,7 +308,7 @@
       "id": 334,
       "question": {
         "en": "I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?",
-        "ja_JP": ""
+        "ja_JP": "私はマネージャーとしての自分を改善していきたいと思っているため、あなたの助けが必要です。来週、私があなたのマネージャーとしてより良くなるための事柄を1つか2つ、フィードバックしてもらうことはできますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.028Z",
@@ -318,7 +318,7 @@
       "id": 335,
       "question": {
         "en": "What can I do to help you enjoy your work more or remove roadblocks to progress?",
-        "ja_JP": ""
+        "ja_JP": "あなたが仕事をもっと楽しんだり、進行を妨げる障害を取り除いたりするために、私にできることは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.030Z",
@@ -328,7 +328,7 @@
       "id": 336,
       "question": {
         "en": "Which areas would you like more or less direction from me on your work?",
-        "ja_JP": ""
+        "ja_JP": "あなたの仕事の、どの分野で私の指示がもっと欲しい、または減らして欲しいですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.033Z",
@@ -338,7 +338,7 @@
       "id": 337,
       "question": {
         "en": "What are your impressions of our 1-on-1s? What could we do differently or better?",
-        "ja_JP": ""
+        "ja_JP": "この1on1の印象はどうですか？　何か異なる、またはより良い取り組みができるでしょうか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.045Z",
@@ -348,7 +348,7 @@
       "id": 338,
       "question": {
         "en": "Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?",
-        "ja_JP": ""
+        "ja_JP": "あなたは十分なフィードバックを受け取っていると思いますか？　フィードバックはあなた個人の成長に役立っていますか？　あなたが求めるフィードバックを得るために、私に何ができますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.048Z",
@@ -358,7 +358,7 @@
       "id": 339,
       "question": {
         "en": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
-        "ja_JP": ""
+        "ja_JP": "もっとコーチングを受けたいですか？　あなたの仕事のどういった部分で、もっと手助けやコーチングをして欲しいと思いますか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.051Z",
