@@ -3,7 +3,7 @@
 const fs = require('fs');
 const questionsJson = require('./questions.json');
 
-function sortQuestions (a, b) {
+function sortQuestions(a, b) {
   // case insensitive sort
   const qA = a.question.en.toUpperCase();
   const qB = b.question.en.toUpperCase();
@@ -15,11 +15,17 @@ function sortQuestions (a, b) {
   }
   return 0;
 }
-function categoryMapReducer (accumulator, item) {
+function stringToSlug(string) {
+  return string
+    .toLowerCase()
+    .replace(/ /g, '-')
+    .replace(/[^\w-]+/g, '');
+}
+function categoryMapReducer(accumulator, item) {
   if (accumulator[item.category]) {
-    accumulator[item.category] = [ ...accumulator[item.category], item ];
+    accumulator[item.category] = [...accumulator[item.category], item];
   } else {
-    accumulator[item.category] = [ item ];
+    accumulator[item.category] = [item];
   }
   return accumulator;
 };
@@ -28,7 +34,7 @@ function generateQuestionSectionReducer(lang, i18nCategories) {
     const i18nCategory = i18nCategories[category] && i18nCategories[category][lang];
     return [
       ...accumulator,
-      `\n\n## ${i18nCategory || category}`,
+      `\n## ${i18nCategory || category}`,
       ...items.sort(sortQuestions).map((item) => `* ${item.question[lang] || item.question.en}`)
     ];
   }
@@ -39,6 +45,12 @@ function getReadmeName(lang) {
   }
   return `README.${lang}.md`;
 }
+function tableOfContentsReducer(accumulator, category) {
+  return [
+    ...accumulator,
+    `\n- [${category}](#${stringToSlug(category)})`
+  ];
+}
 
 const title = `# 1 on 1 Meeting Questions
 Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/`;
@@ -47,21 +59,24 @@ const faq = `
 ## FAQ
 
 Why is there also a JSON file?
-- it can be directly consumed by apps
+- It can be directly consumed by apps
 - README.md can be generated from json file so you only have to make changes in one place`;
 const contributing = `
 ## Contributing
 1. Fork repo
-2. Add your question to \`questions.json\` or provide README.md updates through \`index.js\`
-3. Run \`npm start\` to regenerate README.md
-4. Create new Pull Request
+2. Add your question to \`questions.json\`.
+3. Create new Pull Request
+
+You can update the README manually running \`npm start\` but there is GitHub action that will automatically update the README with your questions.
 `;
 
 const categoryMap = questionsJson.questions.reduce(categoryMapReducer, {});
 for (const lang of questionsJson.languages) {
   const questionsBySection = Object.entries(categoryMap).reduce(generateQuestionSectionReducer(lang, questionsJson.i18nCategories), []);
+  const tableOfContents = Object.keys(categoryMap).reduce(tableOfContentsReducer, ['\n## Table of Contents']).join('');
   const content = [
     title,
+    tableOfContents,
     ...questionsBySection,
     faq,
     contributing
