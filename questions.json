@@ -68,7 +68,7 @@
       "id": 309,
       "question": {
         "en": "What aspect of your job you would like more help or coaching?",
-        "ja_JP": "仕事のどのような面でもっと助けやコーチンがほしいですか？"
+        "ja_JP": "仕事のどのような面でもっと助けやコーチングがほしいですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.881Z",
@@ -148,7 +148,7 @@
       "id": 317,
       "question": {
         "en": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
-        "ja_JP": "私がチームのマネージャとしてしやっていることで、気に入ってること、継続すべきことは何ですか？"
+        "ja_JP": "私がチームのマネージャとしてやっていることで、気に入ってること、継続すべきことは何ですか？"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.930Z",
@@ -938,7 +938,7 @@
       "id": 404,
       "question": {
         "en": "Are there any projects you\u2019d really like to work on if you were given the opportunity?",
-        "ja_JP": "機会があれば参加してみたプロジェクトはありますか？"
+        "ja_JP": "機会があれば参加してみたいプロジェクトはありますか？"
       },
       "category": "Career development",
       "created_at": "2017-11-18T14:26:14.425Z",
@@ -1368,7 +1368,7 @@
       "id": 449,
       "question": {
         "en": "Do you feel challenged at work? Are you learning new things?",
-        "ja_JP": "仕事で新しいことに挑戦できていると思いますか？ 新しいここを学んでいますか？"
+        "ja_JP": "仕事で新しいことに挑戦できていると思いますか？ 新しいことを学んでいますか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.677Z",
@@ -1888,7 +1888,7 @@
       "id": 501,
       "question": {
         "en": "In our last 1-on-1 you mentioned that you\u2019d like to grow in X \u2014 how has that been going?",
-        "ja_JP": "前回の1 on 1でXについて成長したいといっていましたが、それの進捗はどうですか？"
+        "ja_JP": "前回の1 on 1でXについて成長したいと言っていましたが、それの進捗はどうですか？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.991Z",
@@ -1898,7 +1898,7 @@
       "id": 502,
       "question": {
         "en": "In our last 1-on-1 you mentioned you were frustrated by X and wanted to try Y as a solution. How has that been going?",
-        "ja_JP": "前回の1 on 1でXがうまく言ってなくて、解決のためにYを試してみたいといっていましたが、あれってどうなりました？"
+        "ja_JP": "前回の1 on 1でXがうまくいってなくて、解決のためにYを試してみたいと言っていましたが、あれってどうなりました？"
       },
       "category": "Job satisfaction",
       "created_at": "2017-11-18T14:26:14.993Z",
@@ -2158,7 +2158,7 @@
       "id": 528,
       "question": {
         "en": "Which company values do you like the most? Which the least? Why?",
-        "ja_JP": "会社の価値観のどれが一番好きで、それが一番嫌いですか？　理由も教えて下さい"
+        "ja_JP": "会社の価値観のどれが一番好きで、どれが一番嫌いですか？　理由も教えて下さい"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.139Z",
@@ -2478,7 +2478,7 @@
       "id": 564,
       "question": {
         "en": "How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?",
-        "ja_JP": "チームの性格についてどんな風に表現しますか？　どういった人がチームに馴染むと思いますか？　どういった人が、チームに現在チームに欠けているものを補ってくれると思いますか？"
+        "ja_JP": "チームの性格についてどんな風に表現しますか？　どういった人がチームに馴染むと思いますか？　どういった人が、現在チームに欠けているものを補ってくれると思いますか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.353Z",
@@ -2488,7 +2488,7 @@
       "id": 565,
       "question": {
         "en": "How would you say we're doing at working together as team? What makes you say that?",
-        "ja_JP": "チームとして一緒に働いていいることに対してどう思いますか？　またどうしてそう思いましたか？"
+        "ja_JP": "チームとして一緒に働いていることに対してどう思いますか？　またどうしてそう思いましたか？"
       },
       "category": "Team and company",
       "created_at": "2017-11-18T14:26:15.356Z",
@@ -2888,7 +2888,7 @@
       "id": 607,
       "question": {
         "en": "What worries you? What\u2019s on your mind?",
-        "ja_JP": "なにか不安なことはありあすか？　思うことがあれば教えてもらえますか？"
+        "ja_JP": "なにか不安なことはありますか？　思うことがあれば教えてもらえますか？"
       },
       "category": "Work-life",
       "created_at": "2017-11-18T14:26:15.601Z",
