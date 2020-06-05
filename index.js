@@ -33,7 +33,7 @@ function questionSectionReducer(accumulator, [category, items]) {
   return [
     ...accumulator,
     `\n## ${category}`,
-    ...items.sort(sortQuestions).map((item) => `* ${item.question}`)
+    ...items.sort(sortQuestions).map((item) => `* ${item.question_japanese === "" ? item.question : item.question_japanese + " : " + item.question}`)
   ];
 }
 function tableOfContentsReducer(accumulator, category) {
@@ -45,8 +45,13 @@ function tableOfContentsReducer(accumulator, category) {
 
 const title = `# 1 on 1 Meeting Questions
 Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/`;
-const faq = `
 
+const translation = `
+## 翻訳について
+[DeepL](https://www.deepl.com/home)を使っています。
+一部、日本語として意味が通じないものは自分で翻訳しています。`;
+
+const faq = `
 ## FAQ
 
 Why is there also a JSON file?
@@ -66,6 +71,7 @@ const questionsBySection = Object.entries(categoryMap).reduce(questionSectionRed
 const tableOfContents = Object.keys(categoryMap).reduce(tableOfContentsReducer, ['\n## Table of Contents']).join('');
 const content = [
   title,
+  translation,
   tableOfContents,
   ...questionsBySection,
   faq,

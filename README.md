@@ -1,6 +1,10 @@
 # 1 on 1 Meeting Questions
 Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
 
+## 翻訳について
+[DeepL](https://www.deepl.com/home)を使っています。
+一部、日本語として意味が通じないものは自分で翻訳しています。
+
 ## Table of Contents
 - [About Manager](#about-manager)
 - [Career development](#career-development)
@@ -11,51 +15,51 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 - [Work-life](#work-life)
 
 ## About Manager
-* Are there any obstacles I can remove for you?
-* As your manager, what would you like me to stop, start, or continue doing?
-* At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
-* Do you feel you’re getting enough feedback? Why/why not?
-* Do you have any feedback for me?
-* Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
-* How can I better support you?
-* How can I make your days more fulfilling?
-* How could I do a better job communicating with you?
-* How do you prefer to receive feedback?
-* How might I make this project more challenging or interesting for you?
-* I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
-* If you were me, what changes would you make?
-* I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
-* I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
-* What additional resources can I provide for you between now and the next time we meet?
-* What are your impressions of our 1-on-1s? What could we do differently or better?
-* What are your thoughts on my changes?
-* What aspect of your job you would like more help or coaching?
-* What aspects of your work would you like more or less direction from me?
-* What can I be doing better to help you in your job?
-* What can I do as a manager to make your work easier?
-* What can I do better or differently as your manager to support you?
-* What can I do for you that I'm not?
-* What can I do to help remove obstacles?
-* What can I do to help you achieve you current goals and priorities?
-* What can I do to help you enjoy your work more or remove roadblocks to progress?
-* What can I do to help you?
-* What can I do to make things more manageable?
-* What can I do to make your job easier?
-* What could I do as a manager to make your work easier?
-* What do you like about my management style? What do you dislike?
-* What do you think I should know about the project, but might not?
-* What have your past managers done that you’d like me to also do or not do?
-* What is something I could do better? What feedback do you have for me?
-* What is something I could have done better? What are the situations that I could have helped more but didn’t?
-* What is the biggest challenge you are currently facing? How can I help with that?
-* What is the one thing that you need the most from me?
-* What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
-* What would you like to know about me?
-* What would you like to see change about these discussions? How could we make them more useful for you?
-* What’s your favorite thing I do as a manager of this team I should keep doing?
-* Where do you think I can be most helpful?
-* Which areas would you like more or less direction from me on your work?
-* Would you like more coaching? What aspect of your job do you like more help and coaching on?
+* 私があなたのために取り除ける障害物はありますか？ : Are there any obstacles I can remove for you?
+* あなたのマネージャーとして、何をやめてほしいのか、何を始めてほしいのか、何を続けてほしいのか。 : As your manager, what would you like me to stop, start, or continue doing?
+* この1週間で、あなたが仕事に最も不満を感じたり、落胆したりしたのはどの時点ですか？それをどうにかするために、私にできることは何ですか？ : At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
+* 十分なフィードバックが得られていると感じますか？その感じる理由と感じない理由は？ : Do you feel you’re getting enough feedback? Why/why not?
+* 何か私に対してフィードバックはありますか？ : Do you have any feedback for me?
+* あなたは十分なフィードバックを受けていると思いますか？フィードバックは、あなたの成長に役立ちますか？望むフィードバックを得るためにはどうすればいいですか？ : Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
+* どうしたらより良いサポートができますか？ : How can I better support you?
+* どうすれば日々を充実させることができますか？ : How can I make your days more fulfilling?
+* どうしたらもっとうまくコミュニケーションが取れますか？ : How could I do a better job communicating with you?
+* どのようにフィードバックを受け取るのがいいですか？ : How do you prefer to receive feedback?
+* あなたにとって、このプロジェクトをよりやりがいのあるものにするにはどうしたらいいでしょうか？ : How might I make this project more challenging or interesting for you?
+* 私はマネージャーとして改善したいと思っていますし、あなたの助けを借りたいと思っています。来週、私がマネージャーとしてもっと良くできると思うことを1つから2つ教えてもらえませんか？ : I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
+* あなたが私だったら、どんな変化をしますか？ : If you were me, what changes would you make?
+* 1on1をより良いものにしようとしているので、この1つについての率直な意見をお願いします。 : I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
+* ここ数回の1on1はかなり表面的なままでしたね。今回のミーティングについての率直な感想をお聞かせください。何が違うのか、何が良いのかを教えて下さい。 : I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
+* 今から次に会うまでの間に、私が提供できる追加の助けは何ですか？ : What additional resources can I provide for you between now and the next time we meet?
+* 1on1の感想を教えてください。何が違うのか、何が良いのか？ : What are your impressions of our 1-on-1s? What could we do differently or better?
+* あなたは私の変化をどう思いますか？ : What are your thoughts on my changes?
+* あなたの仕事のどのような面で、もっと助けてほしい、コーチングしてほしいと思いますか？ : What aspect of your job you would like more help or coaching?
+* あなたの業務のどのような部分に私からの指示が欲しいと思いますか？ : What aspects of your work would you like more or less direction from me?
+* あなたが仕事をする上で、私は何をすればいいのか？ : What can I be doing better to help you in your job?
+* マネージャーとしてあなたの仕事を楽にするためにはどうしたらいいですか？ : What can I do as a manager to make your work easier?
+* あなたをサポートするために、上司として何をすればいいですか？何をすれば違いますか？ : What can I do better or differently as your manager to support you?
+* 私に何かできることはありませんか？ : What can I do for you that I'm not?
+* 障害物を取り除くために私に何ができますか？ : What can I do to help remove obstacles?
+* あなたの現在の目標や優先順位を達成するために、私にできることは何でしょうか？ : What can I do to help you achieve you current goals and priorities?
+* あなたが仕事をもっと楽しんでもらうために、あるいは仕事を進める上での障害物を取り除くために、私に何かできることはありますか？ : What can I do to help you enjoy your work more or remove roadblocks to progress?
+* 私に何かできることはありますか？ : What can I do to help you?
+* 私が何をすればもっと何とかなりますか？ : What can I do to make things more manageable?
+* あなたの仕事を楽にするためには私はどうしたらいいですか？ : What can I do to make your job easier?
+* あなたの仕事を楽にするために、マネージャーとしてできることは何ですか？ : What could I do as a manager to make your work easier?
+* 私のマネジメントスタイルのどこが好きですか？何が嫌いですか？ : What do you like about my management style? What do you dislike?
+* 私が知っておいた方がいいけど、知らないかもしれないことはありますか？ : What do you think I should know about the project, but might not?
+* あたなの元マネージャーの方にもやってほしいこと、やってはほしくないことを教えてください。 : What have your past managers done that you’d like me to also do or not do?
+* 何か私にできることはありますか？私に対してどんなフィードバックがありますか？ : What is something I could do better? What feedback do you have for me?
+* 私がもっとうまくできたことは何ですか？私がもっと助けられたのに、助けられなかった状況はありましたか？ : What is something I could have done better? What are the situations that I could have helped more but didn’t?
+* あなたが現在直面している最大の課題は何ですか？私が助けられることがあった場合、どうすればいいのでしょうか？ : What is the biggest challenge you are currently facing? How can I help with that?
+* あなたが私に一番必要としているものは何ですか？ : What is the one thing that you need the most from me?
+* 私からの毎日の仕事への関与の割合はどのくらいですか？多い方がいいですか、少ない方がいいですか？ : What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
+* 私の何か知りたいことはありますか？ : What would you like to know about me?
+* これらの議論について、あなたは何を変えてほしいと思いますか？どのようにすれば、より有益なものにできるでしょうか？ : What would you like to see change about these discussions? How could we make them more useful for you?
+* このチームのマネージャーとして続けていくべきことは何ですか？ : What’s your favorite thing I do as a manager of this team I should keep doing?
+* 私がどこで一番役立つと思いますか？ : Where do you think I can be most helpful?
+* あなたが仕事をする上で、私からの指示が欲しい部分はどこですか？ : Which areas would you like more or less direction from me on your work?
+* もっとコーチングを受けたいと思いますか？あなたの仕事のどのような面で、より多くの支援やコーチングを希望しますか？ : Would you like more coaching? What aspect of your job do you like more help and coaching on?
 
 ## Career development
 * Are there any events or training you’d like to attend to help you grow your skills?
@@ -348,7 +352,6 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * When was your last vacation? 
 * When you get stuck on something, what is your process for getting unstuck? Who do you turn to for help?
 * Which part of the day do you feel most productive? When do you feel that your energy and focus are at the lowest level? What are the changes that can be made so you can take the best out of a work day?
-
 
 ## FAQ
 
