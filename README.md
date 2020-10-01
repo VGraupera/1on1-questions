@@ -66,6 +66,8 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * Do you feel we’re helping you advance your career at a pace you would like?
 * Do you have the tools you need to reach your goals?
 * During this meeting you’ve mentioned that you’d like to pursue X. What steps can you take toward that before our next 1-on-1?
+* Are there any specific resources I can provide you to help you pursue X?
+* Is this resource something we should offer others in your situation?
 * Have you ever felt undervalued here?
 * Have you given any more thought to your long-term goals since our last meeting? What are your latest thoughts?
 * How do you feel you are progressing in your career?
