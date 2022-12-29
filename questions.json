@@ -750,7 +750,7 @@
   },
   {
     "id": 421,
-    "question": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are you plans?",
+    "question": "If around a holiday: Do you celebrate [Holiday]? If so, can I ask what are your plans?",
     "category": "Conversation starters",
     "created_at": "2017-11-18T14:26:14.529Z",
     "updated_at": "2017-11-18T14:26:14.529Z"
