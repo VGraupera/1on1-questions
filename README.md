@@ -240,7 +240,7 @@ Mega list compiled from a variety to sources. Also available here: http://www.ma
 * How could we be more creative or innovative as a company?
 * How could we change our team meetings to be more effective?
 * How is the new situation/development affecting your work? What could be getting in the way of your being effective?
-* How well do you feel like you relate to you coworkers? Do you view them as friends, acquaintances, or strangers?
+* How well do you feel like you relate to your coworkers? Do you view them as friends, acquaintances, or strangers?
 * How would you describe the division of work among team members?
 * How would you describe the personality of the team? What sort of person would be a good fit here? What sort of person would add something we're currently missing?
 * How would you rate our communication as a team?
