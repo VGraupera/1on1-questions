@@ -2,6 +2,20 @@
 Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
 
 ## Table of Contents
+
+I wrote a book about 1 on 1 meetings. You can find it here: https://www.amazon.com/Effective-One-Ones-Productive-Meaningful-ebook/dp/B0BY89ZZP4
+
+## Applications using this data
+
+Simple React app from @shershen08 that displays random questions from the list
+https://compassionate-bose-f21503.netlify.app/
+repo here: https://github.com/shershen08/react-tailwind-question-generator
+
+Another app from @perlin, https://1on1questions.netlify.app/
+
+
+
+## Table of Contents
 - [About Manager](#about-manager)
 - [Career development](#career-development)
 - [Conversation starters](#conversation-starters)
