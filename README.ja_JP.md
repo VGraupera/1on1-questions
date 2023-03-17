@@ -1,8 +1,6 @@
 # 1 on 1 Meeting Questions
 Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
 
-## Table of Contents
-
 I wrote a book about 1 on 1 meetings. You can find it here: https://www.amazon.com/Effective-One-Ones-Productive-Meaningful-ebook/dp/B0BY89ZZP4
 
 ## Applications using this data
