@@ -1,36 +1,44 @@
 {
   "languages": [
     "en",
-    "ja_JP"
+    "ja_JP",
+    "es"
   ],
   "i18nCategories": {
     "About Manager": {
       "en": "About Manager",
-      "ja_JP": "マネージャについて"
+      "ja_JP": "マネージャについて",
+      "es": "Acerca del gerente"
     },
     "Career development": {
       "en": "Career development",
-      "ja_JP": "キャリア開発"
+      "ja_JP": "キャリア開発",
+      "es": "Desarrollo profesional"
     },
     "Conversation starters": {
       "en": "Conversation starters",
-      "ja_JP": "会話のきっかけ"
+      "ja_JP": "会話のきっかけ",
+      "es": "Iniciadores de conversación"
     },
     "Job satisfaction": {
       "en": "Job satisfaction",
-      "ja_JP": "働きがい"
+      "ja_JP": "働きがい",
+      "es": "Satisfacción profesional"
     },
     "Other": {
       "en": "Other",
-      "ja_JP": "その他"
+      "ja_JP": "その他",
+      "es": "Otro"
     },
     "Team and company": {
       "en": "Team and company",
-      "ja_JP": "チームと会社"
+      "ja_JP": "チームと会社",
+      "es": "Equipo y empresa"
     },
     "Work-life": {
       "en": "Work-life",
-      "ja_JP": "ワーク・ライフ"
+      "ja_JP": "ワーク・ライフ",
+      "es": "Vida profesional"
     }
   },
   "questions": [
@@ -38,142 +46,156 @@
       "id": 306,
       "question": {
         "en": "If you were me, what changes would you make?",
-        "ja_JP": "あなたが私だったら、どんなことを変えますか？"
+        "ja_JP": "あなたが私だったら、どんなことを変えますか？",
+        "es": "Si fueras yo, ¿qué cambios harías?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.870Z",
-      "updated_at": "2017-11-18T14:26:13.870Z"
+      "updated_at": "2023-03-18T14:26:13.870Z"
     },
     {
       "id": 307,
       "question": {
         "en": "How do you prefer to receive feedback?",
-        "ja_JP": "どんな風にフィードバックを受け取りたいですか？"
+        "ja_JP": "どんな風にフィードバックを受け取りたいですか？",
+        "es": "¿Cómo prefieres recibir feedback?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.874Z",
-      "updated_at": "2017-11-18T14:26:13.874Z"
+      "updated_at": "2023-03-18T14:26:13.874Z"
     },
     {
       "id": 308,
       "question": {
         "en": "Do you feel you\u2019re getting enough feedback? Why\/why not?",
-        "ja_JP": "フィードバックは十分ですか？どうしてそう思いますか？"
+        "ja_JP": "フィードバックは十分ですか？どうしてそう思いますか？",
+        "es": "¿Crees que estás recibiendo suficiente feedback? ¿Por qué o por qué no?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.878Z",
-      "updated_at": "2017-11-18T14:26:13.878Z"
+      "updated_at": "2023-03-18T14:26:13.878Z"
     },
     {
       "id": 309,
       "question": {
         "en": "What aspect of your job you would like more help or coaching?",
-        "ja_JP": "仕事のどのような面でもっと助けやコーチングがほしいですか？"
+        "ja_JP": "仕事のどのような面でもっと助けやコーチングがほしいですか？",
+        "es": "¿En qué aspecto de tu trabajo te gustaría recibir más ayuda o entrenamiento?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.881Z",
-      "updated_at": "2017-11-18T14:26:13.881Z"
+      "updated_at": "2023-03-18T14:26:13.881Z"
     },
     {
       "id": 310,
       "question": {
         "en": "How can I better support you?",
-        "ja_JP": "どうしたらもっとあなたをサポートできますか？"
+        "ja_JP": "どうしたらもっとあなたをサポートできますか？",
+        "es": "¿Cómo puedo apoyarte mejor?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.893Z",
-      "updated_at": "2017-11-18T14:26:13.893Z"
+      "updated_at": "2023-03-18T14:26:13.893Z"
     },
     {
       "id": 311,
       "question": {
         "en": "What could I do as a manager to make your work easier?",
-        "ja_JP": "マネージャとして、どうすればあなたの仕事の助けになりますか？"
+        "ja_JP": "マネージャとして、どうすればあなたの仕事の助けになりますか？",
+        "es": "¿Qué podría hacer como gerente para facilitar tu trabajo?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.896Z",
-      "updated_at": "2017-11-18T14:26:13.896Z"
+      "updated_at": "2023-03-18T14:26:13.896Z"
     },
     {
       "id": 312,
       "question": {
         "en": "What is something I could do better? What feedback do you have for me?",
-        "ja_JP": "私の改善点は何でしょうか？私へフィードバックをお願いします。"
+        "ja_JP": "私の改善点は何でしょうか？私へフィードバックをお願いします。",
+        "es": "¿Qué podría hacer mejor? ¿Qué feedback tienes para mí?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.898Z",
-      "updated_at": "2017-11-18T14:26:13.898Z"
+      "updated_at": "2023-03-18T14:26:13.898Z"
     },
     {
       "id": 313,
       "question": {
         "en": "What aspects of your work would you like more or less direction from me?",
-        "ja_JP": "仕事上、もっと指示が欲しいところ、逆に指示されたくないところはどこでしょうか？"
+        "ja_JP": "仕事上、もっと指示が欲しいところ、逆に指示されたくないところはどこでしょうか？",
+        "es": "¿En qué aspectos de tu trabajo te gustaría recibir más o menos dirección de mí?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.909Z",
-      "updated_at": "2017-11-18T14:26:13.909Z"
+      "updated_at": "2023-03-18T14:26:13.909Z"
     },
     {
       "id": 314,
       "question": {
         "en": "What would you like to know about me?",
-        "ja_JP": "私について知りたいことは何でしょうか？"
+        "ja_JP": "私について知りたいことは何でしょうか？",
+        "es": "¿Qué te gustaría saber sobre mí?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.912Z",
-      "updated_at": "2017-11-18T14:26:13.912Z"
+      "updated_at": "2023-03-18T14:26:13.912Z"
     },
     {
       "id": 315,
       "question": {
         "en": "What do you like about my management style? What do you dislike?",
-        "ja_JP": "私のマネージメント方法で良いところ、悪いところはどこでしょうか？"
+        "ja_JP": "私のマネージメント方法で良いところ、悪いところはどこでしょうか？",
+        "es": "¿Qué te gusta de mi estilo de gestión? ¿Qué no te gusta?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.915Z",
-      "updated_at": "2017-11-18T14:26:13.915Z"
+      "updated_at": "2023-03-18T14:26:13.915Z"
     },
     {
       "id": 316,
       "question": {
         "en": "What have your past managers done that you\u2019d like me to also do or not do?",
-        "ja_JP": "以前のマネージャのやったことで、私にもしてほしいこと、逆にしてほしくないこと何ですか？"
+        "ja_JP": "以前のマネージャのやったことで、私にもしてほしいこと、逆にしてほしくないこと何ですか？",
+        "es": "¿Qué han hecho tus anteriores gerentes que te gustaría que yo también hiciera o no hiciera?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.918Z",
-      "updated_at": "2017-11-18T14:26:13.918Z"
+      "updated_at": "2023-03-18T14:26:13.918Z"
     },
     {
       "id": 317,
       "question": {
-        "en": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
-        "ja_JP": "私がチームのマネージャとしてやっていることで、気に入ってること、継続すべきことは何ですか？"
+        "en": "What's your favorite thing I do as a manager of this team I should keep doing?",
+        "ja_JP": "私がチームのマネージャとしてやっていることで、気に入ってること、継続すべきことは何ですか？",
+        "es": "¿Cuál es tu cosa favorita que hago como gerente de este equipo que debo seguir haciendo?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.930Z",
-      "updated_at": "2017-11-18T14:26:13.930Z"
+      "updated_at": "2023-03-18T00:00:00.000Z"
     },
     {
       "id": 318,
       "question": {
         "en": "Where do you think I can be most helpful?",
-        "ja_JP": "どんな場面で私は最も役に立つと思いますか？"
+        "ja_JP": "どんな場面で私は最も役に立つと思いますか？",
+        "es": "¿En qué situación crees que puedo ser más útil?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.933Z",
-      "updated_at": "2017-11-18T14:26:13.933Z"
+      "updated_at": "2023-03-18T00:00:00.000Z"
     },
     {
       "id": 319,
       "question": {
         "en": "What are your thoughts on my changes?",
-        "ja_JP": "私の行った変更についてどう思いますか？"
+        "ja_JP": "私の行った変更についてどう思いますか？",
+        "es": "¿Qué opinas sobre los cambios que he realizado?"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.935Z",
-      "updated_at": "2017-11-18T14:26:13.935Z"
-    },
+      "updated_at": "2023-03-18T00:00:00.000Z"
+    },    
     {
       "id": 320,
       "question": {

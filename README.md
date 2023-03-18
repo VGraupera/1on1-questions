@@ -64,7 +64,7 @@ Another app from @perlin, https://1on1questions.netlify.app/
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
 * What would you like to know about me?
 * What would you like to see change about these discussions? How could we make them more useful for you?
-* What’s your favorite thing I do as a manager of this team I should keep doing?
+* What's your favorite thing I do as a manager of this team I should keep doing?
 * Where do you think I can be most helpful?
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
